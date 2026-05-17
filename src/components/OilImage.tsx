@@ -3,7 +3,8 @@ import type { Intensity } from "@/lib/types";
 
 /**
  * Renders an olive oil photo when one is supplied, otherwise a styled
- * fallback. Real photos can be dropped in later by setting the `image` field.
+ * fallback. Real photos sit on the same olive-50→olive-100 gradient
+ * as the placeholder so cards look consistent.
  */
 export default function OilImage({
   src,
@@ -18,12 +19,16 @@ export default function OilImage({
 }) {
   if (src) {
     return (
-      // eslint-disable-next-line @next/next/no-img-element
-      <img
-        src={src}
-        alt={name}
-        className={`object-cover ${className}`}
-      />
+      <div
+        className={`grid place-items-center bg-gradient-to-b from-olive-50 to-olive-100 ${className}`}
+      >
+        {/* eslint-disable-next-line @next/next/no-img-element */}
+        <img
+          src={src}
+          alt={name}
+          className="h-full w-full object-contain py-2"
+        />
+      </div>
     );
   }
   return (
