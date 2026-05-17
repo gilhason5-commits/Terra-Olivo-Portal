@@ -235,12 +235,12 @@ for (let i = 0; i < pendingDownloads.length; i++) {
 }
 console.log(`Done: ${ok} downloaded, ${fail} failed`);
 
-// Strip internal _dlIdx field and set certificateImage to null if download failed
+// Strip internal _dlIdx field; fall back to original Airtable URL if download failed
 for (const oil of oilMap.values()) {
   for (const award of oil.awards) {
     if ("_dlIdx" in award) {
       const { url, localPath } = pendingDownloads[award._dlIdx];
-      if (!existsSync(localPath)) award.certificateImage = undefined;
+      if (!existsSync(localPath)) award.certificateImage = url; // use Airtable URL as fallback
       delete award._dlIdx;
     }
   }
