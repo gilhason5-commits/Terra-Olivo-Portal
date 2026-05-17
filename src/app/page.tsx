@@ -1,3 +1,4 @@
+import Image from "next/image";
 import Link from "next/link";
 import ProducerCard from "@/components/ProducerCard";
 import {
@@ -9,16 +10,17 @@ import {
 } from "@/lib/data";
 
 const SPONSORS = [
-  { name: "IOOC International", sub: "Founding Partner" },
-  { name: "Israel Olive Board", sub: "Official Supporter" },
-  { name: "Ministry of Agriculture", sub: "Government Partner" },
-  { name: "Dan Hotels", sub: "Venue Partner" },
-  { name: "Haifa Municipality", sub: "Host City" },
-  { name: "Israel Export Institute", sub: "Trade Partner" },
-  { name: "Mediterranean Olive Forum", sub: "Industry Partner" },
-  { name: "Slow Food Israel", sub: "Cultural Partner" },
-  { name: "Albert Reichmann Foundation", sub: "Supporting Partner" },
-  { name: "Israeli Culinary Institute", sub: "Academic Partner" },
+  { file: "olive-division",   alt: "Olive Division" },
+  { file: "kbuzat-iguda",     alt: "Kbuzat Iguda" },
+  { file: "shaal",            alt: "Sha'al" },
+  { file: "evoo-world",       alt: "EVOO World Ranking" },
+  { file: "reg-calabria",     alt: "Regione Calabria" },
+  { file: "sensory-eval",     alt: "Sensory Evaluation Lab of Crete ACR" },
+  { file: "bajo-aragon",      alt: "Aceite del Bajo Aragón" },
+  { file: "olive-oil-times",  alt: "The Olive Oil Times" },
+  { file: "portal-olivicola", alt: "Portal Olivícola" },
+  { file: "portal-azeite",    alt: "Portal do Azeite" },
+  { file: "mercacei",         alt: "MERCACEI" },
 ];
 
 export default function HomePage() {
@@ -107,18 +109,19 @@ export default function HomePage() {
           <div className="pointer-events-none absolute inset-y-0 right-0 z-10 w-24 bg-gradient-to-l from-olive-800 to-transparent" />
 
 
-          <div className="animate-marquee flex shrink-0 items-center gap-12 whitespace-nowrap">
+          <div className="animate-marquee flex shrink-0 items-center gap-16 whitespace-nowrap">
             {[...SPONSORS, ...SPONSORS].map((s, i) => (
               <div
                 key={i}
-                className="flex flex-col items-center gap-1 rounded-xl border border-olive-800 bg-olive-900/60 px-8 py-4 text-center"
+                className="flex h-20 w-44 shrink-0 items-center justify-center rounded-xl bg-white/10 px-4"
               >
-                <span className="font-serif text-base font-bold text-cream">
-                  {s.name}
-                </span>
-                <span className="text-[10px] font-medium uppercase tracking-[0.15em] text-olive-500">
-                  {s.sub}
-                </span>
+                <Image
+                  src={`/sponsors/${s.file}.png`}
+                  alt={s.alt}
+                  width={160}
+                  height={72}
+                  className="max-h-16 w-auto object-contain"
+                />
               </div>
             ))}
           </div>
