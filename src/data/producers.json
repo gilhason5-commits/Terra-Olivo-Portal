@@ -1,0 +1,38 @@
+[
+  {
+    "slug": "terra-creta",
+    "name": "Terra Creta",
+    "country": "Greece",
+    "region": "Kolymvari, Crete",
+    "founded": 2000,
+    "description": "A pioneering Cretan estate in Kolymvari, Terra Creta combines traditional Koroneiki cultivation with modern, fully traceable milling. Every bottle carries a code linking it back to the grove it came from.",
+    "website": "https://example.com/terra-creta"
+  },
+  {
+    "slug": "olivo-dorato",
+    "name": "Olivo Dorato",
+    "country": "Italy",
+    "region": "Umbria",
+    "founded": 1987,
+    "description": "A family-run Umbrian producer working terraced hillside groves of Moraiolo and Frantoio. Olivo Dorato hand-harvests early to capture the green, peppery character that defines central Italian oil.",
+    "website": "https://example.com/olivo-dorato"
+  },
+  {
+    "slug": "casa-del-sur",
+    "name": "Casa del Sur",
+    "country": "Spain",
+    "region": "Jaén, Andalusia",
+    "founded": 1965,
+    "description": "Set in the olive heartland of Jaén, Casa del Sur farms vast Picual groves and mills within hours of harvest to preserve freshness and polyphenol content.",
+    "website": "https://example.com/casa-del-sur"
+  },
+  {
+    "slug": "messinia-grove",
+    "name": "Messinia Grove",
+    "country": "Greece",
+    "region": "Koroni, Messinia",
+    "founded": 2010,
+    "description": "A boutique Peloponnese estate dedicated to single-variety Koroneiki oil, harvested from centuries-old trees overlooking the Messinian gulf.",
+    "website": "https://example.com/messinia-grove"
+  }
+]

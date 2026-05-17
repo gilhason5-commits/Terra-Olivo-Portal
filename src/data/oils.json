@@ -1,0 +1,110 @@
+[
+  {
+    "slug": "terra-creta-estate-koroneiki",
+    "name": "Estate Koroneiki",
+    "producerSlug": "terra-creta",
+    "country": "Greece",
+    "region": "Kolymvari, Crete",
+    "varieties": ["Koroneiki"],
+    "intensity": "Medium",
+    "harvestYear": 2024,
+    "acidity": 0.2,
+    "description": "A flagship single-estate oil from Kolymvari, pressed within hours of an early October harvest. Balanced and elegant with a long, warming finish.",
+    "tastingNotes": ["Fresh-cut grass", "Green almond", "Tomato leaf", "Gentle pepper"],
+    "image": "",
+    "awards": [
+      { "year": 2025, "prize": "Grand Prestige Gold", "category": "Medium Intensity", "score": 96, "certificateImage": "" },
+      { "year": 2024, "prize": "Prestige Gold", "category": "Medium Intensity", "score": 93, "certificateImage": "" }
+    ]
+  },
+  {
+    "slug": "olivo-dorato-moraiolo-riserva",
+    "name": "Moraiolo Riserva",
+    "producerSlug": "olivo-dorato",
+    "country": "Italy",
+    "region": "Umbria",
+    "varieties": ["Moraiolo", "Frantoio"],
+    "intensity": "Intense",
+    "harvestYear": 2024,
+    "acidity": 0.18,
+    "description": "An assertive Umbrian blend hand-harvested green from terraced hillsides. Powerfully bitter and pungent, built for robust dishes.",
+    "tastingNotes": ["Artichoke", "Black pepper", "Wild herbs", "Bitter greens"],
+    "image": "",
+    "awards": [
+      { "year": 2025, "prize": "Grand Prestige Gold", "category": "Intense Intensity", "score": 97, "certificateImage": "" },
+      { "year": 2024, "prize": "Grand Prestige Gold", "category": "Intense Intensity", "score": 95, "certificateImage": "" },
+      { "year": 2023, "prize": "Prestige Gold", "category": "Intense Intensity", "score": 92, "certificateImage": "" }
+    ]
+  },
+  {
+    "slug": "casa-del-sur-picual-temprano",
+    "name": "Picual Temprano",
+    "producerSlug": "casa-del-sur",
+    "country": "Spain",
+    "region": "Jaén, Andalusia",
+    "varieties": ["Picual"],
+    "intensity": "Intense",
+    "harvestYear": 2024,
+    "acidity": 0.21,
+    "description": "An early-harvest Picual from the heart of Jaén, milled within hours of picking to lock in a vivid green character and high polyphenol content.",
+    "tastingNotes": ["Green tomato", "Fig leaf", "Almond skin", "Peppery finish"],
+    "image": "",
+    "awards": [
+      { "year": 2025, "prize": "Prestige Gold", "category": "Intense Intensity", "score": 94, "certificateImage": "" }
+    ]
+  },
+  {
+    "slug": "messinia-grove-single-koroneiki",
+    "name": "Single Grove Koroneiki",
+    "producerSlug": "messinia-grove",
+    "country": "Greece",
+    "region": "Koroni, Messinia",
+    "varieties": ["Koroneiki"],
+    "intensity": "Delicate",
+    "harvestYear": 2024,
+    "acidity": 0.25,
+    "description": "A delicate, fruit-forward oil from centuries-old trees above the Messinian gulf. Smooth and approachable with a clean, soft finish.",
+    "tastingNotes": ["Ripe apple", "Sweet almond", "Banana", "Mild pepper"],
+    "image": "",
+    "awards": [
+      { "year": 2025, "prize": "Best in Class", "category": "Delicate Intensity", "score": 93, "certificateImage": "" },
+      { "year": 2024, "prize": "Prestige Silver", "category": "Delicate Intensity", "score": 89, "certificateImage": "" }
+    ]
+  },
+  {
+    "slug": "olivo-dorato-frantoio-classico",
+    "name": "Frantoio Classico",
+    "producerSlug": "olivo-dorato",
+    "country": "Italy",
+    "region": "Umbria",
+    "varieties": ["Frantoio"],
+    "intensity": "Medium",
+    "harvestYear": 2024,
+    "acidity": 0.23,
+    "description": "A versatile, everyday Umbrian oil with a classic Frantoio profile: green, herbal and gently bitter.",
+    "tastingNotes": ["Green almond", "Chicory", "Fresh herbs", "Light pepper"],
+    "image": "",
+    "awards": [
+      { "year": 2025, "prize": "Prestige Gold", "category": "Medium Intensity", "score": 92, "certificateImage": "" },
+      { "year": 2023, "prize": "Prestige Silver", "category": "Medium Intensity", "score": 88, "certificateImage": "" }
+    ]
+  },
+  {
+    "slug": "casa-del-sur-arbequina-suave",
+    "name": "Arbequina Suave",
+    "producerSlug": "casa-del-sur",
+    "country": "Spain",
+    "region": "Jaén, Andalusia",
+    "varieties": ["Arbequina"],
+    "intensity": "Delicate",
+    "harvestYear": 2024,
+    "acidity": 0.27,
+    "description": "A soft, buttery Arbequina with gentle fruit and almost no bitterness, ideal for finishing delicate dishes and baking.",
+    "tastingNotes": ["Buttery", "Ripe banana", "Sweet almond", "Soft floral"],
+    "image": "",
+    "awards": [
+      { "year": 2025, "prize": "Prestige Silver", "category": "Delicate Intensity", "score": 90, "certificateImage": "" },
+      { "year": 2024, "prize": "Prestige Silver", "category": "Delicate Intensity", "score": 88, "certificateImage": "" }
+    ]
+  }
+]
