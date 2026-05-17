@@ -29,6 +29,10 @@ export async function generateMetadata({
   return { title: oil.name, description: oil.description };
 }
 
+function isOrganic(name: string) {
+  return /\b(organic|bio|biolog|biologico|biologique|organico)\b/i.test(name);
+}
+
 export default async function WinnerPage({
   params,
 }: {
@@ -41,137 +45,270 @@ export default async function WinnerPage({
   const producer = getProducerBySlug(oil.producerSlug);
   const best = bestAward(oil);
   const awards = awardsByYear(oil);
-  const related = getOilsByProducer(oil.producerSlug).filter(
-    (o) => o.slug !== oil.slug,
-  );
+  const related = getOilsByProducer(oil.producerSlug)
+    .filter((o) => o.slug !== oil.slug)
+    .slice(0, 3);
 
-  const facts: { label: string; value: string }[] = [
-    { label: "Intensity", value: oil.intensity },
-    { label: "Varieties", value: oil.varieties.join(", ") },
-    { label: "Country", value: oil.country },
-    { label: "Region", value: oil.region },
-  ];
-  if (oil.harvestYear)
-    facts.push({ label: "Harvest Year", value: String(oil.harvestYear) });
-  if (oil.acidity !== undefined)
-    facts.push({ label: "Free Acidity", value: `${oil.acidity.toFixed(2)}%` });
+  const organic = isOrganic(oil.name) || isOrganic(producer?.name ?? "");
+  const years = [...new Set(oil.awards.map((a) => a.year))].sort();
 
   return (
-    <div className="container-page py-12">
-      <nav className="text-sm text-olive-600">
-        <Link href="/winners" className="hover:text-olive-500">
+    <div className="container-page py-10">
+      {/* Breadcrumb */}
+      <nav className="flex items-center gap-2 text-sm text-olive-500">
+        <Link href="/winners" className="hover:text-olive-700">
           Winners
         </Link>
-        <span className="mx-2">/</span>
-        <span className="text-olive-900">{oil.name}</span>
+        <span>/</span>
+        <span className="text-olive-800">{oil.name}</span>
       </nav>
 
-      <div className="mt-6 grid gap-10 lg:grid-cols-[340px_1fr]">
-        <div className="self-start overflow-hidden rounded-2xl border border-olive-200 bg-white">
-          <OilImage
-            src={oil.image}
-            name={oil.name}
-            intensity={oil.intensity}
-            className="h-80 w-full"
-          />
-        </div>
+      {/* Hero grid */}
+      <div className="mt-8 grid gap-10 lg:grid-cols-[380px_1fr] lg:items-start">
 
-        <div>
-          <p className="text-sm font-medium uppercase tracking-wide text-olive-500">
-            {oil.varieties.join(" · ")}
-          </p>
-          <h1 className="mt-1 font-serif text-4xl font-bold text-olive-900">
-            {oil.name}
-          </h1>
-          {producer && (
-            <p className="mt-2 text-olive-600">
-              by{" "}
-              <Link
-                href={`/producers/${producer.slug}`}
-                className="font-medium text-olive-700 underline-offset-2 hover:underline"
-              >
-                {producer.name}
-              </Link>
+        {/* Left — image + certificates */}
+        <div className="flex flex-col gap-5">
+          <div className="relative overflow-hidden rounded-2xl border border-olive-200 bg-white shadow-sm">
+            <OilImage
+              src={oil.image}
+              name={oil.name}
+              intensity={oil.intensity}
+              className="h-96 w-full"
+            />
+            {/* Year badge */}
+            <div className="absolute left-4 top-4 grid h-14 w-14 place-items-center rounded-full border-2 border-gold-400 bg-olive-900 text-center shadow-md">
+              <span className="block text-[10px] font-semibold uppercase leading-none tracking-wide text-gold-400">
+                Terra
+              </span>
+              <span className="block font-serif text-sm font-bold leading-none text-cream">
+                {years[years.length - 1]}
+              </span>
+            </div>
+          </div>
+
+          {/* Certificate images stacked below */}
+          {awards.filter((a) => a.certificateImage).slice(0, 2).map((award) => (
+            <CertificateImage key={`${award.year}-${award.prize}`} award={award} />
+          ))}
+          {awards.filter((a) => a.certificateImage).length > 2 && (
+            <p className="text-center text-sm text-olive-500">
+              +{awards.filter((a) => a.certificateImage).length - 2} more certificates below
             </p>
           )}
-          <div className="mt-4 flex flex-wrap items-center gap-3">
-            <AwardBadge prize={best.prize} year={best.year} />
-            <span className="rounded-full bg-olive-900 px-4 py-1.5 text-sm font-bold text-cream">
+        </div>
+
+        {/* Right — all details */}
+        <div className="flex flex-col gap-7">
+
+          {/* Meta tags */}
+          <div className="flex flex-wrap items-center gap-2 text-sm font-medium text-olive-600">
+            <span>{oil.country}</span>
+            {oil.varieties.length > 0 && (
+              <>
+                <span className="text-terracotta-500">·</span>
+                <span>{oil.varieties.join(", ")}</span>
+              </>
+            )}
+            <span className="text-terracotta-500">·</span>
+            <span>{oil.intensity}</span>
+            {organic && (
+              <>
+                <span className="text-terracotta-500">·</span>
+                <span className="text-olive-500">Organic</span>
+              </>
+            )}
+          </div>
+
+          {/* Name + producer */}
+          <div>
+            <h1 className="font-serif text-4xl font-bold leading-tight text-olive-900 sm:text-5xl">
+              {oil.name}
+            </h1>
+            {producer && (
+              <p className="mt-2 text-lg text-olive-600">
+                By{" "}
+                <Link
+                  href={`/producers/${producer.slug}`}
+                  className="font-semibold text-olive-800 underline-offset-2 hover:underline"
+                >
+                  {producer.name}
+                </Link>
+              </p>
+            )}
+          </div>
+
+          {/* Award badges */}
+          <div className="flex flex-wrap gap-2">
+            {awards.map((award) => (
+              <AwardBadge key={`${award.year}-${award.prize}`} prize={award.prize} year={award.year} />
+            ))}
+          </div>
+
+          {/* Description */}
+          <p className="text-base leading-relaxed text-olive-700">
+            {oil.description}
+          </p>
+
+          {/* Classification card */}
+          <div className="rounded-2xl border border-olive-200 bg-white p-5">
+            <p className="text-xs font-semibold uppercase tracking-[0.15em] text-olive-400">
+              Classification
+            </p>
+            <div className="mt-3 flex flex-wrap gap-2">
+              <span className="rounded-sm border border-terracotta-400 px-3 py-1 text-xs font-bold uppercase tracking-wide text-terracotta-500">
+                {oil.country}
+              </span>
+              {organic && (
+                <span className="rounded-sm border border-olive-500 px-3 py-1 text-xs font-bold uppercase tracking-wide text-olive-600">
+                  🌿 Organic
+                </span>
+              )}
+              <span className="rounded-sm border border-olive-300 px-3 py-1 text-xs font-bold uppercase tracking-wide text-olive-700">
+                {oil.intensity}
+              </span>
+              {oil.varieties.map((v) => (
+                <span
+                  key={v}
+                  className="rounded-sm border border-gold-500 px-3 py-1 text-xs font-bold uppercase tracking-wide text-gold-600"
+                >
+                  {v}
+                </span>
+              ))}
+              {oil.acidity !== undefined && (
+                <span className="rounded-sm border border-olive-200 px-3 py-1 text-xs font-bold uppercase tracking-wide text-olive-600">
+                  Acidity {oil.acidity.toFixed(2)}%
+                </span>
+              )}
+            </div>
+          </div>
+
+          {/* Tasting sensations — only if data exists */}
+          {oil.tastingNotes.length > 0 && (
+            <div className="rounded-2xl border border-olive-200 bg-white p-5">
+              <p className="text-xs font-semibold uppercase tracking-[0.15em] text-olive-400">
+                Tasting Sensations
+              </p>
+              <div className="mt-3 flex flex-wrap gap-2">
+                {oil.tastingNotes.map((note) => (
+                  <span
+                    key={note}
+                    className="rounded-full border border-gold-400 px-3 py-1 text-xs font-medium text-olive-800"
+                  >
+                    {note}
+                  </span>
+                ))}
+              </div>
+            </div>
+          )}
+
+          {/* Awards history / consistency */}
+          <div className="rounded-2xl border border-olive-200 bg-white p-5">
+            <p className="text-xs font-semibold uppercase tracking-[0.15em] text-olive-400">
+              Award History
+            </p>
+            <div className="mt-4 space-y-2">
+              {awards.map((award) => (
+                <div
+                  key={`${award.year}-${award.prize}`}
+                  className="flex items-center gap-3"
+                >
+                  <span className="w-10 shrink-0 text-right text-sm font-bold text-olive-900">
+                    {award.year}
+                  </span>
+                  <div className="h-px flex-1 bg-olive-100" />
+                  <AwardBadge prize={award.prize} />
+                </div>
+              ))}
+            </div>
+            <p className="mt-4 text-sm text-olive-500">
               {oil.awards.length}{" "}
               {oil.awards.length === 1 ? "prize" : "prizes"} won
-            </span>
+              {years.length > 1 && ` across ${years.length} editions`}
+            </p>
           </div>
-          <p className="mt-5 max-w-2xl text-olive-700">{oil.description}</p>
 
-          <h2 className="mt-8 font-serif text-lg font-semibold text-olive-900">
-            Tasting Notes
-          </h2>
-          <ul className="mt-3 flex flex-wrap gap-2">
-            {oil.tastingNotes.map((note) => (
-              <li
-                key={note}
-                className="rounded-full bg-olive-100 px-3 py-1 text-sm text-olive-800"
-              >
-                {note}
-              </li>
-            ))}
-          </ul>
-
-          <dl className="mt-8 grid grid-cols-2 gap-px overflow-hidden rounded-xl border border-olive-200 bg-olive-200 sm:grid-cols-3">
-            {facts.map((fact) => (
-              <div key={fact.label} className="bg-white p-4">
-                <dt className="text-xs uppercase tracking-wide text-olive-500">
-                  {fact.label}
-                </dt>
-                <dd className="mt-1 font-medium text-olive-900">
-                  {fact.value}
-                </dd>
-              </div>
-            ))}
-          </dl>
+          {/* Harvest / acidity quick facts */}
+          {(oil.harvestYear || oil.region) && (
+            <div className="grid grid-cols-2 gap-px overflow-hidden rounded-xl border border-olive-200 bg-olive-200 sm:grid-cols-3">
+              {oil.harvestYear && (
+                <div className="bg-white p-4">
+                  <p className="text-xs uppercase tracking-wide text-olive-400">Harvest</p>
+                  <p className="mt-1 font-semibold text-olive-900">{oil.harvestYear}</p>
+                </div>
+              )}
+              {oil.region && (
+                <div className="bg-white p-4">
+                  <p className="text-xs uppercase tracking-wide text-olive-400">Region</p>
+                  <p className="mt-1 font-semibold text-olive-900">{oil.region}</p>
+                </div>
+              )}
+            </div>
+          )}
         </div>
       </div>
 
-      <section className="mt-14">
-        <h2 className="font-serif text-2xl font-bold text-olive-900">
-          Prizes &amp; Certificates
-        </h2>
-        <p className="mt-1 text-sm text-olive-600">
-          Every Terra Olivo award this oil has earned.
-        </p>
-        <div className="mt-6 grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
-          {awards.map((award) => (
-            <CertificateImage key={`${award.year}-${award.prize}`} award={award} />
-          ))}
-        </div>
-      </section>
-
-      {producer && (
-        <section className="mt-14 rounded-2xl border border-olive-200 bg-olive-50 p-6">
-          <p className="text-xs uppercase tracking-wide text-olive-500">
-            About the producer
-          </p>
-          <Link
-            href={`/producers/${producer.slug}`}
-            className="mt-1 inline-block font-serif text-2xl font-bold text-olive-900 hover:text-olive-600"
-          >
-            {producer.name}
-          </Link>
-          <p className="mt-1 text-sm text-olive-600">
-            {producer.region}, {producer.country}
-          </p>
-          <p className="mt-3 max-w-3xl text-olive-700">
-            {producer.description}
-          </p>
-          <Link
-            href={`/producers/${producer.slug}`}
-            className="mt-4 inline-block text-sm font-semibold text-olive-700 hover:text-olive-500"
-          >
-            View producer profile &rarr;
-          </Link>
+      {/* All certificates (if more than 2) */}
+      {awards.filter((a) => a.certificateImage).length > 2 && (
+        <section className="mt-14">
+          <h2 className="font-serif text-2xl font-bold text-olive-900">
+            All Certificates
+          </h2>
+          <div className="mt-6 grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
+            {awards.map((award) => (
+              <CertificateImage key={`${award.year}-${award.prize}`} award={award} />
+            ))}
+          </div>
         </section>
       )}
 
+      {/* Producer card */}
+      {producer && (
+        <section className="mt-14 overflow-hidden rounded-2xl border border-olive-200">
+          <div className="bg-olive-500 px-6 py-4">
+            <p className="text-xs font-semibold uppercase tracking-[0.15em] text-olive-100">
+              About the producer
+            </p>
+          </div>
+          <div className="bg-white p-6">
+            <div className="flex items-start gap-4">
+              <span className="grid h-14 w-14 shrink-0 place-items-center rounded-full border-2 border-gold-400 bg-olive-900 font-serif text-2xl font-bold text-gold-400">
+                {producer.name.charAt(0)}
+              </span>
+              <div className="flex-1">
+                <h3 className="font-serif text-xl font-bold text-olive-900">
+                  {producer.name}
+                </h3>
+                <p className="text-sm text-olive-600">
+                  {[producer.region, producer.country].filter(Boolean).join(", ")}
+                </p>
+                <p className="mt-3 text-sm leading-relaxed text-olive-700">
+                  {producer.description}
+                </p>
+              </div>
+            </div>
+            <div className="mt-5 flex flex-wrap gap-3">
+              <Link
+                href={`/producers/${producer.slug}`}
+                className="inline-block rounded-sm bg-olive-900 px-5 py-2.5 text-sm font-semibold text-cream hover:bg-olive-800"
+              >
+                Producer Profile
+              </Link>
+              {producer.website && (
+                <a
+                  href={producer.website}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="inline-block rounded-sm border border-olive-300 px-5 py-2.5 text-sm font-semibold text-olive-700 hover:bg-olive-50"
+                >
+                  Visit Website
+                </a>
+              )}
+            </div>
+          </div>
+        </section>
+      )}
+
+      {/* More from this producer */}
       {related.length > 0 && (
         <section className="mt-14">
           <h2 className="font-serif text-2xl font-bold text-olive-900">
