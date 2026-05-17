@@ -1,5 +1,4 @@
 import Link from "next/link";
-import OilCard from "@/components/OilCard";
 import ProducerCard from "@/components/ProducerCard";
 import {
   getAllProducers,
@@ -7,7 +6,6 @@ import {
   getOilsByProducer,
   getPortalStats,
   getProducerAwardCount,
-  getWinnersByYear,
 } from "@/lib/data";
 
 const SPONSORS = [
@@ -26,7 +24,6 @@ const SPONSORS = [
 export default function HomePage() {
   const stats = getPortalStats();
   const latestYear = getLatestYear();
-  const latestWinners = getWinnersByYear(latestYear).slice(0, 6);
   const topProducers = [...getAllProducers()]
     .sort((a, b) => getProducerAwardCount(b.slug) - getProducerAwardCount(a.slug))
     .slice(0, 3);
@@ -56,33 +53,21 @@ export default function HomePage() {
             excellence in extra virgin olive oil from every corner of the globe.
           </p>
 
-          {/* Primary CTA */}
-          <div className="mt-8">
+          {/* Primary CTAs */}
+          <div className="mt-9 flex flex-wrap gap-4">
             <Link
               href="/winners"
-              className="inline-flex items-center gap-2 rounded-sm border border-cream px-7 py-3.5 text-sm font-semibold uppercase tracking-[0.12em] text-cream transition-colors hover:bg-cream hover:text-olive-950"
+              className="inline-flex items-center gap-2 rounded-sm bg-gold-400 px-8 py-4 text-sm font-bold uppercase tracking-[0.12em] text-olive-950 shadow-lg transition-colors hover:bg-gold-500"
             >
               Discover the {latestYear} Winners
               <span aria-hidden>→</span>
             </Link>
-          </div>
-
-          {/* Explore pills */}
-          <div className="mt-10 flex flex-wrap items-center gap-3">
-            <span className="text-xs font-semibold uppercase tracking-[0.2em] text-olive-500">
-              Explore
-            </span>
-            <Link
-              href="/winners"
-              className="rounded-full bg-olive-800 px-4 py-1.5 text-sm font-medium text-cream transition-colors hover:bg-olive-700"
-            >
-              Winners →
-            </Link>
             <Link
               href="/producers"
-              className="rounded-full bg-olive-800 px-4 py-1.5 text-sm font-medium text-cream transition-colors hover:bg-olive-700"
+              className="inline-flex items-center gap-2 rounded-sm border-2 border-cream px-8 py-4 text-sm font-bold uppercase tracking-[0.12em] text-cream transition-colors hover:bg-cream hover:text-olive-950"
             >
-              Producers →
+              Explore Producers
+              <span aria-hidden>→</span>
             </Link>
           </div>
 
@@ -105,6 +90,36 @@ export default function HomePage() {
                 </div>
               ))}
             </dl>
+          </div>
+        </div>
+      </section>
+
+      {/* ── SPONSORS MARQUEE ──────────────────────────────────────── */}
+      <section className="bg-olive-950 py-14 overflow-hidden border-t border-olive-800">
+        <div className="container-page mb-8 text-center">
+          <p className="text-xs font-semibold uppercase tracking-[0.25em] text-olive-500">
+            Official Partners &amp; Sponsors
+          </p>
+        </div>
+        <div className="relative flex overflow-hidden">
+          {/* gradient fade edges */}
+          <div className="pointer-events-none absolute inset-y-0 left-0 z-10 w-24 bg-gradient-to-r from-olive-950 to-transparent" />
+          <div className="pointer-events-none absolute inset-y-0 right-0 z-10 w-24 bg-gradient-to-l from-olive-950 to-transparent" />
+
+          <div className="animate-marquee flex shrink-0 items-center gap-12 whitespace-nowrap">
+            {[...SPONSORS, ...SPONSORS].map((s, i) => (
+              <div
+                key={i}
+                className="flex flex-col items-center gap-1 rounded-xl border border-olive-800 bg-olive-900/60 px-8 py-4 text-center"
+              >
+                <span className="font-serif text-base font-bold text-cream">
+                  {s.name}
+                </span>
+                <span className="text-[10px] font-medium uppercase tracking-[0.15em] text-olive-500">
+                  {s.sub}
+                </span>
+              </div>
+            ))}
           </div>
         </div>
       </section>
@@ -155,31 +170,6 @@ export default function HomePage() {
         </div>
       </section>
 
-      {/* ── LATEST WINNERS ────────────────────────────────────────── */}
-      <section className="container-page py-16">
-        <div className="flex items-end justify-between">
-          <div>
-            <h2 className="font-serif text-2xl font-bold text-olive-900">
-              {latestYear} Winners
-            </h2>
-            <p className="mt-1 text-sm text-olive-600">
-              Top oils from the latest Terra Olivo edition.
-            </p>
-          </div>
-          <Link
-            href="/winners"
-            className="text-sm font-semibold text-olive-700 hover:text-olive-500"
-          >
-            View all winners →
-          </Link>
-        </div>
-        <div className="mt-8 grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
-          {latestWinners.map((oil) => (
-            <OilCard key={oil.slug} oil={oil} />
-          ))}
-        </div>
-      </section>
-
       {/* ── TOP PRODUCERS ─────────────────────────────────────────── */}
       <section className="bg-olive-50 py-16">
         <div className="container-page">
@@ -202,36 +192,6 @@ export default function HomePage() {
                 awardCount={getProducerAwardCount(producer.slug)}
                 oilCount={getOilsByProducer(producer.slug).length}
               />
-            ))}
-          </div>
-        </div>
-      </section>
-
-      {/* ── SPONSORS MARQUEE ──────────────────────────────────────── */}
-      <section className="bg-olive-950 py-14 overflow-hidden">
-        <div className="container-page mb-8 text-center">
-          <p className="text-xs font-semibold uppercase tracking-[0.25em] text-olive-500">
-            Official Partners &amp; Sponsors
-          </p>
-        </div>
-        <div className="relative flex overflow-hidden">
-          {/* gradient fade edges */}
-          <div className="pointer-events-none absolute inset-y-0 left-0 z-10 w-24 bg-gradient-to-r from-olive-950 to-transparent" />
-          <div className="pointer-events-none absolute inset-y-0 right-0 z-10 w-24 bg-gradient-to-l from-olive-950 to-transparent" />
-
-          <div className="animate-marquee flex shrink-0 items-center gap-12 whitespace-nowrap">
-            {[...SPONSORS, ...SPONSORS].map((s, i) => (
-              <div
-                key={i}
-                className="flex flex-col items-center gap-1 rounded-xl border border-olive-800 bg-olive-900/60 px-8 py-4 text-center"
-              >
-                <span className="font-serif text-base font-bold text-cream">
-                  {s.name}
-                </span>
-                <span className="text-[10px] font-medium uppercase tracking-[0.15em] text-olive-500">
-                  {s.sub}
-                </span>
-              </div>
             ))}
           </div>
         </div>
