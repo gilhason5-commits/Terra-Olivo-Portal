@@ -1,7 +1,7 @@
 import oilsData from "@/data/oils.json";
 import producersData from "@/data/producers.json";
 import {
-  PRIZE_RANK,
+  prizeRank,
   type Award,
   type OliveOil,
   type Prize,
@@ -14,7 +14,7 @@ const producers = producersData as Producer[];
 /** The most prestigious award an oil holds (best prize, then latest year). */
 export function bestAward(oil: OliveOil): Award {
   return [...oil.awards].sort(
-    (a, b) => PRIZE_RANK[a.prize] - PRIZE_RANK[b.prize] || b.year - a.year,
+    (a, b) => prizeRank(a.prize) - prizeRank(b.prize) || b.year - a.year,
   )[0];
 }
 
@@ -25,7 +25,7 @@ export function awardsByYear(oil: OliveOil): Award[] {
 
 function oilRank(oil: OliveOil): number {
   const best = bestAward(oil);
-  return PRIZE_RANK[best.prize] * 1000 - (best.score ?? 0);
+  return prizeRank(best.prize) * 1000 - (best.score ?? 0);
 }
 
 export function getAllOils(): OliveOil[] {
@@ -68,7 +68,7 @@ export function getProducerPrizeBreakdown(
   }
   return [...counts.entries()]
     .map(([prize, count]) => ({ prize, count }))
-    .sort((a, b) => PRIZE_RANK[a.prize] - PRIZE_RANK[b.prize]);
+    .sort((a, b) => prizeRank(a.prize) - prizeRank(b.prize));
 }
 
 export function getYears(): number[] {
@@ -84,7 +84,7 @@ export function getLatestYear(): number {
 export function getPrizes(): Prize[] {
   const prizes = new Set<Prize>();
   for (const oil of oils) for (const a of oil.awards) prizes.add(a.prize);
-  return [...prizes].sort((a, b) => PRIZE_RANK[a] - PRIZE_RANK[b]);
+  return [...prizes].sort((a, b) => prizeRank(a) - prizeRank(b));
 }
 
 export function getCountries(): string[] {

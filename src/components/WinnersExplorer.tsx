@@ -2,7 +2,7 @@
 
 import { useMemo, useState } from "react";
 import OilCard from "@/components/OilCard";
-import { PRIZE_RANK, type OliveOil, type Prize } from "@/lib/types";
+import { prizeRank, type OliveOil, type Prize } from "@/lib/types";
 
 interface Props {
   oils: OliveOil[];
@@ -94,7 +94,7 @@ export default function WinnersExplorer({
           >
             <option value={ALL}>All prizes</option>
             {[...prizes]
-              .sort((a, b) => PRIZE_RANK[a] - PRIZE_RANK[b])
+              .sort((a, b) => prizeRank(a) - prizeRank(b))
               .map((p) => (
                 <option key={p} value={p}>
                   {p}

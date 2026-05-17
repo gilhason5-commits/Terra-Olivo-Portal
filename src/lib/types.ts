@@ -1,18 +1,24 @@
 export type Intensity = "Delicate" | "Medium" | "Intense";
 
-export type Prize =
-  | "Grand Prestige Gold"
-  | "Prestige Gold"
-  | "Prestige Silver"
-  | "Best in Class";
+export type Prize = string;
 
 /** Rank used for sorting — lower number is a higher honour. */
-export const PRIZE_RANK: Record<Prize, number> = {
-  "Grand Prestige Gold": 0,
-  "Best in Class": 1,
-  "Prestige Gold": 2,
-  "Prestige Silver": 3,
+export const PRIZE_RANK: Record<string, number> = {
+  "Raúl Castellani International Champion Trophy": 0,
+  "Moshe Spak Best International brand": 1,
+  "Israel Grand Champion Trophy": 2,
+  "Israel Boutique Grand Champion": 3,
+  "Best Israeli Family Boutique Grand Champion": 4,
+  "Grand Prestige Gold": 5,
+  "Gold Medal": 6,
+  "Prestige Gold": 7,
+  "Prestige Silver": 8,
+  "TOP TEN": 9,
 };
+
+export function prizeRank(prize: Prize): number {
+  return PRIZE_RANK[prize] ?? 50;
+}
 
 /** A single win: one olive oil taking one prize in one competition edition. */
 export interface Award {
