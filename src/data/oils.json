@@ -232,14 +232,6 @@
     "awards": [
       {
         "year": 2025,
-        "prize": "TOP TEN"
-      },
-      {
-        "year": 2025,
-        "prize": "Best International Organic"
-      },
-      {
-        "year": 2025,
         "prize": "Grand Prestige Gold"
       }
     ]
@@ -498,10 +490,6 @@
     "awards": [
       {
         "year": 2025,
-        "prize": "Best Israeli Organic"
-      },
-      {
-        "year": 2025,
         "prize": "Grand Prestige Gold"
       }
     ]
@@ -600,23 +588,6 @@
     ]
   },
   {
-    "slug": "bvs-jerusalemoliveoil",
-    "name": "BVS JerusalemOliveOil",
-    "producerSlug": "bvs-jerusalemoliveoil",
-    "country": "Israel",
-    "region": "",
-    "varieties": [],
-    "intensity": "Medium",
-    "description": "BVS JerusalemOliveOil is an award-winning extra virgin olive oil from Israel.",
-    "tastingNotes": [],
-    "awards": [
-      {
-        "year": 2025,
-        "prize": "Best Israeli Boutique Brand"
-      }
-    ]
-  },
-  {
     "slug": "bvs-jerusalemoliveoil-barnea",
     "name": "BVS JerusalemOliveOil Barnea",
     "producerSlug": "bvs-jerusalemoliveoil",
@@ -665,18 +636,6 @@
     "description": "BVS JerusalemOliveOil Coratina is an award-winning extra virgin olive oil from Israel.",
     "tastingNotes": [],
     "awards": [
-      {
-        "year": 2025,
-        "prize": "Israel Boutique Grand Champion"
-      },
-      {
-        "year": 2025,
-        "prize": "Best Israeli Coratina"
-      },
-      {
-        "year": 2025,
-        "prize": "Best Israeli Olive Council Quality award"
-      },
       {
         "year": 2025,
         "prize": "Grand Prestige Gold"
@@ -753,10 +712,6 @@
     "awards": [
       {
         "year": 2025,
-        "prize": "Best Israeli Packaging"
-      },
-      {
-        "year": 2025,
         "prize": "Grand Prestige Gold"
       }
     ]
@@ -806,10 +761,6 @@
     "description": "BVS JerusalemOliveOil With Lemon is an award-winning extra virgin olive oil from Israel.",
     "tastingNotes": [],
     "awards": [
-      {
-        "year": 2025,
-        "prize": "Best Israeli Flavored"
-      },
       {
         "year": 2025,
         "prize": "Grand Prestige Gold"
@@ -1128,10 +1079,6 @@
     "awards": [
       {
         "year": 2025,
-        "prize": "Best of Italy"
-      },
-      {
-        "year": 2025,
         "prize": "Grand Prestige Gold"
       }
     ]
@@ -1184,25 +1131,6 @@
       {
         "year": 2025,
         "prize": "Grand Prestige Gold"
-      }
-    ]
-  },
-  {
-    "slug": "eilad-olive-oil-koroneiki",
-    "name": "Eilad Olive oil Koroneiki",
-    "producerSlug": "eilad-olive-oil",
-    "country": "Israel",
-    "region": "",
-    "varieties": [
-      "Koroneiki"
-    ],
-    "intensity": "Medium",
-    "description": "Eilad Olive oil Koroneiki is an award-winning extra virgin olive oil from Israel.",
-    "tastingNotes": [],
-    "awards": [
-      {
-        "year": 2025,
-        "prize": "Israel Grand Champion Trophy"
       }
     ]
   },
@@ -1425,28 +1353,7 @@
     "awards": [
       {
         "year": 2025,
-        "prize": "Best Israeli Blend"
-      },
-      {
-        "year": 2025,
         "prize": "Grand Prestige Gold"
-      }
-    ]
-  },
-  {
-    "slug": "eliad-olive-oil",
-    "name": "Eliad Olive oil",
-    "producerSlug": "eliad-olive-oil",
-    "country": "Israel",
-    "region": "",
-    "varieties": [],
-    "intensity": "Medium",
-    "description": "Eliad Olive oil is an award-winning extra virgin olive oil from Israel.",
-    "tastingNotes": [],
-    "awards": [
-      {
-        "year": 2025,
-        "prize": "Best Israeli Olive Mill"
       }
     ]
   },
@@ -1559,23 +1466,6 @@
     ]
   },
   {
-    "slug": "eretz-geshur",
-    "name": "Eretz Geshur",
-    "producerSlug": "eretz-geshur",
-    "country": "Israel",
-    "region": "",
-    "varieties": [],
-    "intensity": "Medium",
-    "description": "Eretz Geshur is an award-winning extra virgin olive oil from Israel.",
-    "tastingNotes": [],
-    "awards": [
-      {
-        "year": 2025,
-        "prize": "Best Israeli Commercial Brand"
-      }
-    ]
-  },
-  {
     "slug": "eretz-geshur-arbequina",
     "name": "Eretz Geshur Arbequina",
     "producerSlug": "eretz-geshur",
@@ -1624,10 +1514,6 @@
     "description": "Eretz Geshur Barnea is an award-winning extra virgin olive oil from Israel.",
     "tastingNotes": [],
     "awards": [
-      {
-        "year": 2025,
-        "prize": "Best Israeli Barnea"
-      },
       {
         "year": 2025,
         "prize": "Prestige Gold"
@@ -1742,10 +1628,6 @@
     "description": "Eretz Zait Meshek Bar Hai David Blend is an award-winning extra virgin olive oil from Israel.",
     "tastingNotes": [],
     "awards": [
-      {
-        "year": 2025,
-        "prize": "Best Israeli Family Boutique Grand Champion"
-      },
       {
         "year": 2025,
         "prize": "Grand Prestige Gold"
@@ -2250,10 +2132,6 @@
     "awards": [
       {
         "year": 2025,
-        "prize": "Best Flavored"
-      },
-      {
-        "year": 2025,
         "prize": "Grand Prestige Gold"
       }
     ]
@@ -2466,29 +2344,6 @@
   },
   {
     "slug": "garbo-coratina",
-    "name": "Garbo Coratina",
-    "producerSlug": "rumaroli-garbo",
-    "country": "Argentina",
-    "region": "",
-    "varieties": [
-      "Coratina"
-    ],
-    "intensity": "Medium",
-    "description": "Garbo Coratina is an award-winning extra virgin olive oil from Argentina.",
-    "tastingNotes": [],
-    "awards": [
-      {
-        "year": 2025,
-        "prize": "TOP TEN"
-      },
-      {
-        "year": 2025,
-        "prize": "Best of Argentina"
-      }
-    ]
-  },
-  {
-    "slug": "garbo-coratina-2",
     "name": "Garbo Coratina",
     "producerSlug": "olioinversiones-glam-sa",
     "country": "Argentina",
@@ -2723,10 +2578,6 @@
     "description": "Grattaciello Blend de Safra is an award-winning extra virgin olive oil from Brazil.",
     "tastingNotes": [],
     "awards": [
-      {
-        "year": 2025,
-        "prize": "TOP TEN"
-      },
       {
         "year": 2025,
         "prize": "Grand Prestige Gold"
@@ -2983,10 +2834,6 @@
     "awards": [
       {
         "year": 2025,
-        "prize": "Best Israeli Souri"
-      },
-      {
-        "year": 2025,
         "prize": "Prestige Gold"
       }
     ]
@@ -3055,14 +2902,6 @@
     "awards": [
       {
         "year": 2025,
-        "prize": "TOP TEN"
-      },
-      {
-        "year": 2025,
-        "prize": "Best of South Africa"
-      },
-      {
-        "year": 2025,
         "prize": "Grand Prestige Gold"
       }
     ]
@@ -3103,23 +2942,6 @@
   },
   {
     "slug": "knolive-epicure",
-    "name": "Knolive Epicure",
-    "producerSlug": "knolive",
-    "country": "Spain",
-    "region": "",
-    "varieties": [],
-    "intensity": "Medium",
-    "description": "Knolive Epicure is an award-winning extra virgin olive oil from Spain.",
-    "tastingNotes": [],
-    "awards": [
-      {
-        "year": 2025,
-        "prize": "TOP TEN"
-      }
-    ]
-  },
-  {
-    "slug": "knolive-epicure-2",
     "name": "Knolive Epicure",
     "producerSlug": "knolive-oils-sl",
     "country": "Spain",
@@ -3874,14 +3696,6 @@
     "awards": [
       {
         "year": 2025,
-        "prize": "TOP TEN"
-      },
-      {
-        "year": 2025,
-        "prize": "Best of Brazil"
-      },
-      {
-        "year": 2025,
         "prize": "Grand Prestige Gold"
       }
     ]
@@ -4208,10 +4022,6 @@
     "awards": [
       {
         "year": 2025,
-        "prize": "Best Israeli Picholine"
-      },
-      {
-        "year": 2025,
         "prize": "Grand Prestige Gold"
       }
     ]
@@ -4286,10 +4096,6 @@
     "description": "Meshek Inbal Koroneiki is an award-winning extra virgin olive oil from Israel.",
     "tastingNotes": [],
     "awards": [
-      {
-        "year": 2025,
-        "prize": "Best Israeli Koroneiki"
-      },
       {
         "year": 2025,
         "prize": "Grand Prestige Gold"
@@ -4438,10 +4244,6 @@
     "description": "Molino Alfonso is an award-winning extra virgin olive oil from Spain.",
     "tastingNotes": [],
     "awards": [
-      {
-        "year": 2025,
-        "prize": "Best Sweet Almond"
-      },
       {
         "year": 2025,
         "prize": "Grand Prestige Gold"
@@ -4658,14 +4460,6 @@
     "awards": [
       {
         "year": 2025,
-        "prize": "TOP TEN"
-      },
-      {
-        "year": 2025,
-        "prize": "Best of Turkey"
-      },
-      {
-        "year": 2025,
         "prize": "Grand Prestige Gold"
       }
     ]
@@ -4828,23 +4622,6 @@
       {
         "year": 2025,
         "prize": "Grand Prestige Gold"
-      }
-    ]
-  },
-  {
-    "slug": "novavera-ltd-sti",
-    "name": "Novavera LTD ŞTİ",
-    "producerSlug": "novavera-ltd-sti",
-    "country": "Turkey",
-    "region": "",
-    "varieties": [],
-    "intensity": "Medium",
-    "description": "Novavera LTD ŞTİ is an award-winning extra virgin olive oil from Turkey.",
-    "tastingNotes": [],
-    "awards": [
-      {
-        "year": 2025,
-        "prize": "Moshe Spak Best International brand"
       }
     ]
   },
@@ -5213,14 +4990,6 @@
     "awards": [
       {
         "year": 2025,
-        "prize": "TOP TEN"
-      },
-      {
-        "year": 2025,
-        "prize": "Best of Portugal"
-      },
-      {
-        "year": 2025,
         "prize": "Grand Prestige Gold"
       }
     ]
@@ -5236,18 +5005,6 @@
     "description": "Olivoila is an award-winning extra virgin olive oil from Spain.",
     "tastingNotes": [],
     "awards": [
-      {
-        "year": 2025,
-        "prize": "Raúl Castellani International Champion Trophy"
-      },
-      {
-        "year": 2025,
-        "prize": "TOP TEN"
-      },
-      {
-        "year": 2025,
-        "prize": "Best of Spain"
-      },
       {
         "year": 2025,
         "prize": "Grand Prestige Gold"
@@ -5606,10 +5363,6 @@
     "description": "Pathos is an award-winning extra virgin olive oil from Greece.",
     "tastingNotes": [],
     "awards": [
-      {
-        "year": 2025,
-        "prize": "Best International Packaging"
-      },
       {
         "year": 2025,
         "prize": "Prestige Gold"
@@ -5972,10 +5725,6 @@
     "description": "Queo Premium Picual is an award-winning extra virgin olive oil from Spain.",
     "tastingNotes": [],
     "awards": [
-      {
-        "year": 2025,
-        "prize": "TOP TEN"
-      },
       {
         "year": 2025,
         "prize": "Grand Prestige Gold"
@@ -6372,10 +6121,6 @@
     "awards": [
       {
         "year": 2025,
-        "prize": "Best Israeli Picual"
-      },
-      {
-        "year": 2025,
         "prize": "Grand Prestige Gold"
       }
     ]
@@ -6523,23 +6268,6 @@
   {
     "slug": "terra-creta-pgi-chania-crete-evoo",
     "name": "Terra Creta Pgi Chania Crete Evoo",
-    "producerSlug": "terra-creta",
-    "country": "Greece",
-    "region": "",
-    "varieties": [],
-    "intensity": "Medium",
-    "description": "Terra Creta Pgi Chania Crete Evoo is an award-winning extra virgin olive oil from Greece.",
-    "tastingNotes": [],
-    "awards": [
-      {
-        "year": 2025,
-        "prize": "Best of Crete"
-      }
-    ]
-  },
-  {
-    "slug": "terra-creta-pgi-chania-crete-evoo-2",
-    "name": "Terra Creta Pgi Chania Crete Evoo",
     "producerSlug": "melissa-kikizas-sa-for-terra-creta-evoo-brand",
     "country": "Greece",
     "region": "",
@@ -6637,10 +6365,6 @@
     "description": "The Master Miller Omphacium Organic is an award-winning extra virgin olive oil from Greece.",
     "tastingNotes": [],
     "awards": [
-      {
-        "year": 2025,
-        "prize": "Best of Greece"
-      },
       {
         "year": 2025,
         "prize": "Grand Prestige Gold"
@@ -6832,10 +6556,6 @@
     "description": "Yarok Zait Arbequina is an award-winning extra virgin olive oil from Israel.",
     "tastingNotes": [],
     "awards": [
-      {
-        "year": 2025,
-        "prize": "Best Israeli Arbequina"
-      },
       {
         "year": 2025,
         "prize": "Grand Prestige Gold"

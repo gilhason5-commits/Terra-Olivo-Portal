@@ -336,13 +336,6 @@
     "description": "Domenico Manca S.P.A. is an award-winning olive oil producer from Italy."
   },
   {
-    "slug": "eilad-olive-oil",
-    "name": "Eilad Olive oil",
-    "country": "Israel",
-    "region": "",
-    "description": "Eilad Olive oil is an award-winning olive oil producer from Israel."
-  },
-  {
     "slug": "ekin-kocadag-ltd-sti",
     "name": "Ekin Kocadağ LTD ŞTİ",
     "country": "Turkey",
@@ -544,13 +537,6 @@
     "country": "South Africa",
     "region": "",
     "description": "Kielder South Africa (Pty) Ltd is an award-winning olive oil producer from South Africa."
-  },
-  {
-    "slug": "knolive",
-    "name": "Knolive",
-    "country": "Spain",
-    "region": "",
-    "description": "Knolive is an award-winning olive oil producer from Spain."
   },
   {
     "slug": "knolive-oils-sl",
@@ -868,13 +854,6 @@
     "description": "Roma Olivas Agroindústria Ltda is an award-winning olive oil producer from Brazil."
   },
   {
-    "slug": "rumaroli-garbo",
-    "name": "Rumaroli Garbo",
-    "country": "Argentina",
-    "region": "",
-    "description": "Rumaroli Garbo is an award-winning olive oil producer from Argentina."
-  },
-  {
     "slug": "rumeli-zirai-ve-gida-yatirimlari-as",
     "name": "Rumeli Zirai Ve Gida Yatirimlari A.S.",
     "country": "Turkey",
@@ -992,13 +971,6 @@
     "country": "Greece",
     "region": "",
     "description": "Sparta Gourmet is an award-winning olive oil producer from Greece."
-  },
-  {
-    "slug": "terra-creta",
-    "name": "Terra Creta",
-    "country": "Greece",
-    "region": "",
-    "description": "Terra Creta is an award-winning olive oil producer from Greece."
   },
   {
     "slug": "terra-nova",
