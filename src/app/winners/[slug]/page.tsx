@@ -253,7 +253,7 @@ export default async function WinnerPage({
           <h2 className="font-serif text-2xl font-bold text-olive-900">
             All Certificates
           </h2>
-          <div className="mt-6 grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
+          <div className="mt-6 grid gap-4 sm:grid-cols-3 lg:grid-cols-4">
             {awards.map((award) => (
               <CertificateImage key={`${award.year}-${award.prize}`} award={award} />
             ))}
