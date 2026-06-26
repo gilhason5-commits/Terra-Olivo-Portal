@@ -12,20 +12,19 @@ def has_white_background(filepath):
         img = Image.open(filepath).convert("RGB")
         w, h = img.size
         # Sample 4 corners
-        corners = [
-            img.getpixel((0, 0)),
-            img.getpixel((w-1, 0)),
-            img.getpixel((0, h-1)),
-            img.getpixel((w-1, h-1))
+        # Add midpoints too, to catch cases where corners have shadows but borders are white
+        points = [
+            img.getpixel((0, 0)), img.getpixel((w-1, 0)),
+            img.getpixel((0, h-1)), img.getpixel((w-1, h-1)),
+            img.getpixel((w//2, 0)), img.getpixel((w//2, h-1)),
+            img.getpixel((0, h//2)), img.getpixel((w-1, h//2))
         ]
         
-        # Check if all corners are very bright white (R>250, G>250, B>250)
-        # Our green gradient is (244, 246, 238) at the top, and (229, 234, 211) at the bottom.
-        # So it's safe to use 250 as a threshold for pure white.
-        white_count = sum(1 for (r,g,b) in corners if r > 250 and g > 250 and b > 250)
+        # Lower threshold from 250 to 220 to catch off-white or shadowed white backgrounds
+        white_count = sum(1 for (r,g,b) in points if r > 220 and g > 220 and b > 220)
         
-        # If at least 2 corners are pure white, we assume it's a white background
-        return white_count >= 2
+        # If at least 3 edge/corner points are whitish, we assume it's a white background
+        return white_count >= 3
     except Exception as e:
         print(f"Error reading {filepath}: {e}")
         return False

@@ -43,6 +43,14 @@ export default function OilImage({
     );
   }
   return (
-    <BottleVisual label={name} category={intensity} className={className} />
+    <div
+      className={`grid place-items-center bg-gradient-to-b from-olive-50 to-olive-100 ${className}`}
+    >
+      <img
+        src="/images/default-bottle.png"
+        alt={`${name} bottle`}
+        className="h-full w-auto object-contain py-5 drop-shadow-xl opacity-90"
+      />
+    </div>
   );
 }
