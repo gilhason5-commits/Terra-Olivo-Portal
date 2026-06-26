@@ -49,6 +49,13 @@ export default function WinnersExplorer({
         if (!haystack.includes(q)) return false;
       }
       return true;
+    }).sort((a, b) => {
+      const rank = (oil: OliveOil) => {
+        if (!oil.image) return 3; // Missing image at the very bottom
+        if (oil.format === "good") return 1; // Good format at the very top
+        return 2; // Bad format in the middle
+      };
+      return rank(a) - rank(b);
     });
   }, [oils, query, year, prize, country, variety]);
 

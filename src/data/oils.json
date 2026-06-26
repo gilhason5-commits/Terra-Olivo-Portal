@@ -16,7 +16,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/AFTKra5gV-P9EJ2p9qZnQA/tr-sKcNuLIUrAf4PEpZd_hpSIcdkuEuoQllpcvxud4UvIAg3TzSBxl8zQetP8Fntf6TsdjI6NDfh5g5qxb3GhOrIenISj4cwVx4jtoSqPflZIjrRigx5b4du5NHd7_X86uZKnB0rl_31q1MbLcYxhV5RqMNEjS0gMbdJvmior3B4FGki_G3Iq9a83clxSl1g/4sh1M_I_nQtL9rcdrlO904QHZckG7t-6q2qTVeIpNyg"
       }
     ],
-    "image": "/images/oils/300.png"
+    "image": "/images/oils/300.png",
+    "format": "bad"
   },
   {
     "slug": "42-premium-blend",
@@ -37,7 +38,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/rnUvYskOiMgQ8VO3CzKsRw/2GBy-34e-gvPJrOuzj1b6NE9a6gUcX1gosh2uzQXeA8gWiNLn3s5uVw1b4jfRdv_XqOP6XACQgMyB1SNHSSxphv9OkKLwSYMbJo85lsUp-CBrZLSiEjDuVglM3wGFE50qvSN1dWTsp4f5SOcN3BHNe3NVH_dcqb6UIfaHVgx86M/BW52f3hXxDjLpASoS-1mw76ISKirlU_6ee162rzKu7E"
       }
     ],
-    "image": "/images/oils/42-premium-blend.png"
+    "image": "/images/oils/42-premium-blend.png",
+    "format": "good"
   },
   {
     "slug": "acushla-gold-edition",
@@ -56,7 +58,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/rnUvYskOiMgQ8VO3CzKsRw/2GBy-34e-gvPJrOuzj1b6NE9a6gUcX1gosh2uzQXeA8gWiNLn3s5uVw1b4jfRdv_XqOP6XACQgMyB1SNHSSxphv9OkKLwSYMbJo85lsUp-CBrZLSiEjDuVglM3wGFE50qvSN1dWTsp4f5SOcN3BHNe3NVH_dcqb6UIfaHVgx86M/BW52f3hXxDjLpASoS-1mw76ISKirlU_6ee162rzKu7E"
       }
     ],
-    "image": "/images/oils/acushla-gold-edition.png"
+    "image": "/images/oils/acushla-gold-edition.png",
+    "format": "bad"
   },
   {
     "slug": "adama-boutique-olive-oil-pichuline",
@@ -77,7 +80,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/rnUvYskOiMgQ8VO3CzKsRw/2GBy-34e-gvPJrOuzj1b6NE9a6gUcX1gosh2uzQXeA8gWiNLn3s5uVw1b4jfRdv_XqOP6XACQgMyB1SNHSSxphv9OkKLwSYMbJo85lsUp-CBrZLSiEjDuVglM3wGFE50qvSN1dWTsp4f5SOcN3BHNe3NVH_dcqb6UIfaHVgx86M/BW52f3hXxDjLpASoS-1mw76ISKirlU_6ee162rzKu7E"
       }
     ],
-    "image": "/images/oils/adama-boutique-olive-oil-pichuline.png"
+    "image": "/images/oils/adama-boutique-olive-oil-pichuline.png",
+    "format": "bad"
   },
   {
     "slug": "agourelaio-early-harvest-organic",
@@ -96,7 +100,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/rnUvYskOiMgQ8VO3CzKsRw/2GBy-34e-gvPJrOuzj1b6NE9a6gUcX1gosh2uzQXeA8gWiNLn3s5uVw1b4jfRdv_XqOP6XACQgMyB1SNHSSxphv9OkKLwSYMbJo85lsUp-CBrZLSiEjDuVglM3wGFE50qvSN1dWTsp4f5SOcN3BHNe3NVH_dcqb6UIfaHVgx86M/BW52f3hXxDjLpASoS-1mw76ISKirlU_6ee162rzKu7E"
       }
     ],
-    "image": "/images/oils/agourelaio-early-harvest-organic.png"
+    "image": "/images/oils/agourelaio-early-harvest-organic.png",
+    "format": "bad"
   },
   {
     "slug": "agroulida-02",
@@ -115,7 +120,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/AFTKra5gV-P9EJ2p9qZnQA/tr-sKcNuLIUrAf4PEpZd_hpSIcdkuEuoQllpcvxud4UvIAg3TzSBxl8zQetP8Fntf6TsdjI6NDfh5g5qxb3GhOrIenISj4cwVx4jtoSqPflZIjrRigx5b4du5NHd7_X86uZKnB0rl_31q1MbLcYxhV5RqMNEjS0gMbdJvmior3B4FGki_G3Iq9a83clxSl1g/4sh1M_I_nQtL9rcdrlO904QHZckG7t-6q2qTVeIpNyg"
       }
     ],
-    "image": "/images/oils/agroulida-02.png"
+    "image": "/images/oils/agroulida-02.png",
+    "format": "bad"
   },
   {
     "slug": "al-zait-frantoio",
@@ -136,7 +142,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/MiyvC3PoHfI-jPrS68hr9A/npsw4R9PTNMDdiqTkqWP_tY4Wuf7-p5SyKjL-sOScVTrCAnOkQkvnOv8hFeHFloXmuzKKohxNPPb_sxUQVb4iojuHs9XNmfr1imN4JT4LUTUqlrrNLBk5G931ZvNR1iBAmfMepRyIYlaD2cAuLxmGgPIwok4cpE-K4doJCAyavPlqRfv71uubIkkZCat4ccn/Nkm7n75hAYreXV_gjyYnW7YKsLl5gE9cTSxyXC9Iyy8"
       }
     ],
-    "image": "/images/oils/al-zait-frantoio.png"
+    "image": "/images/oils/al-zait-frantoio.png",
+    "format": "bad"
   },
   {
     "slug": "al-zait-koroneiki",
@@ -157,7 +164,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/AFTKra5gV-P9EJ2p9qZnQA/tr-sKcNuLIUrAf4PEpZd_hpSIcdkuEuoQllpcvxud4UvIAg3TzSBxl8zQetP8Fntf6TsdjI6NDfh5g5qxb3GhOrIenISj4cwVx4jtoSqPflZIjrRigx5b4du5NHd7_X86uZKnB0rl_31q1MbLcYxhV5RqMNEjS0gMbdJvmior3B4FGki_G3Iq9a83clxSl1g/4sh1M_I_nQtL9rcdrlO904QHZckG7t-6q2qTVeIpNyg"
       }
     ],
-    "image": "/images/oils/al-zait-koroneiki.png"
+    "image": "/images/oils/al-zait-koroneiki.png",
+    "format": "good"
   },
   {
     "slug": "al-zait-picual",
@@ -178,7 +186,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/MiyvC3PoHfI-jPrS68hr9A/npsw4R9PTNMDdiqTkqWP_tY4Wuf7-p5SyKjL-sOScVTrCAnOkQkvnOv8hFeHFloXmuzKKohxNPPb_sxUQVb4iojuHs9XNmfr1imN4JT4LUTUqlrrNLBk5G931ZvNR1iBAmfMepRyIYlaD2cAuLxmGgPIwok4cpE-K4doJCAyavPlqRfv71uubIkkZCat4ccn/Nkm7n75hAYreXV_gjyYnW7YKsLl5gE9cTSxyXC9Iyy8"
       }
     ],
-    "image": "/images/oils/al-zait-picual.png"
+    "image": "/images/oils/al-zait-picual.png",
+    "format": "good"
   },
   {
     "slug": "al-zait-arbequina",
@@ -199,7 +208,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/AFTKra5gV-P9EJ2p9qZnQA/tr-sKcNuLIUrAf4PEpZd_hpSIcdkuEuoQllpcvxud4UvIAg3TzSBxl8zQetP8Fntf6TsdjI6NDfh5g5qxb3GhOrIenISj4cwVx4jtoSqPflZIjrRigx5b4du5NHd7_X86uZKnB0rl_31q1MbLcYxhV5RqMNEjS0gMbdJvmior3B4FGki_G3Iq9a83clxSl1g/4sh1M_I_nQtL9rcdrlO904QHZckG7t-6q2qTVeIpNyg"
       }
     ],
-    "image": "/images/oils/al-zait-arbequina.png"
+    "image": "/images/oils/al-zait-arbequina.png",
+    "format": "bad"
   },
   {
     "slug": "al-zait-blend-origens",
@@ -220,7 +230,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/AFTKra5gV-P9EJ2p9qZnQA/tr-sKcNuLIUrAf4PEpZd_hpSIcdkuEuoQllpcvxud4UvIAg3TzSBxl8zQetP8Fntf6TsdjI6NDfh5g5qxb3GhOrIenISj4cwVx4jtoSqPflZIjrRigx5b4du5NHd7_X86uZKnB0rl_31q1MbLcYxhV5RqMNEjS0gMbdJvmior3B4FGki_G3Iq9a83clxSl1g/4sh1M_I_nQtL9rcdrlO904QHZckG7t-6q2qTVeIpNyg"
       }
     ],
-    "image": "/images/oils/al-zait-blend-origens.png"
+    "image": "/images/oils/al-zait-blend-origens.png",
+    "format": "bad"
   },
   {
     "slug": "almaoliva-arbequino",
@@ -241,7 +252,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/AFTKra5gV-P9EJ2p9qZnQA/tr-sKcNuLIUrAf4PEpZd_hpSIcdkuEuoQllpcvxud4UvIAg3TzSBxl8zQetP8Fntf6TsdjI6NDfh5g5qxb3GhOrIenISj4cwVx4jtoSqPflZIjrRigx5b4du5NHd7_X86uZKnB0rl_31q1MbLcYxhV5RqMNEjS0gMbdJvmior3B4FGki_G3Iq9a83clxSl1g/4sh1M_I_nQtL9rcdrlO904QHZckG7t-6q2qTVeIpNyg"
       }
     ],
-    "image": "/images/oils/almaoliva-arbequino.png"
+    "image": "/images/oils/almaoliva-arbequino.png",
+    "format": "good"
   },
   {
     "slug": "almaoliva-bio",
@@ -260,7 +272,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/MiyvC3PoHfI-jPrS68hr9A/npsw4R9PTNMDdiqTkqWP_tY4Wuf7-p5SyKjL-sOScVTrCAnOkQkvnOv8hFeHFloXmuzKKohxNPPb_sxUQVb4iojuHs9XNmfr1imN4JT4LUTUqlrrNLBk5G931ZvNR1iBAmfMepRyIYlaD2cAuLxmGgPIwok4cpE-K4doJCAyavPlqRfv71uubIkkZCat4ccn/Nkm7n75hAYreXV_gjyYnW7YKsLl5gE9cTSxyXC9Iyy8"
       }
     ],
-    "image": "/images/oils/almaoliva-bio.png"
+    "image": "/images/oils/almaoliva-bio.png",
+    "format": "bad"
   },
   {
     "slug": "anshei-hazait-coratina",
@@ -281,7 +294,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/rnUvYskOiMgQ8VO3CzKsRw/2GBy-34e-gvPJrOuzj1b6NE9a6gUcX1gosh2uzQXeA8gWiNLn3s5uVw1b4jfRdv_XqOP6XACQgMyB1SNHSSxphv9OkKLwSYMbJo85lsUp-CBrZLSiEjDuVglM3wGFE50qvSN1dWTsp4f5SOcN3BHNe3NVH_dcqb6UIfaHVgx86M/BW52f3hXxDjLpASoS-1mw76ISKirlU_6ee162rzKu7E"
       }
     ],
-    "image": "/images/oils/anshei-hazait-coratina.png"
+    "image": "/images/oils/anshei-hazait-coratina.png",
+    "format": "bad"
   },
   {
     "slug": "anshei-hazait-koroneiki",
@@ -302,7 +316,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/rnUvYskOiMgQ8VO3CzKsRw/2GBy-34e-gvPJrOuzj1b6NE9a6gUcX1gosh2uzQXeA8gWiNLn3s5uVw1b4jfRdv_XqOP6XACQgMyB1SNHSSxphv9OkKLwSYMbJo85lsUp-CBrZLSiEjDuVglM3wGFE50qvSN1dWTsp4f5SOcN3BHNe3NVH_dcqb6UIfaHVgx86M/BW52f3hXxDjLpASoS-1mw76ISKirlU_6ee162rzKu7E"
       }
     ],
-    "image": "/images/oils/anshei-hazait-koroneiki.png"
+    "image": "/images/oils/anshei-hazait-koroneiki.png",
+    "format": "bad"
   },
   {
     "slug": "anshei-hazait-shahar-blend",
@@ -323,7 +338,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/rnUvYskOiMgQ8VO3CzKsRw/2GBy-34e-gvPJrOuzj1b6NE9a6gUcX1gosh2uzQXeA8gWiNLn3s5uVw1b4jfRdv_XqOP6XACQgMyB1SNHSSxphv9OkKLwSYMbJo85lsUp-CBrZLSiEjDuVglM3wGFE50qvSN1dWTsp4f5SOcN3BHNe3NVH_dcqb6UIfaHVgx86M/BW52f3hXxDjLpASoS-1mw76ISKirlU_6ee162rzKu7E"
       }
     ],
-    "image": "/images/oils/anshei-hazait-shahar-blend.png"
+    "image": "/images/oils/anshei-hazait-shahar-blend.png",
+    "format": "bad"
   },
   {
     "slug": "aparthenasa-vavatsinia",
@@ -342,7 +358,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/MiyvC3PoHfI-jPrS68hr9A/npsw4R9PTNMDdiqTkqWP_tY4Wuf7-p5SyKjL-sOScVTrCAnOkQkvnOv8hFeHFloXmuzKKohxNPPb_sxUQVb4iojuHs9XNmfr1imN4JT4LUTUqlrrNLBk5G931ZvNR1iBAmfMepRyIYlaD2cAuLxmGgPIwok4cpE-K4doJCAyavPlqRfv71uubIkkZCat4ccn/Nkm7n75hAYreXV_gjyYnW7YKsLl5gE9cTSxyXC9Iyy8"
       }
     ],
-    "image": "/images/oils/aparthenasa-vavatsinia.png"
+    "image": "/images/oils/aparthenasa-vavatsinia.png",
+    "format": "bad"
   },
   {
     "slug": "aprile-by-oliovita",
@@ -361,7 +378,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/rnUvYskOiMgQ8VO3CzKsRw/2GBy-34e-gvPJrOuzj1b6NE9a6gUcX1gosh2uzQXeA8gWiNLn3s5uVw1b4jfRdv_XqOP6XACQgMyB1SNHSSxphv9OkKLwSYMbJo85lsUp-CBrZLSiEjDuVglM3wGFE50qvSN1dWTsp4f5SOcN3BHNe3NVH_dcqb6UIfaHVgx86M/BW52f3hXxDjLpASoS-1mw76ISKirlU_6ee162rzKu7E"
       }
     ],
-    "image": "/images/oils/aprile-by-oliovita.png"
+    "image": "/images/oils/aprile-by-oliovita.png",
+    "format": "good"
   },
   {
     "slug": "armonia-monovarietal-organic",
@@ -380,7 +398,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/rnUvYskOiMgQ8VO3CzKsRw/2GBy-34e-gvPJrOuzj1b6NE9a6gUcX1gosh2uzQXeA8gWiNLn3s5uVw1b4jfRdv_XqOP6XACQgMyB1SNHSSxphv9OkKLwSYMbJo85lsUp-CBrZLSiEjDuVglM3wGFE50qvSN1dWTsp4f5SOcN3BHNe3NVH_dcqb6UIfaHVgx86M/BW52f3hXxDjLpASoS-1mw76ISKirlU_6ee162rzKu7E"
       }
     ],
-    "image": "/images/oils/armonia-monovarietal-organic.png"
+    "image": "/images/oils/armonia-monovarietal-organic.png",
+    "format": "good"
   },
   {
     "slug": "assi-classic",
@@ -399,7 +418,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/rnUvYskOiMgQ8VO3CzKsRw/2GBy-34e-gvPJrOuzj1b6NE9a6gUcX1gosh2uzQXeA8gWiNLn3s5uVw1b4jfRdv_XqOP6XACQgMyB1SNHSSxphv9OkKLwSYMbJo85lsUp-CBrZLSiEjDuVglM3wGFE50qvSN1dWTsp4f5SOcN3BHNe3NVH_dcqb6UIfaHVgx86M/BW52f3hXxDjLpASoS-1mw76ISKirlU_6ee162rzKu7E"
       }
     ],
-    "image": "/images/oils/assi-classic.png"
+    "image": "/images/oils/assi-classic.png",
+    "format": "bad"
   },
   {
     "slug": "assi-coratina",
@@ -420,7 +440,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/rnUvYskOiMgQ8VO3CzKsRw/2GBy-34e-gvPJrOuzj1b6NE9a6gUcX1gosh2uzQXeA8gWiNLn3s5uVw1b4jfRdv_XqOP6XACQgMyB1SNHSSxphv9OkKLwSYMbJo85lsUp-CBrZLSiEjDuVglM3wGFE50qvSN1dWTsp4f5SOcN3BHNe3NVH_dcqb6UIfaHVgx86M/BW52f3hXxDjLpASoS-1mw76ISKirlU_6ee162rzKu7E"
       }
     ],
-    "image": "/images/oils/assi-coratina.png"
+    "image": "/images/oils/assi-coratina.png",
+    "format": "bad"
   },
   {
     "slug": "azeite-casa-mourad-blend-da-safra-2025",
@@ -441,7 +462,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/rnUvYskOiMgQ8VO3CzKsRw/2GBy-34e-gvPJrOuzj1b6NE9a6gUcX1gosh2uzQXeA8gWiNLn3s5uVw1b4jfRdv_XqOP6XACQgMyB1SNHSSxphv9OkKLwSYMbJo85lsUp-CBrZLSiEjDuVglM3wGFE50qvSN1dWTsp4f5SOcN3BHNe3NVH_dcqb6UIfaHVgx86M/BW52f3hXxDjLpASoS-1mw76ISKirlU_6ee162rzKu7E"
       }
     ],
-    "image": "/images/oils/azeite-casa-mourad-blend-da-safra-2025.png"
+    "image": "/images/oils/azeite-casa-mourad-blend-da-safra-2025.png",
+    "format": "bad"
   },
   {
     "slug": "azeite-organico-bene-blend-de-safra",
@@ -462,7 +484,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/MiyvC3PoHfI-jPrS68hr9A/npsw4R9PTNMDdiqTkqWP_tY4Wuf7-p5SyKjL-sOScVTrCAnOkQkvnOv8hFeHFloXmuzKKohxNPPb_sxUQVb4iojuHs9XNmfr1imN4JT4LUTUqlrrNLBk5G931ZvNR1iBAmfMepRyIYlaD2cAuLxmGgPIwok4cpE-K4doJCAyavPlqRfv71uubIkkZCat4ccn/Nkm7n75hAYreXV_gjyYnW7YKsLl5gE9cTSxyXC9Iyy8"
       }
     ],
-    "image": "/images/oils/azeite-organico-bene-blend-de-safra.png"
+    "image": "/images/oils/azeite-organico-bene-blend-de-safra.png",
+    "format": "bad"
   },
   {
     "slug": "azeite-tres-meninas-blend",
@@ -483,7 +506,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/AFTKra5gV-P9EJ2p9qZnQA/tr-sKcNuLIUrAf4PEpZd_hpSIcdkuEuoQllpcvxud4UvIAg3TzSBxl8zQetP8Fntf6TsdjI6NDfh5g5qxb3GhOrIenISj4cwVx4jtoSqPflZIjrRigx5b4du5NHd7_X86uZKnB0rl_31q1MbLcYxhV5RqMNEjS0gMbdJvmior3B4FGki_G3Iq9a83clxSl1g/4sh1M_I_nQtL9rcdrlO904QHZckG7t-6q2qTVeIpNyg"
       }
     ],
-    "image": "/images/oils/azeite-tres-meninas-blend.png"
+    "image": "/images/oils/azeite-tres-meninas-blend.png",
+    "format": "good"
   },
   {
     "slug": "barel-olive-oil-barnea",
@@ -504,7 +528,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/rnUvYskOiMgQ8VO3CzKsRw/2GBy-34e-gvPJrOuzj1b6NE9a6gUcX1gosh2uzQXeA8gWiNLn3s5uVw1b4jfRdv_XqOP6XACQgMyB1SNHSSxphv9OkKLwSYMbJo85lsUp-CBrZLSiEjDuVglM3wGFE50qvSN1dWTsp4f5SOcN3BHNe3NVH_dcqb6UIfaHVgx86M/BW52f3hXxDjLpASoS-1mw76ISKirlU_6ee162rzKu7E"
       }
     ],
-    "image": "/images/oils/barel-olive-oil-barnea.png"
+    "image": "/images/oils/barel-olive-oil-barnea.png",
+    "format": "bad"
   },
   {
     "slug": "ben-yaacov-koroneiki-organic",
@@ -525,7 +550,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/rnUvYskOiMgQ8VO3CzKsRw/2GBy-34e-gvPJrOuzj1b6NE9a6gUcX1gosh2uzQXeA8gWiNLn3s5uVw1b4jfRdv_XqOP6XACQgMyB1SNHSSxphv9OkKLwSYMbJo85lsUp-CBrZLSiEjDuVglM3wGFE50qvSN1dWTsp4f5SOcN3BHNe3NVH_dcqb6UIfaHVgx86M/BW52f3hXxDjLpASoS-1mw76ISKirlU_6ee162rzKu7E"
       }
     ],
-    "image": "/images/oils/ben-yaacov-koroneiki-organic.png"
+    "image": "/images/oils/ben-yaacov-koroneiki-organic.png",
+    "format": "bad"
   },
   {
     "slug": "ben-yaacov-picual-organic",
@@ -545,8 +571,7 @@
         "prize": "Grand Prestige Gold",
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/MiyvC3PoHfI-jPrS68hr9A/npsw4R9PTNMDdiqTkqWP_tY4Wuf7-p5SyKjL-sOScVTrCAnOkQkvnOv8hFeHFloXmuzKKohxNPPb_sxUQVb4iojuHs9XNmfr1imN4JT4LUTUqlrrNLBk5G931ZvNR1iBAmfMepRyIYlaD2cAuLxmGgPIwok4cpE-K4doJCAyavPlqRfv71uubIkkZCat4ccn/Nkm7n75hAYreXV_gjyYnW7YKsLl5gE9cTSxyXC9Iyy8"
       }
-    ],
-    "image": "/images/oils/ben-yaacov-picual-organic.png"
+    ]
   },
   {
     "slug": "bio-orto-coratina",
@@ -567,7 +592,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/MiyvC3PoHfI-jPrS68hr9A/npsw4R9PTNMDdiqTkqWP_tY4Wuf7-p5SyKjL-sOScVTrCAnOkQkvnOv8hFeHFloXmuzKKohxNPPb_sxUQVb4iojuHs9XNmfr1imN4JT4LUTUqlrrNLBk5G931ZvNR1iBAmfMepRyIYlaD2cAuLxmGgPIwok4cpE-K4doJCAyavPlqRfv71uubIkkZCat4ccn/Nkm7n75hAYreXV_gjyYnW7YKsLl5gE9cTSxyXC9Iyy8"
       }
     ],
-    "image": "/images/oils/bio-orto-coratina.png"
+    "image": "/images/oils/bio-orto-coratina.png",
+    "format": "bad"
   },
   {
     "slug": "bio-orto-peranzana",
@@ -588,7 +614,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/MiyvC3PoHfI-jPrS68hr9A/npsw4R9PTNMDdiqTkqWP_tY4Wuf7-p5SyKjL-sOScVTrCAnOkQkvnOv8hFeHFloXmuzKKohxNPPb_sxUQVb4iojuHs9XNmfr1imN4JT4LUTUqlrrNLBk5G931ZvNR1iBAmfMepRyIYlaD2cAuLxmGgPIwok4cpE-K4doJCAyavPlqRfv71uubIkkZCat4ccn/Nkm7n75hAYreXV_gjyYnW7YKsLl5gE9cTSxyXC9Iyy8"
       }
     ],
-    "image": "/images/oils/bio-orto-peranzana.png"
+    "image": "/images/oils/bio-orto-peranzana.png",
+    "format": "bad"
   },
   {
     "slug": "blend-da-safra",
@@ -609,7 +636,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/MiyvC3PoHfI-jPrS68hr9A/npsw4R9PTNMDdiqTkqWP_tY4Wuf7-p5SyKjL-sOScVTrCAnOkQkvnOv8hFeHFloXmuzKKohxNPPb_sxUQVb4iojuHs9XNmfr1imN4JT4LUTUqlrrNLBk5G931ZvNR1iBAmfMepRyIYlaD2cAuLxmGgPIwok4cpE-K4doJCAyavPlqRfv71uubIkkZCat4ccn/Nkm7n75hAYreXV_gjyYnW7YKsLl5gE9cTSxyXC9Iyy8"
       }
     ],
-    "image": "/images/oils/blend-da-safra.png"
+    "image": "/images/oils/blend-da-safra.png",
+    "format": "good"
   },
   {
     "slug": "bozelli-chiquita",
@@ -628,7 +656,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/MiyvC3PoHfI-jPrS68hr9A/npsw4R9PTNMDdiqTkqWP_tY4Wuf7-p5SyKjL-sOScVTrCAnOkQkvnOv8hFeHFloXmuzKKohxNPPb_sxUQVb4iojuHs9XNmfr1imN4JT4LUTUqlrrNLBk5G931ZvNR1iBAmfMepRyIYlaD2cAuLxmGgPIwok4cpE-K4doJCAyavPlqRfv71uubIkkZCat4ccn/Nkm7n75hAYreXV_gjyYnW7YKsLl5gE9cTSxyXC9Iyy8"
       }
     ],
-    "image": "/images/oils/bozelli-chiquita.png"
+    "image": "/images/oils/bozelli-chiquita.png",
+    "format": "good"
   },
   {
     "slug": "bozelli-koroneiki",
@@ -649,7 +678,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/MiyvC3PoHfI-jPrS68hr9A/npsw4R9PTNMDdiqTkqWP_tY4Wuf7-p5SyKjL-sOScVTrCAnOkQkvnOv8hFeHFloXmuzKKohxNPPb_sxUQVb4iojuHs9XNmfr1imN4JT4LUTUqlrrNLBk5G931ZvNR1iBAmfMepRyIYlaD2cAuLxmGgPIwok4cpE-K4doJCAyavPlqRfv71uubIkkZCat4ccn/Nkm7n75hAYreXV_gjyYnW7YKsLl5gE9cTSxyXC9Iyy8"
       }
     ],
-    "image": "/images/oils/bozelli-koroneiki.png"
+    "image": "/images/oils/bozelli-koroneiki.png",
+    "format": "good"
   },
   {
     "slug": "bvs-jerusalemoliveoil-barnea",
@@ -670,7 +700,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/AFTKra5gV-P9EJ2p9qZnQA/tr-sKcNuLIUrAf4PEpZd_hpSIcdkuEuoQllpcvxud4UvIAg3TzSBxl8zQetP8Fntf6TsdjI6NDfh5g5qxb3GhOrIenISj4cwVx4jtoSqPflZIjrRigx5b4du5NHd7_X86uZKnB0rl_31q1MbLcYxhV5RqMNEjS0gMbdJvmior3B4FGki_G3Iq9a83clxSl1g/4sh1M_I_nQtL9rcdrlO904QHZckG7t-6q2qTVeIpNyg"
       }
     ],
-    "image": "/images/oils/bottle__bvs-jerusalemoliveoil__bvs-jerusalemoliveoil-barnea.jpg"
+    "image": "/images/oils/bottle__bvs-jerusalemoliveoil__bvs-jerusalemoliveoil-barnea.jpg",
+    "format": "good"
   },
   {
     "slug": "bvs-jerusalemoliveoil-colombia",
@@ -689,7 +720,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/MiyvC3PoHfI-jPrS68hr9A/npsw4R9PTNMDdiqTkqWP_tY4Wuf7-p5SyKjL-sOScVTrCAnOkQkvnOv8hFeHFloXmuzKKohxNPPb_sxUQVb4iojuHs9XNmfr1imN4JT4LUTUqlrrNLBk5G931ZvNR1iBAmfMepRyIYlaD2cAuLxmGgPIwok4cpE-K4doJCAyavPlqRfv71uubIkkZCat4ccn/Nkm7n75hAYreXV_gjyYnW7YKsLl5gE9cTSxyXC9Iyy8"
       }
     ],
-    "image": "/images/oils/bottle__bvs-jerusalemoliveoil__bvs-jerusalemoliveoil-colombia.jpg"
+    "image": "/images/oils/bottle__bvs-jerusalemoliveoil__bvs-jerusalemoliveoil-colombia.jpg",
+    "format": "good"
   },
   {
     "slug": "bvs-jerusalemoliveoil-coratina",
@@ -710,7 +742,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/MiyvC3PoHfI-jPrS68hr9A/npsw4R9PTNMDdiqTkqWP_tY4Wuf7-p5SyKjL-sOScVTrCAnOkQkvnOv8hFeHFloXmuzKKohxNPPb_sxUQVb4iojuHs9XNmfr1imN4JT4LUTUqlrrNLBk5G931ZvNR1iBAmfMepRyIYlaD2cAuLxmGgPIwok4cpE-K4doJCAyavPlqRfv71uubIkkZCat4ccn/Nkm7n75hAYreXV_gjyYnW7YKsLl5gE9cTSxyXC9Iyy8"
       }
     ],
-    "image": "/images/oils/bottle__bvs-jerusalemoliveoil__bvs-jerusalemoliveoil-coratina.jpg"
+    "image": "/images/oils/bottle__bvs-jerusalemoliveoil__bvs-jerusalemoliveoil-coratina.jpg",
+    "format": "good"
   },
   {
     "slug": "bvs-jerusalemoliveoil-heart-notes-blend",
@@ -730,8 +763,7 @@
         "prize": "Grand Prestige Gold",
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/MiyvC3PoHfI-jPrS68hr9A/npsw4R9PTNMDdiqTkqWP_tY4Wuf7-p5SyKjL-sOScVTrCAnOkQkvnOv8hFeHFloXmuzKKohxNPPb_sxUQVb4iojuHs9XNmfr1imN4JT4LUTUqlrrNLBk5G931ZvNR1iBAmfMepRyIYlaD2cAuLxmGgPIwok4cpE-K4doJCAyavPlqRfv71uubIkkZCat4ccn/Nkm7n75hAYreXV_gjyYnW7YKsLl5gE9cTSxyXC9Iyy8"
       }
-    ],
-    "image": "/images/oils/bottle__bvs-jerusalemoliveoil__bvs-jerusalemoliveoil-heart-notes-blend.jpg"
+    ]
   },
   {
     "slug": "bvs-jerusalemoliveoil-koroneiki",
@@ -752,7 +784,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/MiyvC3PoHfI-jPrS68hr9A/npsw4R9PTNMDdiqTkqWP_tY4Wuf7-p5SyKjL-sOScVTrCAnOkQkvnOv8hFeHFloXmuzKKohxNPPb_sxUQVb4iojuHs9XNmfr1imN4JT4LUTUqlrrNLBk5G931ZvNR1iBAmfMepRyIYlaD2cAuLxmGgPIwok4cpE-K4doJCAyavPlqRfv71uubIkkZCat4ccn/Nkm7n75hAYreXV_gjyYnW7YKsLl5gE9cTSxyXC9Iyy8"
       }
     ],
-    "image": "/images/oils/bottle__bvs-jerusalemoliveoil__bvs-jerusalemoliveoil-koroneiki.jpg"
+    "image": "/images/oils/bottle__bvs-jerusalemoliveoil__bvs-jerusalemoliveoil-koroneiki.jpg",
+    "format": "good"
   },
   {
     "slug": "bvs-jerusalemoliveoil-picual",
@@ -772,8 +805,7 @@
         "prize": "Grand Prestige Gold",
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/MiyvC3PoHfI-jPrS68hr9A/npsw4R9PTNMDdiqTkqWP_tY4Wuf7-p5SyKjL-sOScVTrCAnOkQkvnOv8hFeHFloXmuzKKohxNPPb_sxUQVb4iojuHs9XNmfr1imN4JT4LUTUqlrrNLBk5G931ZvNR1iBAmfMepRyIYlaD2cAuLxmGgPIwok4cpE-K4doJCAyavPlqRfv71uubIkkZCat4ccn/Nkm7n75hAYreXV_gjyYnW7YKsLl5gE9cTSxyXC9Iyy8"
       }
-    ],
-    "image": "/images/oils/bottle__bvs-jerusalemoliveoil__bvs-jerusalemoliveoil-picual.jpg"
+    ]
   },
   {
     "slug": "bvs-jerusalemoliveoil-sunrise-early-harvest",
@@ -792,7 +824,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/MiyvC3PoHfI-jPrS68hr9A/npsw4R9PTNMDdiqTkqWP_tY4Wuf7-p5SyKjL-sOScVTrCAnOkQkvnOv8hFeHFloXmuzKKohxNPPb_sxUQVb4iojuHs9XNmfr1imN4JT4LUTUqlrrNLBk5G931ZvNR1iBAmfMepRyIYlaD2cAuLxmGgPIwok4cpE-K4doJCAyavPlqRfv71uubIkkZCat4ccn/Nkm7n75hAYreXV_gjyYnW7YKsLl5gE9cTSxyXC9Iyy8"
       }
     ],
-    "image": "/images/oils/bvs-jerusalemoliveoil-sunrise-early-harvest.png"
+    "image": "/images/oils/bvs-jerusalemoliveoil-sunrise-early-harvest.png",
+    "format": "good"
   },
   {
     "slug": "bvs-jerusalemoliveoil-with-basil",
@@ -811,7 +844,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/MiyvC3PoHfI-jPrS68hr9A/npsw4R9PTNMDdiqTkqWP_tY4Wuf7-p5SyKjL-sOScVTrCAnOkQkvnOv8hFeHFloXmuzKKohxNPPb_sxUQVb4iojuHs9XNmfr1imN4JT4LUTUqlrrNLBk5G931ZvNR1iBAmfMepRyIYlaD2cAuLxmGgPIwok4cpE-K4doJCAyavPlqRfv71uubIkkZCat4ccn/Nkm7n75hAYreXV_gjyYnW7YKsLl5gE9cTSxyXC9Iyy8"
       }
     ],
-    "image": "/images/oils/bottle__bvs-jerusalemoliveoil__bvs-jerusalemoliveoil-with-basil.jpg"
+    "image": "/images/oils/bottle__bvs-jerusalemoliveoil__bvs-jerusalemoliveoil-with-basil.jpg",
+    "format": "good"
   },
   {
     "slug": "bvs-jerusalemoliveoil-with-chipotle",
@@ -829,8 +863,7 @@
         "prize": "Grand Prestige Gold",
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/MiyvC3PoHfI-jPrS68hr9A/npsw4R9PTNMDdiqTkqWP_tY4Wuf7-p5SyKjL-sOScVTrCAnOkQkvnOv8hFeHFloXmuzKKohxNPPb_sxUQVb4iojuHs9XNmfr1imN4JT4LUTUqlrrNLBk5G931ZvNR1iBAmfMepRyIYlaD2cAuLxmGgPIwok4cpE-K4doJCAyavPlqRfv71uubIkkZCat4ccn/Nkm7n75hAYreXV_gjyYnW7YKsLl5gE9cTSxyXC9Iyy8"
       }
-    ],
-    "image": "/images/oils/bottle__bvs-jerusalemoliveoil__bvs-jerusalemoliveoil-with-chipotle.jpg"
+    ]
   },
   {
     "slug": "bvs-jerusalemoliveoil-with-lemon",
@@ -849,7 +882,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/MiyvC3PoHfI-jPrS68hr9A/npsw4R9PTNMDdiqTkqWP_tY4Wuf7-p5SyKjL-sOScVTrCAnOkQkvnOv8hFeHFloXmuzKKohxNPPb_sxUQVb4iojuHs9XNmfr1imN4JT4LUTUqlrrNLBk5G931ZvNR1iBAmfMepRyIYlaD2cAuLxmGgPIwok4cpE-K4doJCAyavPlqRfv71uubIkkZCat4ccn/Nkm7n75hAYreXV_gjyYnW7YKsLl5gE9cTSxyXC9Iyy8"
       }
     ],
-    "image": "/images/oils/bottle__bvs-jerusalemoliveoil__bvs-jerusalemoliveoil-with-lemon.jpg"
+    "image": "/images/oils/bottle__bvs-jerusalemoliveoil__bvs-jerusalemoliveoil-with-lemon.jpg",
+    "format": "good"
   },
   {
     "slug": "bvs-jerusalemoliveoil-with-lemongrass-mint",
@@ -868,7 +902,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/MiyvC3PoHfI-jPrS68hr9A/npsw4R9PTNMDdiqTkqWP_tY4Wuf7-p5SyKjL-sOScVTrCAnOkQkvnOv8hFeHFloXmuzKKohxNPPb_sxUQVb4iojuHs9XNmfr1imN4JT4LUTUqlrrNLBk5G931ZvNR1iBAmfMepRyIYlaD2cAuLxmGgPIwok4cpE-K4doJCAyavPlqRfv71uubIkkZCat4ccn/Nkm7n75hAYreXV_gjyYnW7YKsLl5gE9cTSxyXC9Iyy8"
       }
     ],
-    "image": "/images/oils/bottle__bvs-jerusalemoliveoil__bvs-jerusalemoliveoil-with-lemongrass-mint.jpg"
+    "image": "/images/oils/bottle__bvs-jerusalemoliveoil__bvs-jerusalemoliveoil-with-lemongrass-mint.jpg",
+    "format": "good"
   },
   {
     "slug": "bvs-jerusalemoliveoil-with-zaatar",
@@ -887,7 +922,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/MiyvC3PoHfI-jPrS68hr9A/npsw4R9PTNMDdiqTkqWP_tY4Wuf7-p5SyKjL-sOScVTrCAnOkQkvnOv8hFeHFloXmuzKKohxNPPb_sxUQVb4iojuHs9XNmfr1imN4JT4LUTUqlrrNLBk5G931ZvNR1iBAmfMepRyIYlaD2cAuLxmGgPIwok4cpE-K4doJCAyavPlqRfv71uubIkkZCat4ccn/Nkm7n75hAYreXV_gjyYnW7YKsLl5gE9cTSxyXC9Iyy8"
       }
     ],
-    "image": "/images/oils/bottle__bvs-jerusalemoliveoil__bvs-jerusalemoliveoil-with-zaatar.jpg"
+    "image": "/images/oils/bottle__bvs-jerusalemoliveoil__bvs-jerusalemoliveoil-with-zaatar.jpg",
+    "format": "bad"
   },
   {
     "slug": "capolivo-arbequina",
@@ -908,7 +944,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/AFTKra5gV-P9EJ2p9qZnQA/tr-sKcNuLIUrAf4PEpZd_hpSIcdkuEuoQllpcvxud4UvIAg3TzSBxl8zQetP8Fntf6TsdjI6NDfh5g5qxb3GhOrIenISj4cwVx4jtoSqPflZIjrRigx5b4du5NHd7_X86uZKnB0rl_31q1MbLcYxhV5RqMNEjS0gMbdJvmior3B4FGki_G3Iq9a83clxSl1g/4sh1M_I_nQtL9rcdrlO904QHZckG7t-6q2qTVeIpNyg"
       }
     ],
-    "image": "/images/oils/capolivo-arbequina.png"
+    "image": "/images/oils/capolivo-arbequina.png",
+    "format": "good"
   },
   {
     "slug": "capolivo-koroneiki",
@@ -929,7 +966,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/MiyvC3PoHfI-jPrS68hr9A/npsw4R9PTNMDdiqTkqWP_tY4Wuf7-p5SyKjL-sOScVTrCAnOkQkvnOv8hFeHFloXmuzKKohxNPPb_sxUQVb4iojuHs9XNmfr1imN4JT4LUTUqlrrNLBk5G931ZvNR1iBAmfMepRyIYlaD2cAuLxmGgPIwok4cpE-K4doJCAyavPlqRfv71uubIkkZCat4ccn/Nkm7n75hAYreXV_gjyYnW7YKsLl5gE9cTSxyXC9Iyy8"
       }
     ],
-    "image": "/images/oils/capolivo-koroneiki.png"
+    "image": "/images/oils/capolivo-koroneiki.png",
+    "format": "good"
   },
   {
     "slug": "capolivo-picual",
@@ -950,7 +988,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/MiyvC3PoHfI-jPrS68hr9A/npsw4R9PTNMDdiqTkqWP_tY4Wuf7-p5SyKjL-sOScVTrCAnOkQkvnOv8hFeHFloXmuzKKohxNPPb_sxUQVb4iojuHs9XNmfr1imN4JT4LUTUqlrrNLBk5G931ZvNR1iBAmfMepRyIYlaD2cAuLxmGgPIwok4cpE-K4doJCAyavPlqRfv71uubIkkZCat4ccn/Nkm7n75hAYreXV_gjyYnW7YKsLl5gE9cTSxyXC9Iyy8"
       }
     ],
-    "image": "/images/oils/capolivo-picual.png"
+    "image": "/images/oils/capolivo-picual.png",
+    "format": "good"
   },
   {
     "slug": "carm-grande-escolha",
@@ -969,7 +1008,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/AFTKra5gV-P9EJ2p9qZnQA/tr-sKcNuLIUrAf4PEpZd_hpSIcdkuEuoQllpcvxud4UvIAg3TzSBxl8zQetP8Fntf6TsdjI6NDfh5g5qxb3GhOrIenISj4cwVx4jtoSqPflZIjrRigx5b4du5NHd7_X86uZKnB0rl_31q1MbLcYxhV5RqMNEjS0gMbdJvmior3B4FGki_G3Iq9a83clxSl1g/4sh1M_I_nQtL9rcdrlO904QHZckG7t-6q2qTVeIpNyg"
       }
     ],
-    "image": "/images/oils/carm-grande-escolha.png"
+    "image": "/images/oils/carm-grande-escolha.png",
+    "format": "good"
   },
   {
     "slug": "carm-praemium",
@@ -988,7 +1028,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/AFTKra5gV-P9EJ2p9qZnQA/tr-sKcNuLIUrAf4PEpZd_hpSIcdkuEuoQllpcvxud4UvIAg3TzSBxl8zQetP8Fntf6TsdjI6NDfh5g5qxb3GhOrIenISj4cwVx4jtoSqPflZIjrRigx5b4du5NHd7_X86uZKnB0rl_31q1MbLcYxhV5RqMNEjS0gMbdJvmior3B4FGki_G3Iq9a83clxSl1g/4sh1M_I_nQtL9rcdrlO904QHZckG7t-6q2qTVeIpNyg"
       }
     ],
-    "image": "/images/oils/carm-praemium.png"
+    "image": "/images/oils/carm-praemium.png",
+    "format": "good"
   },
   {
     "slug": "charisma-dios-olympia-pgi",
@@ -1007,7 +1048,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/MiyvC3PoHfI-jPrS68hr9A/npsw4R9PTNMDdiqTkqWP_tY4Wuf7-p5SyKjL-sOScVTrCAnOkQkvnOv8hFeHFloXmuzKKohxNPPb_sxUQVb4iojuHs9XNmfr1imN4JT4LUTUqlrrNLBk5G931ZvNR1iBAmfMepRyIYlaD2cAuLxmGgPIwok4cpE-K4doJCAyavPlqRfv71uubIkkZCat4ccn/Nkm7n75hAYreXV_gjyYnW7YKsLl5gE9cTSxyXC9Iyy8"
       }
     ],
-    "image": "/images/oils/charisma-dios-olympia-pgi.png"
+    "image": "/images/oils/charisma-dios-olympia-pgi.png",
+    "format": "good"
   },
   {
     "slug": "clos-de-la-torre",
@@ -1026,7 +1068,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/AFTKra5gV-P9EJ2p9qZnQA/tr-sKcNuLIUrAf4PEpZd_hpSIcdkuEuoQllpcvxud4UvIAg3TzSBxl8zQetP8Fntf6TsdjI6NDfh5g5qxb3GhOrIenISj4cwVx4jtoSqPflZIjrRigx5b4du5NHd7_X86uZKnB0rl_31q1MbLcYxhV5RqMNEjS0gMbdJvmior3B4FGki_G3Iq9a83clxSl1g/4sh1M_I_nQtL9rcdrlO904QHZckG7t-6q2qTVeIpNyg"
       }
     ],
-    "image": "/images/oils/clos-de-la-torre.png"
+    "image": "/images/oils/clos-de-la-torre.png",
+    "format": "good"
   },
   {
     "slug": "colhida-blend-intenso",
@@ -1047,7 +1090,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/MiyvC3PoHfI-jPrS68hr9A/npsw4R9PTNMDdiqTkqWP_tY4Wuf7-p5SyKjL-sOScVTrCAnOkQkvnOv8hFeHFloXmuzKKohxNPPb_sxUQVb4iojuHs9XNmfr1imN4JT4LUTUqlrrNLBk5G931ZvNR1iBAmfMepRyIYlaD2cAuLxmGgPIwok4cpE-K4doJCAyavPlqRfv71uubIkkZCat4ccn/Nkm7n75hAYreXV_gjyYnW7YKsLl5gE9cTSxyXC9Iyy8"
       }
     ],
-    "image": "/images/oils/colhida-blend-intenso.png"
+    "image": "/images/oils/colhida-blend-intenso.png",
+    "format": "bad"
   },
   {
     "slug": "colhida-blend-terroir",
@@ -1068,7 +1112,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/MiyvC3PoHfI-jPrS68hr9A/npsw4R9PTNMDdiqTkqWP_tY4Wuf7-p5SyKjL-sOScVTrCAnOkQkvnOv8hFeHFloXmuzKKohxNPPb_sxUQVb4iojuHs9XNmfr1imN4JT4LUTUqlrrNLBk5G931ZvNR1iBAmfMepRyIYlaD2cAuLxmGgPIwok4cpE-K4doJCAyavPlqRfv71uubIkkZCat4ccn/Nkm7n75hAYreXV_gjyYnW7YKsLl5gE9cTSxyXC9Iyy8"
       }
     ],
-    "image": "/images/oils/colhida-blend-terroir.png"
+    "image": "/images/oils/colhida-blend-terroir.png",
+    "format": "bad"
   },
   {
     "slug": "corto-olive-agrumato-method-calabrian-chili",
@@ -1087,7 +1132,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/MiyvC3PoHfI-jPrS68hr9A/npsw4R9PTNMDdiqTkqWP_tY4Wuf7-p5SyKjL-sOScVTrCAnOkQkvnOv8hFeHFloXmuzKKohxNPPb_sxUQVb4iojuHs9XNmfr1imN4JT4LUTUqlrrNLBk5G931ZvNR1iBAmfMepRyIYlaD2cAuLxmGgPIwok4cpE-K4doJCAyavPlqRfv71uubIkkZCat4ccn/Nkm7n75hAYreXV_gjyYnW7YKsLl5gE9cTSxyXC9Iyy8"
       }
     ],
-    "image": "/images/oils/corto-olive-agrumato-method-calabrian-chili.png"
+    "image": "/images/oils/corto-olive-agrumato-method-calabrian-chili.png",
+    "format": "good"
   },
   {
     "slug": "coupage-natural",
@@ -1106,7 +1152,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/MiyvC3PoHfI-jPrS68hr9A/npsw4R9PTNMDdiqTkqWP_tY4Wuf7-p5SyKjL-sOScVTrCAnOkQkvnOv8hFeHFloXmuzKKohxNPPb_sxUQVb4iojuHs9XNmfr1imN4JT4LUTUqlrrNLBk5G931ZvNR1iBAmfMepRyIYlaD2cAuLxmGgPIwok4cpE-K4doJCAyavPlqRfv71uubIkkZCat4ccn/Nkm7n75hAYreXV_gjyYnW7YKsLl5gE9cTSxyXC9Iyy8"
       }
     ],
-    "image": "/images/oils/coupage-natural.png"
+    "image": "/images/oils/coupage-natural.png",
+    "format": "bad"
   },
   {
     "slug": "degustus",
@@ -1125,7 +1172,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/MiyvC3PoHfI-jPrS68hr9A/npsw4R9PTNMDdiqTkqWP_tY4Wuf7-p5SyKjL-sOScVTrCAnOkQkvnOv8hFeHFloXmuzKKohxNPPb_sxUQVb4iojuHs9XNmfr1imN4JT4LUTUqlrrNLBk5G931ZvNR1iBAmfMepRyIYlaD2cAuLxmGgPIwok4cpE-K4doJCAyavPlqRfv71uubIkkZCat4ccn/Nkm7n75hAYreXV_gjyYnW7YKsLl5gE9cTSxyXC9Iyy8"
       }
     ],
-    "image": "/images/oils/degustus.png"
+    "image": "/images/oils/degustus.png",
+    "format": "bad"
   },
   {
     "slug": "degustus-ecologic",
@@ -1144,7 +1192,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/MiyvC3PoHfI-jPrS68hr9A/npsw4R9PTNMDdiqTkqWP_tY4Wuf7-p5SyKjL-sOScVTrCAnOkQkvnOv8hFeHFloXmuzKKohxNPPb_sxUQVb4iojuHs9XNmfr1imN4JT4LUTUqlrrNLBk5G931ZvNR1iBAmfMepRyIYlaD2cAuLxmGgPIwok4cpE-K4doJCAyavPlqRfv71uubIkkZCat4ccn/Nkm7n75hAYreXV_gjyYnW7YKsLl5gE9cTSxyXC9Iyy8"
       }
     ],
-    "image": "/images/oils/degustus-ecologic.png"
+    "image": "/images/oils/degustus-ecologic.png",
+    "format": "bad"
   },
   {
     "slug": "delice-farm-house",
@@ -1163,7 +1212,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/MiyvC3PoHfI-jPrS68hr9A/npsw4R9PTNMDdiqTkqWP_tY4Wuf7-p5SyKjL-sOScVTrCAnOkQkvnOv8hFeHFloXmuzKKohxNPPb_sxUQVb4iojuHs9XNmfr1imN4JT4LUTUqlrrNLBk5G931ZvNR1iBAmfMepRyIYlaD2cAuLxmGgPIwok4cpE-K4doJCAyavPlqRfv71uubIkkZCat4ccn/Nkm7n75hAYreXV_gjyYnW7YKsLl5gE9cTSxyXC9Iyy8"
       }
     ],
-    "image": "/images/oils/delice-farm-house.png"
+    "image": "/images/oils/delice-farm-house.png",
+    "format": "good"
   },
   {
     "slug": "domenica-fiore-novello",
@@ -1182,7 +1232,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/MiyvC3PoHfI-jPrS68hr9A/npsw4R9PTNMDdiqTkqWP_tY4Wuf7-p5SyKjL-sOScVTrCAnOkQkvnOv8hFeHFloXmuzKKohxNPPb_sxUQVb4iojuHs9XNmfr1imN4JT4LUTUqlrrNLBk5G931ZvNR1iBAmfMepRyIYlaD2cAuLxmGgPIwok4cpE-K4doJCAyavPlqRfv71uubIkkZCat4ccn/Nkm7n75hAYreXV_gjyYnW7YKsLl5gE9cTSxyXC9Iyy8"
       }
     ],
-    "image": "/images/oils/domenica-fiore-novello.png"
+    "image": "/images/oils/domenica-fiore-novello.png",
+    "format": "good"
   },
   {
     "slug": "domenica-fiore-novello-di-notte",
@@ -1201,7 +1252,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/MiyvC3PoHfI-jPrS68hr9A/npsw4R9PTNMDdiqTkqWP_tY4Wuf7-p5SyKjL-sOScVTrCAnOkQkvnOv8hFeHFloXmuzKKohxNPPb_sxUQVb4iojuHs9XNmfr1imN4JT4LUTUqlrrNLBk5G931ZvNR1iBAmfMepRyIYlaD2cAuLxmGgPIwok4cpE-K4doJCAyavPlqRfv71uubIkkZCat4ccn/Nkm7n75hAYreXV_gjyYnW7YKsLl5gE9cTSxyXC9Iyy8"
       }
     ],
-    "image": "/images/oils/domenica-fiore-novello-di-notte.png"
+    "image": "/images/oils/domenica-fiore-novello-di-notte.png",
+    "format": "good"
   },
   {
     "slug": "domenica-fiore-reserva",
@@ -1220,7 +1272,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/MiyvC3PoHfI-jPrS68hr9A/npsw4R9PTNMDdiqTkqWP_tY4Wuf7-p5SyKjL-sOScVTrCAnOkQkvnOv8hFeHFloXmuzKKohxNPPb_sxUQVb4iojuHs9XNmfr1imN4JT4LUTUqlrrNLBk5G931ZvNR1iBAmfMepRyIYlaD2cAuLxmGgPIwok4cpE-K4doJCAyavPlqRfv71uubIkkZCat4ccn/Nkm7n75hAYreXV_gjyYnW7YKsLl5gE9cTSxyXC9Iyy8"
       }
     ],
-    "image": "/images/oils/domenica-fiore-reserva.png"
+    "image": "/images/oils/domenica-fiore-reserva.png",
+    "format": "good"
   },
   {
     "slug": "dominus-cosecha-temprana",
@@ -1239,7 +1292,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/AFTKra5gV-P9EJ2p9qZnQA/tr-sKcNuLIUrAf4PEpZd_hpSIcdkuEuoQllpcvxud4UvIAg3TzSBxl8zQetP8Fntf6TsdjI6NDfh5g5qxb3GhOrIenISj4cwVx4jtoSqPflZIjrRigx5b4du5NHd7_X86uZKnB0rl_31q1MbLcYxhV5RqMNEjS0gMbdJvmior3B4FGki_G3Iq9a83clxSl1g/4sh1M_I_nQtL9rcdrlO904QHZckG7t-6q2qTVeIpNyg"
       }
     ],
-    "image": "/images/oils/dominus-cosecha-temprana.png"
+    "image": "/images/oils/dominus-cosecha-temprana.png",
+    "format": "good"
   },
   {
     "slug": "eden-bahcesi",
@@ -1258,7 +1312,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/MiyvC3PoHfI-jPrS68hr9A/npsw4R9PTNMDdiqTkqWP_tY4Wuf7-p5SyKjL-sOScVTrCAnOkQkvnOv8hFeHFloXmuzKKohxNPPb_sxUQVb4iojuHs9XNmfr1imN4JT4LUTUqlrrNLBk5G931ZvNR1iBAmfMepRyIYlaD2cAuLxmGgPIwok4cpE-K4doJCAyavPlqRfv71uubIkkZCat4ccn/Nkm7n75hAYreXV_gjyYnW7YKsLl5gE9cTSxyXC9Iyy8"
       }
     ],
-    "image": "/images/oils/eden-bahcesi.png"
+    "image": "/images/oils/eden-bahcesi.png",
+    "format": "good"
   },
   {
     "slug": "ekin-kocadag-arbequina",
@@ -1279,7 +1334,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/MiyvC3PoHfI-jPrS68hr9A/npsw4R9PTNMDdiqTkqWP_tY4Wuf7-p5SyKjL-sOScVTrCAnOkQkvnOv8hFeHFloXmuzKKohxNPPb_sxUQVb4iojuHs9XNmfr1imN4JT4LUTUqlrrNLBk5G931ZvNR1iBAmfMepRyIYlaD2cAuLxmGgPIwok4cpE-K4doJCAyavPlqRfv71uubIkkZCat4ccn/Nkm7n75hAYreXV_gjyYnW7YKsLl5gE9cTSxyXC9Iyy8"
       }
     ],
-    "image": "/images/oils/ekin-kocadag-arbequina.png"
+    "image": "/images/oils/ekin-kocadag-arbequina.png",
+    "format": "good"
   },
   {
     "slug": "ekin-kocadag-domat",
@@ -1298,7 +1354,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/AFTKra5gV-P9EJ2p9qZnQA/tr-sKcNuLIUrAf4PEpZd_hpSIcdkuEuoQllpcvxud4UvIAg3TzSBxl8zQetP8Fntf6TsdjI6NDfh5g5qxb3GhOrIenISj4cwVx4jtoSqPflZIjrRigx5b4du5NHd7_X86uZKnB0rl_31q1MbLcYxhV5RqMNEjS0gMbdJvmior3B4FGki_G3Iq9a83clxSl1g/4sh1M_I_nQtL9rcdrlO904QHZckG7t-6q2qTVeIpNyg"
       }
     ],
-    "image": "/images/oils/ekin-kocadag-domat.png"
+    "image": "/images/oils/ekin-kocadag-domat.png",
+    "format": "good"
   },
   {
     "slug": "ekin-kocadag-edremit",
@@ -1317,7 +1374,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/AFTKra5gV-P9EJ2p9qZnQA/tr-sKcNuLIUrAf4PEpZd_hpSIcdkuEuoQllpcvxud4UvIAg3TzSBxl8zQetP8Fntf6TsdjI6NDfh5g5qxb3GhOrIenISj4cwVx4jtoSqPflZIjrRigx5b4du5NHd7_X86uZKnB0rl_31q1MbLcYxhV5RqMNEjS0gMbdJvmior3B4FGki_G3Iq9a83clxSl1g/4sh1M_I_nQtL9rcdrlO904QHZckG7t-6q2qTVeIpNyg"
       }
     ],
-    "image": "/images/oils/ekin-kocadag-edremit.png"
+    "image": "/images/oils/ekin-kocadag-edremit.png",
+    "format": "good"
   },
   {
     "slug": "ekin-kocadag-trilye",
@@ -1336,7 +1394,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/MiyvC3PoHfI-jPrS68hr9A/npsw4R9PTNMDdiqTkqWP_tY4Wuf7-p5SyKjL-sOScVTrCAnOkQkvnOv8hFeHFloXmuzKKohxNPPb_sxUQVb4iojuHs9XNmfr1imN4JT4LUTUqlrrNLBk5G931ZvNR1iBAmfMepRyIYlaD2cAuLxmGgPIwok4cpE-K4doJCAyavPlqRfv71uubIkkZCat4ccn/Nkm7n75hAYreXV_gjyYnW7YKsLl5gE9cTSxyXC9Iyy8"
       }
     ],
-    "image": "/images/oils/ekin-kocadag-trilye.png"
+    "image": "/images/oils/ekin-kocadag-trilye.png",
+    "format": "good"
   },
   {
     "slug": "el-aceite-de-marta",
@@ -1355,7 +1414,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/rnUvYskOiMgQ8VO3CzKsRw/2GBy-34e-gvPJrOuzj1b6NE9a6gUcX1gosh2uzQXeA8gWiNLn3s5uVw1b4jfRdv_XqOP6XACQgMyB1SNHSSxphv9OkKLwSYMbJo85lsUp-CBrZLSiEjDuVglM3wGFE50qvSN1dWTsp4f5SOcN3BHNe3NVH_dcqb6UIfaHVgx86M/BW52f3hXxDjLpASoS-1mw76ISKirlU_6ee162rzKu7E"
       }
     ],
-    "image": "/images/oils/el-aceite-de-marta.png"
+    "image": "/images/oils/el-aceite-de-marta.png",
+    "format": "bad"
   },
   {
     "slug": "el-empiedro-dop-priego-de-cordoba",
@@ -1374,7 +1434,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/MiyvC3PoHfI-jPrS68hr9A/npsw4R9PTNMDdiqTkqWP_tY4Wuf7-p5SyKjL-sOScVTrCAnOkQkvnOv8hFeHFloXmuzKKohxNPPb_sxUQVb4iojuHs9XNmfr1imN4JT4LUTUqlrrNLBk5G931ZvNR1iBAmfMepRyIYlaD2cAuLxmGgPIwok4cpE-K4doJCAyavPlqRfv71uubIkkZCat4ccn/Nkm7n75hAYreXV_gjyYnW7YKsLl5gE9cTSxyXC9Iyy8"
       }
     ],
-    "image": "/images/oils/el-empiedro-dop-priego-de-cordoba.png"
+    "image": "/images/oils/el-empiedro-dop-priego-de-cordoba.png",
+    "format": "good"
   },
   {
     "slug": "el-empiedro-bio-dop-priego-de-cordoba",
@@ -1393,7 +1454,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/MiyvC3PoHfI-jPrS68hr9A/npsw4R9PTNMDdiqTkqWP_tY4Wuf7-p5SyKjL-sOScVTrCAnOkQkvnOv8hFeHFloXmuzKKohxNPPb_sxUQVb4iojuHs9XNmfr1imN4JT4LUTUqlrrNLBk5G931ZvNR1iBAmfMepRyIYlaD2cAuLxmGgPIwok4cpE-K4doJCAyavPlqRfv71uubIkkZCat4ccn/Nkm7n75hAYreXV_gjyYnW7YKsLl5gE9cTSxyXC9Iyy8"
       }
     ],
-    "image": "/images/oils/el-empiedro-bio-dop-priego-de-cordoba.png"
+    "image": "/images/oils/el-empiedro-bio-dop-priego-de-cordoba.png",
+    "format": "good"
   },
   {
     "slug": "el-mistol-clasico",
@@ -1412,7 +1474,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/AFTKra5gV-P9EJ2p9qZnQA/tr-sKcNuLIUrAf4PEpZd_hpSIcdkuEuoQllpcvxud4UvIAg3TzSBxl8zQetP8Fntf6TsdjI6NDfh5g5qxb3GhOrIenISj4cwVx4jtoSqPflZIjrRigx5b4du5NHd7_X86uZKnB0rl_31q1MbLcYxhV5RqMNEjS0gMbdJvmior3B4FGki_G3Iq9a83clxSl1g/4sh1M_I_nQtL9rcdrlO904QHZckG7t-6q2qTVeIpNyg"
       }
     ],
-    "image": "/images/oils/el-mistol-clasico.png"
+    "image": "/images/oils/el-mistol-clasico.png",
+    "format": "good"
   },
   {
     "slug": "el-mistol-premium",
@@ -1431,7 +1494,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/rnUvYskOiMgQ8VO3CzKsRw/2GBy-34e-gvPJrOuzj1b6NE9a6gUcX1gosh2uzQXeA8gWiNLn3s5uVw1b4jfRdv_XqOP6XACQgMyB1SNHSSxphv9OkKLwSYMbJo85lsUp-CBrZLSiEjDuVglM3wGFE50qvSN1dWTsp4f5SOcN3BHNe3NVH_dcqb6UIfaHVgx86M/BW52f3hXxDjLpASoS-1mw76ISKirlU_6ee162rzKu7E"
       }
     ],
-    "image": "/images/oils/el-mistol-premium.png"
+    "image": "/images/oils/el-mistol-premium.png",
+    "format": "good"
   },
   {
     "slug": "elaiouvios",
@@ -1450,7 +1514,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/MiyvC3PoHfI-jPrS68hr9A/npsw4R9PTNMDdiqTkqWP_tY4Wuf7-p5SyKjL-sOScVTrCAnOkQkvnOv8hFeHFloXmuzKKohxNPPb_sxUQVb4iojuHs9XNmfr1imN4JT4LUTUqlrrNLBk5G931ZvNR1iBAmfMepRyIYlaD2cAuLxmGgPIwok4cpE-K4doJCAyavPlqRfv71uubIkkZCat4ccn/Nkm7n75hAYreXV_gjyYnW7YKsLl5gE9cTSxyXC9Iyy8"
       }
     ],
-    "image": "/images/oils/elaiouvios.png"
+    "image": "/images/oils/elaiouvios.png",
+    "format": "bad"
   },
   {
     "slug": "eliad-from-the-holy-land-distintive-unique",
@@ -1469,7 +1534,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/rnUvYskOiMgQ8VO3CzKsRw/2GBy-34e-gvPJrOuzj1b6NE9a6gUcX1gosh2uzQXeA8gWiNLn3s5uVw1b4jfRdv_XqOP6XACQgMyB1SNHSSxphv9OkKLwSYMbJo85lsUp-CBrZLSiEjDuVglM3wGFE50qvSN1dWTsp4f5SOcN3BHNe3NVH_dcqb6UIfaHVgx86M/BW52f3hXxDjLpASoS-1mw76ISKirlU_6ee162rzKu7E"
       }
     ],
-    "image": "/images/oils/eliad-from-the-holy-land-distintive-unique.png"
+    "image": "/images/oils/eliad-from-the-holy-land-distintive-unique.png",
+    "format": "bad"
   },
   {
     "slug": "eliad-from-the-holy-land-intense-fruity",
@@ -1488,7 +1554,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/rnUvYskOiMgQ8VO3CzKsRw/2GBy-34e-gvPJrOuzj1b6NE9a6gUcX1gosh2uzQXeA8gWiNLn3s5uVw1b4jfRdv_XqOP6XACQgMyB1SNHSSxphv9OkKLwSYMbJo85lsUp-CBrZLSiEjDuVglM3wGFE50qvSN1dWTsp4f5SOcN3BHNe3NVH_dcqb6UIfaHVgx86M/BW52f3hXxDjLpASoS-1mw76ISKirlU_6ee162rzKu7E"
       }
     ],
-    "image": "/images/oils/eliad-from-the-holy-land-intense-fruity.png"
+    "image": "/images/oils/eliad-from-the-holy-land-intense-fruity.png",
+    "format": "bad"
   },
   {
     "slug": "eliad-from-the-holy-land-smooth-balanced",
@@ -1507,7 +1574,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/MiyvC3PoHfI-jPrS68hr9A/npsw4R9PTNMDdiqTkqWP_tY4Wuf7-p5SyKjL-sOScVTrCAnOkQkvnOv8hFeHFloXmuzKKohxNPPb_sxUQVb4iojuHs9XNmfr1imN4JT4LUTUqlrrNLBk5G931ZvNR1iBAmfMepRyIYlaD2cAuLxmGgPIwok4cpE-K4doJCAyavPlqRfv71uubIkkZCat4ccn/Nkm7n75hAYreXV_gjyYnW7YKsLl5gE9cTSxyXC9Iyy8"
       }
     ],
-    "image": "/images/oils/eliad-from-the-holy-land-smooth-balanced.png"
+    "image": "/images/oils/eliad-from-the-holy-land-smooth-balanced.png",
+    "format": "bad"
   },
   {
     "slug": "eliad-olive-oil-arbosana",
@@ -1526,7 +1594,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/rnUvYskOiMgQ8VO3CzKsRw/2GBy-34e-gvPJrOuzj1b6NE9a6gUcX1gosh2uzQXeA8gWiNLn3s5uVw1b4jfRdv_XqOP6XACQgMyB1SNHSSxphv9OkKLwSYMbJo85lsUp-CBrZLSiEjDuVglM3wGFE50qvSN1dWTsp4f5SOcN3BHNe3NVH_dcqb6UIfaHVgx86M/BW52f3hXxDjLpASoS-1mw76ISKirlU_6ee162rzKu7E"
       }
     ],
-    "image": "/images/oils/eliad-olive-oil-arbosana.png"
+    "image": "/images/oils/eliad-olive-oil-arbosana.png",
+    "format": "bad"
   },
   {
     "slug": "eliad-olive-oil-classic-flavor",
@@ -1545,7 +1614,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/rnUvYskOiMgQ8VO3CzKsRw/2GBy-34e-gvPJrOuzj1b6NE9a6gUcX1gosh2uzQXeA8gWiNLn3s5uVw1b4jfRdv_XqOP6XACQgMyB1SNHSSxphv9OkKLwSYMbJo85lsUp-CBrZLSiEjDuVglM3wGFE50qvSN1dWTsp4f5SOcN3BHNe3NVH_dcqb6UIfaHVgx86M/BW52f3hXxDjLpASoS-1mw76ISKirlU_6ee162rzKu7E"
       }
     ],
-    "image": "/images/oils/eliad-olive-oil-classic-flavor.png"
+    "image": "/images/oils/eliad-olive-oil-classic-flavor.png",
+    "format": "bad"
   },
   {
     "slug": "eliad-olive-oil-coratina",
@@ -1566,7 +1636,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/rnUvYskOiMgQ8VO3CzKsRw/2GBy-34e-gvPJrOuzj1b6NE9a6gUcX1gosh2uzQXeA8gWiNLn3s5uVw1b4jfRdv_XqOP6XACQgMyB1SNHSSxphv9OkKLwSYMbJo85lsUp-CBrZLSiEjDuVglM3wGFE50qvSN1dWTsp4f5SOcN3BHNe3NVH_dcqb6UIfaHVgx86M/BW52f3hXxDjLpASoS-1mw76ISKirlU_6ee162rzKu7E"
       }
     ],
-    "image": "/images/oils/eliad-olive-oil-coratina.png"
+    "image": "/images/oils/eliad-olive-oil-coratina.png",
+    "format": "bad"
   },
   {
     "slug": "eliad-olive-oil-koroneiki",
@@ -1587,7 +1658,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/MiyvC3PoHfI-jPrS68hr9A/npsw4R9PTNMDdiqTkqWP_tY4Wuf7-p5SyKjL-sOScVTrCAnOkQkvnOv8hFeHFloXmuzKKohxNPPb_sxUQVb4iojuHs9XNmfr1imN4JT4LUTUqlrrNLBk5G931ZvNR1iBAmfMepRyIYlaD2cAuLxmGgPIwok4cpE-K4doJCAyavPlqRfv71uubIkkZCat4ccn/Nkm7n75hAYreXV_gjyYnW7YKsLl5gE9cTSxyXC9Iyy8"
       }
     ],
-    "image": "/images/oils/eliad-olive-oil-koroneiki.png"
+    "image": "/images/oils/eliad-olive-oil-koroneiki.png",
+    "format": "bad"
   },
   {
     "slug": "eliad-olive-oil-limited-edition-blend-soft-green",
@@ -1608,7 +1680,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/AFTKra5gV-P9EJ2p9qZnQA/tr-sKcNuLIUrAf4PEpZd_hpSIcdkuEuoQllpcvxud4UvIAg3TzSBxl8zQetP8Fntf6TsdjI6NDfh5g5qxb3GhOrIenISj4cwVx4jtoSqPflZIjrRigx5b4du5NHd7_X86uZKnB0rl_31q1MbLcYxhV5RqMNEjS0gMbdJvmior3B4FGki_G3Iq9a83clxSl1g/4sh1M_I_nQtL9rcdrlO904QHZckG7t-6q2qTVeIpNyg"
       }
     ],
-    "image": "/images/oils/eliad-olive-oil-limited-edition-blend-soft-green.png"
+    "image": "/images/oils/eliad-olive-oil-limited-edition-blend-soft-green.png",
+    "format": "bad"
   },
   {
     "slug": "eliad-olive-oil-rich-and-unique-flavor",
@@ -1627,7 +1700,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/AFTKra5gV-P9EJ2p9qZnQA/tr-sKcNuLIUrAf4PEpZd_hpSIcdkuEuoQllpcvxud4UvIAg3TzSBxl8zQetP8Fntf6TsdjI6NDfh5g5qxb3GhOrIenISj4cwVx4jtoSqPflZIjrRigx5b4du5NHd7_X86uZKnB0rl_31q1MbLcYxhV5RqMNEjS0gMbdJvmior3B4FGki_G3Iq9a83clxSl1g/4sh1M_I_nQtL9rcdrlO904QHZckG7t-6q2qTVeIpNyg"
       }
     ],
-    "image": "/images/oils/eliad-olive-oil-rich-and-unique-flavor.png"
+    "image": "/images/oils/eliad-olive-oil-rich-and-unique-flavor.png",
+    "format": "bad"
   },
   {
     "slug": "eretz-geshur-arbequina",
@@ -1648,7 +1722,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/AFTKra5gV-P9EJ2p9qZnQA/tr-sKcNuLIUrAf4PEpZd_hpSIcdkuEuoQllpcvxud4UvIAg3TzSBxl8zQetP8Fntf6TsdjI6NDfh5g5qxb3GhOrIenISj4cwVx4jtoSqPflZIjrRigx5b4du5NHd7_X86uZKnB0rl_31q1MbLcYxhV5RqMNEjS0gMbdJvmior3B4FGki_G3Iq9a83clxSl1g/4sh1M_I_nQtL9rcdrlO904QHZckG7t-6q2qTVeIpNyg"
       }
     ],
-    "image": "/images/oils/eretz-geshur-arbequina.png"
+    "image": "/images/oils/eretz-geshur-arbequina.png",
+    "format": "bad"
   },
   {
     "slug": "eretz-geshur-arbosana",
@@ -1667,7 +1742,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/AFTKra5gV-P9EJ2p9qZnQA/tr-sKcNuLIUrAf4PEpZd_hpSIcdkuEuoQllpcvxud4UvIAg3TzSBxl8zQetP8Fntf6TsdjI6NDfh5g5qxb3GhOrIenISj4cwVx4jtoSqPflZIjrRigx5b4du5NHd7_X86uZKnB0rl_31q1MbLcYxhV5RqMNEjS0gMbdJvmior3B4FGki_G3Iq9a83clxSl1g/4sh1M_I_nQtL9rcdrlO904QHZckG7t-6q2qTVeIpNyg"
       }
     ],
-    "image": "/images/oils/eretz-geshur-arbosana.png"
+    "image": "/images/oils/eretz-geshur-arbosana.png",
+    "format": "bad"
   },
   {
     "slug": "eretz-geshur-barnea",
@@ -1688,7 +1764,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/AFTKra5gV-P9EJ2p9qZnQA/tr-sKcNuLIUrAf4PEpZd_hpSIcdkuEuoQllpcvxud4UvIAg3TzSBxl8zQetP8Fntf6TsdjI6NDfh5g5qxb3GhOrIenISj4cwVx4jtoSqPflZIjrRigx5b4du5NHd7_X86uZKnB0rl_31q1MbLcYxhV5RqMNEjS0gMbdJvmior3B4FGki_G3Iq9a83clxSl1g/4sh1M_I_nQtL9rcdrlO904QHZckG7t-6q2qTVeIpNyg"
       }
     ],
-    "image": "/images/oils/eretz-geshur-barnea.png"
+    "image": "/images/oils/eretz-geshur-barnea.png",
+    "format": "good"
   },
   {
     "slug": "eretz-geshur-coratina",
@@ -1709,7 +1786,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/AFTKra5gV-P9EJ2p9qZnQA/tr-sKcNuLIUrAf4PEpZd_hpSIcdkuEuoQllpcvxud4UvIAg3TzSBxl8zQetP8Fntf6TsdjI6NDfh5g5qxb3GhOrIenISj4cwVx4jtoSqPflZIjrRigx5b4du5NHd7_X86uZKnB0rl_31q1MbLcYxhV5RqMNEjS0gMbdJvmior3B4FGki_G3Iq9a83clxSl1g/4sh1M_I_nQtL9rcdrlO904QHZckG7t-6q2qTVeIpNyg"
       }
     ],
-    "image": "/images/oils/eretz-geshur-coratina.png"
+    "image": "/images/oils/eretz-geshur-coratina.png",
+    "format": "bad"
   },
   {
     "slug": "eretz-geshur-koroneiki",
@@ -1730,7 +1808,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/MiyvC3PoHfI-jPrS68hr9A/npsw4R9PTNMDdiqTkqWP_tY4Wuf7-p5SyKjL-sOScVTrCAnOkQkvnOv8hFeHFloXmuzKKohxNPPb_sxUQVb4iojuHs9XNmfr1imN4JT4LUTUqlrrNLBk5G931ZvNR1iBAmfMepRyIYlaD2cAuLxmGgPIwok4cpE-K4doJCAyavPlqRfv71uubIkkZCat4ccn/Nkm7n75hAYreXV_gjyYnW7YKsLl5gE9cTSxyXC9Iyy8"
       }
     ],
-    "image": "/images/oils/eretz-geshur-koroneiki.png"
+    "image": "/images/oils/eretz-geshur-koroneiki.png",
+    "format": "bad"
   },
   {
     "slug": "eretz-geshur-leccino",
@@ -1751,7 +1830,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/AFTKra5gV-P9EJ2p9qZnQA/tr-sKcNuLIUrAf4PEpZd_hpSIcdkuEuoQllpcvxud4UvIAg3TzSBxl8zQetP8Fntf6TsdjI6NDfh5g5qxb3GhOrIenISj4cwVx4jtoSqPflZIjrRigx5b4du5NHd7_X86uZKnB0rl_31q1MbLcYxhV5RqMNEjS0gMbdJvmior3B4FGki_G3Iq9a83clxSl1g/4sh1M_I_nQtL9rcdrlO904QHZckG7t-6q2qTVeIpNyg"
       }
     ],
-    "image": "/images/oils/eretz-geshur-leccino.png"
+    "image": "/images/oils/eretz-geshur-leccino.png",
+    "format": "bad"
   },
   {
     "slug": "eretz-geshur-morisca",
@@ -1772,7 +1852,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/rnUvYskOiMgQ8VO3CzKsRw/2GBy-34e-gvPJrOuzj1b6NE9a6gUcX1gosh2uzQXeA8gWiNLn3s5uVw1b4jfRdv_XqOP6XACQgMyB1SNHSSxphv9OkKLwSYMbJo85lsUp-CBrZLSiEjDuVglM3wGFE50qvSN1dWTsp4f5SOcN3BHNe3NVH_dcqb6UIfaHVgx86M/BW52f3hXxDjLpASoS-1mw76ISKirlU_6ee162rzKu7E"
       }
     ],
-    "image": "/images/oils/eretz-geshur-morisca.png"
+    "image": "/images/oils/eretz-geshur-morisca.png",
+    "format": "bad"
   },
   {
     "slug": "eretz-geshur-picual",
@@ -1793,7 +1874,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/rnUvYskOiMgQ8VO3CzKsRw/2GBy-34e-gvPJrOuzj1b6NE9a6gUcX1gosh2uzQXeA8gWiNLn3s5uVw1b4jfRdv_XqOP6XACQgMyB1SNHSSxphv9OkKLwSYMbJo85lsUp-CBrZLSiEjDuVglM3wGFE50qvSN1dWTsp4f5SOcN3BHNe3NVH_dcqb6UIfaHVgx86M/BW52f3hXxDjLpASoS-1mw76ISKirlU_6ee162rzKu7E"
       }
     ],
-    "image": "/images/oils/eretz-geshur-picual.png"
+    "image": "/images/oils/eretz-geshur-picual.png",
+    "format": "bad"
   },
   {
     "slug": "eretz-zait-meshek-bar-hai-david-blend",
@@ -1814,7 +1896,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/MiyvC3PoHfI-jPrS68hr9A/npsw4R9PTNMDdiqTkqWP_tY4Wuf7-p5SyKjL-sOScVTrCAnOkQkvnOv8hFeHFloXmuzKKohxNPPb_sxUQVb4iojuHs9XNmfr1imN4JT4LUTUqlrrNLBk5G931ZvNR1iBAmfMepRyIYlaD2cAuLxmGgPIwok4cpE-K4doJCAyavPlqRfv71uubIkkZCat4ccn/Nkm7n75hAYreXV_gjyYnW7YKsLl5gE9cTSxyXC9Iyy8"
       }
     ],
-    "image": "/images/oils/eretz-zait-meshek-bar-hai-david-blend.png"
+    "image": "/images/oils/eretz-zait-meshek-bar-hai-david-blend.png",
+    "format": "bad"
   },
   {
     "slug": "estancia-das-oliveiras-arbequina",
@@ -1835,7 +1918,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/rnUvYskOiMgQ8VO3CzKsRw/2GBy-34e-gvPJrOuzj1b6NE9a6gUcX1gosh2uzQXeA8gWiNLn3s5uVw1b4jfRdv_XqOP6XACQgMyB1SNHSSxphv9OkKLwSYMbJo85lsUp-CBrZLSiEjDuVglM3wGFE50qvSN1dWTsp4f5SOcN3BHNe3NVH_dcqb6UIfaHVgx86M/BW52f3hXxDjLpASoS-1mw76ISKirlU_6ee162rzKu7E"
       }
     ],
-    "image": "/images/oils/estancia-das-oliveiras-arbequina.png"
+    "image": "/images/oils/estancia-das-oliveiras-arbequina.png",
+    "format": "good"
   },
   {
     "slug": "estancia-das-oliveiras-blend-exclusivo",
@@ -1856,7 +1940,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/AFTKra5gV-P9EJ2p9qZnQA/tr-sKcNuLIUrAf4PEpZd_hpSIcdkuEuoQllpcvxud4UvIAg3TzSBxl8zQetP8Fntf6TsdjI6NDfh5g5qxb3GhOrIenISj4cwVx4jtoSqPflZIjrRigx5b4du5NHd7_X86uZKnB0rl_31q1MbLcYxhV5RqMNEjS0gMbdJvmior3B4FGki_G3Iq9a83clxSl1g/4sh1M_I_nQtL9rcdrlO904QHZckG7t-6q2qTVeIpNyg"
       }
     ],
-    "image": "/images/oils/estancia-das-oliveiras-blend-exclusivo.png"
+    "image": "/images/oils/estancia-das-oliveiras-blend-exclusivo.png",
+    "format": "good"
   },
   {
     "slug": "estancia-das-oliveiras-coratina",
@@ -1877,7 +1962,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/AFTKra5gV-P9EJ2p9qZnQA/tr-sKcNuLIUrAf4PEpZd_hpSIcdkuEuoQllpcvxud4UvIAg3TzSBxl8zQetP8Fntf6TsdjI6NDfh5g5qxb3GhOrIenISj4cwVx4jtoSqPflZIjrRigx5b4du5NHd7_X86uZKnB0rl_31q1MbLcYxhV5RqMNEjS0gMbdJvmior3B4FGki_G3Iq9a83clxSl1g/4sh1M_I_nQtL9rcdrlO904QHZckG7t-6q2qTVeIpNyg"
       }
     ],
-    "image": "/images/oils/estancia-das-oliveiras-coratina.png"
+    "image": "/images/oils/estancia-das-oliveiras-coratina.png",
+    "format": "good"
   },
   {
     "slug": "estancia-das-oliveiras-koroneiki",
@@ -1898,7 +1984,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/MiyvC3PoHfI-jPrS68hr9A/npsw4R9PTNMDdiqTkqWP_tY4Wuf7-p5SyKjL-sOScVTrCAnOkQkvnOv8hFeHFloXmuzKKohxNPPb_sxUQVb4iojuHs9XNmfr1imN4JT4LUTUqlrrNLBk5G931ZvNR1iBAmfMepRyIYlaD2cAuLxmGgPIwok4cpE-K4doJCAyavPlqRfv71uubIkkZCat4ccn/Nkm7n75hAYreXV_gjyYnW7YKsLl5gE9cTSxyXC9Iyy8"
       }
     ],
-    "image": "/images/oils/estancia-das-oliveiras-koroneiki.png"
+    "image": "/images/oils/estancia-das-oliveiras-koroneiki.png",
+    "format": "good"
   },
   {
     "slug": "estancia-das-oliveiras-los-dos",
@@ -1917,7 +2004,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/MiyvC3PoHfI-jPrS68hr9A/npsw4R9PTNMDdiqTkqWP_tY4Wuf7-p5SyKjL-sOScVTrCAnOkQkvnOv8hFeHFloXmuzKKohxNPPb_sxUQVb4iojuHs9XNmfr1imN4JT4LUTUqlrrNLBk5G931ZvNR1iBAmfMepRyIYlaD2cAuLxmGgPIwok4cpE-K4doJCAyavPlqRfv71uubIkkZCat4ccn/Nkm7n75hAYreXV_gjyYnW7YKsLl5gE9cTSxyXC9Iyy8"
       }
     ],
-    "image": "/images/oils/estancia-das-oliveiras-los-dos.png"
+    "image": "/images/oils/estancia-das-oliveiras-los-dos.png",
+    "format": "good"
   },
   {
     "slug": "estancia-das-oliveiras-picual",
@@ -1938,7 +2026,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/AFTKra5gV-P9EJ2p9qZnQA/tr-sKcNuLIUrAf4PEpZd_hpSIcdkuEuoQllpcvxud4UvIAg3TzSBxl8zQetP8Fntf6TsdjI6NDfh5g5qxb3GhOrIenISj4cwVx4jtoSqPflZIjrRigx5b4du5NHd7_X86uZKnB0rl_31q1MbLcYxhV5RqMNEjS0gMbdJvmior3B4FGki_G3Iq9a83clxSl1g/4sh1M_I_nQtL9rcdrlO904QHZckG7t-6q2qTVeIpNyg"
       }
     ],
-    "image": "/images/oils/estancia-das-oliveiras-picual.png"
+    "image": "/images/oils/estancia-das-oliveiras-picual.png",
+    "format": "good"
   },
   {
     "slug": "estancia-das-oliveiras-signature",
@@ -1957,7 +2046,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/MiyvC3PoHfI-jPrS68hr9A/npsw4R9PTNMDdiqTkqWP_tY4Wuf7-p5SyKjL-sOScVTrCAnOkQkvnOv8hFeHFloXmuzKKohxNPPb_sxUQVb4iojuHs9XNmfr1imN4JT4LUTUqlrrNLBk5G931ZvNR1iBAmfMepRyIYlaD2cAuLxmGgPIwok4cpE-K4doJCAyavPlqRfv71uubIkkZCat4ccn/Nkm7n75hAYreXV_gjyYnW7YKsLl5gE9cTSxyXC9Iyy8"
       }
     ],
-    "image": "/images/oils/estancia-das-oliveiras-signature.png"
+    "image": "/images/oils/estancia-das-oliveiras-signature.png",
+    "format": "bad"
   },
   {
     "slug": "estilo-oliva-coratina",
@@ -1978,7 +2068,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/MiyvC3PoHfI-jPrS68hr9A/npsw4R9PTNMDdiqTkqWP_tY4Wuf7-p5SyKjL-sOScVTrCAnOkQkvnOv8hFeHFloXmuzKKohxNPPb_sxUQVb4iojuHs9XNmfr1imN4JT4LUTUqlrrNLBk5G931ZvNR1iBAmfMepRyIYlaD2cAuLxmGgPIwok4cpE-K4doJCAyavPlqRfv71uubIkkZCat4ccn/Nkm7n75hAYreXV_gjyYnW7YKsLl5gE9cTSxyXC9Iyy8"
       }
     ],
-    "image": "/images/oils/estilo-oliva-coratina.png"
+    "image": "/images/oils/estilo-oliva-coratina.png",
+    "format": "bad"
   },
   {
     "slug": "etz-hasade-arbequina",
@@ -1999,7 +2090,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/AFTKra5gV-P9EJ2p9qZnQA/tr-sKcNuLIUrAf4PEpZd_hpSIcdkuEuoQllpcvxud4UvIAg3TzSBxl8zQetP8Fntf6TsdjI6NDfh5g5qxb3GhOrIenISj4cwVx4jtoSqPflZIjrRigx5b4du5NHd7_X86uZKnB0rl_31q1MbLcYxhV5RqMNEjS0gMbdJvmior3B4FGki_G3Iq9a83clxSl1g/4sh1M_I_nQtL9rcdrlO904QHZckG7t-6q2qTVeIpNyg"
       }
     ],
-    "image": "/images/oils/etz-hasade-arbequina.png"
+    "image": "/images/oils/etz-hasade-arbequina.png",
+    "format": "bad"
   },
   {
     "slug": "etz-hasade-coratina",
@@ -2020,7 +2112,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/AFTKra5gV-P9EJ2p9qZnQA/tr-sKcNuLIUrAf4PEpZd_hpSIcdkuEuoQllpcvxud4UvIAg3TzSBxl8zQetP8Fntf6TsdjI6NDfh5g5qxb3GhOrIenISj4cwVx4jtoSqPflZIjrRigx5b4du5NHd7_X86uZKnB0rl_31q1MbLcYxhV5RqMNEjS0gMbdJvmior3B4FGki_G3Iq9a83clxSl1g/4sh1M_I_nQtL9rcdrlO904QHZckG7t-6q2qTVeIpNyg"
       }
     ],
-    "image": "/images/oils/etz-hasade-coratina.png"
+    "image": "/images/oils/etz-hasade-coratina.png",
+    "format": "good"
   },
   {
     "slug": "etz-hasade-israeli-blend",
@@ -2041,7 +2134,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/AFTKra5gV-P9EJ2p9qZnQA/tr-sKcNuLIUrAf4PEpZd_hpSIcdkuEuoQllpcvxud4UvIAg3TzSBxl8zQetP8Fntf6TsdjI6NDfh5g5qxb3GhOrIenISj4cwVx4jtoSqPflZIjrRigx5b4du5NHd7_X86uZKnB0rl_31q1MbLcYxhV5RqMNEjS0gMbdJvmior3B4FGki_G3Iq9a83clxSl1g/4sh1M_I_nQtL9rcdrlO904QHZckG7t-6q2qTVeIpNyg"
       }
     ],
-    "image": "/images/oils/etz-hasade-israeli-blend.png"
+    "image": "/images/oils/etz-hasade-israeli-blend.png",
+    "format": "good"
   },
   {
     "slug": "etz-hasade-koroneiki",
@@ -2061,8 +2155,7 @@
         "prize": "Prestige Gold",
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/AFTKra5gV-P9EJ2p9qZnQA/tr-sKcNuLIUrAf4PEpZd_hpSIcdkuEuoQllpcvxud4UvIAg3TzSBxl8zQetP8Fntf6TsdjI6NDfh5g5qxb3GhOrIenISj4cwVx4jtoSqPflZIjrRigx5b4du5NHd7_X86uZKnB0rl_31q1MbLcYxhV5RqMNEjS0gMbdJvmior3B4FGki_G3Iq9a83clxSl1g/4sh1M_I_nQtL9rcdrlO904QHZckG7t-6q2qTVeIpNyg"
       }
-    ],
-    "image": "/images/oils/etz-hasade-koroneiki.png"
+    ]
   },
   {
     "slug": "etz-hasade-organic-blend",
@@ -2083,7 +2176,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/rnUvYskOiMgQ8VO3CzKsRw/2GBy-34e-gvPJrOuzj1b6NE9a6gUcX1gosh2uzQXeA8gWiNLn3s5uVw1b4jfRdv_XqOP6XACQgMyB1SNHSSxphv9OkKLwSYMbJo85lsUp-CBrZLSiEjDuVglM3wGFE50qvSN1dWTsp4f5SOcN3BHNe3NVH_dcqb6UIfaHVgx86M/BW52f3hXxDjLpASoS-1mw76ISKirlU_6ee162rzKu7E"
       }
     ],
-    "image": "/images/oils/etz-hasade-organic-blend.png"
+    "image": "/images/oils/etz-hasade-organic-blend.png",
+    "format": "good"
   },
   {
     "slug": "etz-hasade-picual",
@@ -2104,7 +2198,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/rnUvYskOiMgQ8VO3CzKsRw/2GBy-34e-gvPJrOuzj1b6NE9a6gUcX1gosh2uzQXeA8gWiNLn3s5uVw1b4jfRdv_XqOP6XACQgMyB1SNHSSxphv9OkKLwSYMbJo85lsUp-CBrZLSiEjDuVglM3wGFE50qvSN1dWTsp4f5SOcN3BHNe3NVH_dcqb6UIfaHVgx86M/BW52f3hXxDjLpASoS-1mw76ISKirlU_6ee162rzKu7E"
       }
     ],
-    "image": "/images/oils/etz-hasade-picual.png"
+    "image": "/images/oils/etz-hasade-picual.png",
+    "format": "bad"
   },
   {
     "slug": "etz-hasade-souri",
@@ -2125,7 +2220,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/rnUvYskOiMgQ8VO3CzKsRw/2GBy-34e-gvPJrOuzj1b6NE9a6gUcX1gosh2uzQXeA8gWiNLn3s5uVw1b4jfRdv_XqOP6XACQgMyB1SNHSSxphv9OkKLwSYMbJo85lsUp-CBrZLSiEjDuVglM3wGFE50qvSN1dWTsp4f5SOcN3BHNe3NVH_dcqb6UIfaHVgx86M/BW52f3hXxDjLpASoS-1mw76ISKirlU_6ee162rzKu7E"
       }
     ],
-    "image": "/images/oils/etz-hasade-souri.png"
+    "image": "/images/oils/etz-hasade-souri.png",
+    "format": "bad"
   },
   {
     "slug": "fazenda-maria-da-fe-saborizado-de-alho",
@@ -2144,7 +2240,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/MiyvC3PoHfI-jPrS68hr9A/npsw4R9PTNMDdiqTkqWP_tY4Wuf7-p5SyKjL-sOScVTrCAnOkQkvnOv8hFeHFloXmuzKKohxNPPb_sxUQVb4iojuHs9XNmfr1imN4JT4LUTUqlrrNLBk5G931ZvNR1iBAmfMepRyIYlaD2cAuLxmGgPIwok4cpE-K4doJCAyavPlqRfv71uubIkkZCat4ccn/Nkm7n75hAYreXV_gjyYnW7YKsLl5gE9cTSxyXC9Iyy8"
       }
     ],
-    "image": "/images/oils/fazenda-maria-da-fe-saborizado-de-alho.png"
+    "image": "/images/oils/fazenda-maria-da-fe-saborizado-de-alho.png",
+    "format": "bad"
   },
   {
     "slug": "fazenda-maria-da-fe-saborizado-de-limao-siciliano",
@@ -2163,7 +2260,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/AFTKra5gV-P9EJ2p9qZnQA/tr-sKcNuLIUrAf4PEpZd_hpSIcdkuEuoQllpcvxud4UvIAg3TzSBxl8zQetP8Fntf6TsdjI6NDfh5g5qxb3GhOrIenISj4cwVx4jtoSqPflZIjrRigx5b4du5NHd7_X86uZKnB0rl_31q1MbLcYxhV5RqMNEjS0gMbdJvmior3B4FGki_G3Iq9a83clxSl1g/4sh1M_I_nQtL9rcdrlO904QHZckG7t-6q2qTVeIpNyg"
       }
     ],
-    "image": "/images/oils/fazenda-maria-da-fe-saborizado-de-limao-siciliano.png"
+    "image": "/images/oils/fazenda-maria-da-fe-saborizado-de-limao-siciliano.png",
+    "format": "bad"
   },
   {
     "slug": "finca-la-comarca",
@@ -2182,7 +2280,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/rnUvYskOiMgQ8VO3CzKsRw/2GBy-34e-gvPJrOuzj1b6NE9a6gUcX1gosh2uzQXeA8gWiNLn3s5uVw1b4jfRdv_XqOP6XACQgMyB1SNHSSxphv9OkKLwSYMbJo85lsUp-CBrZLSiEjDuVglM3wGFE50qvSN1dWTsp4f5SOcN3BHNe3NVH_dcqb6UIfaHVgx86M/BW52f3hXxDjLpASoS-1mw76ISKirlU_6ee162rzKu7E"
       }
     ],
-    "image": "/images/oils/finca-la-comarca.png"
+    "image": "/images/oils/finca-la-comarca.png",
+    "format": "bad"
   },
   {
     "slug": "flavored-gourmet-enigma",
@@ -2201,7 +2300,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/rnUvYskOiMgQ8VO3CzKsRw/2GBy-34e-gvPJrOuzj1b6NE9a6gUcX1gosh2uzQXeA8gWiNLn3s5uVw1b4jfRdv_XqOP6XACQgMyB1SNHSSxphv9OkKLwSYMbJo85lsUp-CBrZLSiEjDuVglM3wGFE50qvSN1dWTsp4f5SOcN3BHNe3NVH_dcqb6UIfaHVgx86M/BW52f3hXxDjLpASoS-1mw76ISKirlU_6ee162rzKu7E"
       }
     ],
-    "image": "/images/oils/flavored-gourmet-enigma.png"
+    "image": "/images/oils/flavored-gourmet-enigma.png",
+    "format": "good"
   },
   {
     "slug": "francisco-gomez-serrata-black",
@@ -2220,7 +2320,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/rnUvYskOiMgQ8VO3CzKsRw/2GBy-34e-gvPJrOuzj1b6NE9a6gUcX1gosh2uzQXeA8gWiNLn3s5uVw1b4jfRdv_XqOP6XACQgMyB1SNHSSxphv9OkKLwSYMbJo85lsUp-CBrZLSiEjDuVglM3wGFE50qvSN1dWTsp4f5SOcN3BHNe3NVH_dcqb6UIfaHVgx86M/BW52f3hXxDjLpASoS-1mw76ISKirlU_6ee162rzKu7E"
       }
     ],
-    "image": "/images/oils/francisco-gomez-serrata-black.png"
+    "image": "/images/oils/francisco-gomez-serrata-black.png",
+    "format": "bad"
   },
   {
     "slug": "francisco-gomez-serrata-gold",
@@ -2239,7 +2340,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/AFTKra5gV-P9EJ2p9qZnQA/tr-sKcNuLIUrAf4PEpZd_hpSIcdkuEuoQllpcvxud4UvIAg3TzSBxl8zQetP8Fntf6TsdjI6NDfh5g5qxb3GhOrIenISj4cwVx4jtoSqPflZIjrRigx5b4du5NHd7_X86uZKnB0rl_31q1MbLcYxhV5RqMNEjS0gMbdJvmior3B4FGki_G3Iq9a83clxSl1g/4sh1M_I_nQtL9rcdrlO904QHZckG7t-6q2qTVeIpNyg"
       }
     ],
-    "image": "/images/oils/francisco-gomez-serrata-gold.png"
+    "image": "/images/oils/francisco-gomez-serrata-gold.png",
+    "format": "good"
   },
   {
     "slug": "fuente-del-rey",
@@ -2258,7 +2360,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/MiyvC3PoHfI-jPrS68hr9A/npsw4R9PTNMDdiqTkqWP_tY4Wuf7-p5SyKjL-sOScVTrCAnOkQkvnOv8hFeHFloXmuzKKohxNPPb_sxUQVb4iojuHs9XNmfr1imN4JT4LUTUqlrrNLBk5G931ZvNR1iBAmfMepRyIYlaD2cAuLxmGgPIwok4cpE-K4doJCAyavPlqRfv71uubIkkZCat4ccn/Nkm7n75hAYreXV_gjyYnW7YKsLl5gE9cTSxyXC9Iyy8"
       }
     ],
-    "image": "/images/oils/fuente-del-rey.png"
+    "image": "/images/oils/fuente-del-rey.png",
+    "format": "good"
   },
   {
     "slug": "fyllikon-first-harvest-organic-evoo",
@@ -2277,7 +2380,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/AFTKra5gV-P9EJ2p9qZnQA/tr-sKcNuLIUrAf4PEpZd_hpSIcdkuEuoQllpcvxud4UvIAg3TzSBxl8zQetP8Fntf6TsdjI6NDfh5g5qxb3GhOrIenISj4cwVx4jtoSqPflZIjrRigx5b4du5NHd7_X86uZKnB0rl_31q1MbLcYxhV5RqMNEjS0gMbdJvmior3B4FGki_G3Iq9a83clxSl1g/4sh1M_I_nQtL9rcdrlO904QHZckG7t-6q2qTVeIpNyg"
       }
     ],
-    "image": "/images/oils/fyllikon-first-harvest-organic-evoo.png"
+    "image": "/images/oils/fyllikon-first-harvest-organic-evoo.png",
+    "format": "bad"
   },
   {
     "slug": "gaia-oliva-ayvalk",
@@ -2296,7 +2400,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/MiyvC3PoHfI-jPrS68hr9A/npsw4R9PTNMDdiqTkqWP_tY4Wuf7-p5SyKjL-sOScVTrCAnOkQkvnOv8hFeHFloXmuzKKohxNPPb_sxUQVb4iojuHs9XNmfr1imN4JT4LUTUqlrrNLBk5G931ZvNR1iBAmfMepRyIYlaD2cAuLxmGgPIwok4cpE-K4doJCAyavPlqRfv71uubIkkZCat4ccn/Nkm7n75hAYreXV_gjyYnW7YKsLl5gE9cTSxyXC9Iyy8"
       }
     ],
-    "image": "/images/oils/gaia-oliva-ayvalk.png"
+    "image": "/images/oils/gaia-oliva-ayvalk.png",
+    "format": "good"
   },
   {
     "slug": "gaia-oliva-egenin-hazinesi",
@@ -2315,7 +2420,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/MiyvC3PoHfI-jPrS68hr9A/npsw4R9PTNMDdiqTkqWP_tY4Wuf7-p5SyKjL-sOScVTrCAnOkQkvnOv8hFeHFloXmuzKKohxNPPb_sxUQVb4iojuHs9XNmfr1imN4JT4LUTUqlrrNLBk5G931ZvNR1iBAmfMepRyIYlaD2cAuLxmGgPIwok4cpE-K4doJCAyavPlqRfv71uubIkkZCat4ccn/Nkm7n75hAYreXV_gjyYnW7YKsLl5gE9cTSxyXC9Iyy8"
       }
     ],
-    "image": "/images/oils/gaia-oliva-egenin-hazinesi.png"
+    "image": "/images/oils/gaia-oliva-egenin-hazinesi.png",
+    "format": "good"
   },
   {
     "slug": "gaia-oliva-familys-passion",
@@ -2334,7 +2440,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/MiyvC3PoHfI-jPrS68hr9A/npsw4R9PTNMDdiqTkqWP_tY4Wuf7-p5SyKjL-sOScVTrCAnOkQkvnOv8hFeHFloXmuzKKohxNPPb_sxUQVb4iojuHs9XNmfr1imN4JT4LUTUqlrrNLBk5G931ZvNR1iBAmfMepRyIYlaD2cAuLxmGgPIwok4cpE-K4doJCAyavPlqRfv71uubIkkZCat4ccn/Nkm7n75hAYreXV_gjyYnW7YKsLl5gE9cTSxyXC9Iyy8"
       }
     ],
-    "image": "/images/oils/gaia-oliva-familys-passion.png"
+    "image": "/images/oils/gaia-oliva-familys-passion.png",
+    "format": "good"
   },
   {
     "slug": "gaia-oliva-harvest-excellence",
@@ -2353,7 +2460,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/MiyvC3PoHfI-jPrS68hr9A/npsw4R9PTNMDdiqTkqWP_tY4Wuf7-p5SyKjL-sOScVTrCAnOkQkvnOv8hFeHFloXmuzKKohxNPPb_sxUQVb4iojuHs9XNmfr1imN4JT4LUTUqlrrNLBk5G931ZvNR1iBAmfMepRyIYlaD2cAuLxmGgPIwok4cpE-K4doJCAyavPlqRfv71uubIkkZCat4ccn/Nkm7n75hAYreXV_gjyYnW7YKsLl5gE9cTSxyXC9Iyy8"
       }
     ],
-    "image": "/images/oils/gaia-oliva-harvest-excellence.png"
+    "image": "/images/oils/gaia-oliva-harvest-excellence.png",
+    "format": "good"
   },
   {
     "slug": "gaia-oliva-jalapen",
@@ -2372,7 +2480,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/MiyvC3PoHfI-jPrS68hr9A/npsw4R9PTNMDdiqTkqWP_tY4Wuf7-p5SyKjL-sOScVTrCAnOkQkvnOv8hFeHFloXmuzKKohxNPPb_sxUQVb4iojuHs9XNmfr1imN4JT4LUTUqlrrNLBk5G931ZvNR1iBAmfMepRyIYlaD2cAuLxmGgPIwok4cpE-K4doJCAyavPlqRfv71uubIkkZCat4ccn/Nkm7n75hAYreXV_gjyYnW7YKsLl5gE9cTSxyXC9Iyy8"
       }
     ],
-    "image": "/images/oils/gaia-oliva-jalapen.png"
+    "image": "/images/oils/gaia-oliva-jalapen.png",
+    "format": "good"
   },
   {
     "slug": "gaia-oliva-memecik",
@@ -2393,7 +2502,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/MiyvC3PoHfI-jPrS68hr9A/npsw4R9PTNMDdiqTkqWP_tY4Wuf7-p5SyKjL-sOScVTrCAnOkQkvnOv8hFeHFloXmuzKKohxNPPb_sxUQVb4iojuHs9XNmfr1imN4JT4LUTUqlrrNLBk5G931ZvNR1iBAmfMepRyIYlaD2cAuLxmGgPIwok4cpE-K4doJCAyavPlqRfv71uubIkkZCat4ccn/Nkm7n75hAYreXV_gjyYnW7YKsLl5gE9cTSxyXC9Iyy8"
       }
     ],
-    "image": "/images/oils/gaia-oliva-memecik.png"
+    "image": "/images/oils/gaia-oliva-memecik.png",
+    "format": "good"
   },
   {
     "slug": "gaia-oliva-pride-of-aegea",
@@ -2412,7 +2522,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/rnUvYskOiMgQ8VO3CzKsRw/2GBy-34e-gvPJrOuzj1b6NE9a6gUcX1gosh2uzQXeA8gWiNLn3s5uVw1b4jfRdv_XqOP6XACQgMyB1SNHSSxphv9OkKLwSYMbJo85lsUp-CBrZLSiEjDuVglM3wGFE50qvSN1dWTsp4f5SOcN3BHNe3NVH_dcqb6UIfaHVgx86M/BW52f3hXxDjLpASoS-1mw76ISKirlU_6ee162rzKu7E"
       }
     ],
-    "image": "/images/oils/gaia-oliva-pride-of-aegea.png"
+    "image": "/images/oils/gaia-oliva-pride-of-aegea.png",
+    "format": "good"
   },
   {
     "slug": "gaia-oliva-trilye",
@@ -2431,7 +2542,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/MiyvC3PoHfI-jPrS68hr9A/npsw4R9PTNMDdiqTkqWP_tY4Wuf7-p5SyKjL-sOScVTrCAnOkQkvnOv8hFeHFloXmuzKKohxNPPb_sxUQVb4iojuHs9XNmfr1imN4JT4LUTUqlrrNLBk5G931ZvNR1iBAmfMepRyIYlaD2cAuLxmGgPIwok4cpE-K4doJCAyavPlqRfv71uubIkkZCat4ccn/Nkm7n75hAYreXV_gjyYnW7YKsLl5gE9cTSxyXC9Iyy8"
       }
     ],
-    "image": "/images/oils/gaia-oliva-trilye.png"
+    "image": "/images/oils/gaia-oliva-trilye.png",
+    "format": "good"
   },
   {
     "slug": "gallo-alma-portuguesa-casa-gallo",
@@ -2450,7 +2562,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/MiyvC3PoHfI-jPrS68hr9A/npsw4R9PTNMDdiqTkqWP_tY4Wuf7-p5SyKjL-sOScVTrCAnOkQkvnOv8hFeHFloXmuzKKohxNPPb_sxUQVb4iojuHs9XNmfr1imN4JT4LUTUqlrrNLBk5G931ZvNR1iBAmfMepRyIYlaD2cAuLxmGgPIwok4cpE-K4doJCAyavPlqRfv71uubIkkZCat4ccn/Nkm7n75hAYreXV_gjyYnW7YKsLl5gE9cTSxyXC9Iyy8"
       }
     ],
-    "image": "/images/oils/gallo-alma-portuguesa-casa-gallo.png"
+    "image": "/images/oils/gallo-alma-portuguesa-casa-gallo.png",
+    "format": "good"
   },
   {
     "slug": "gallo-ancestral-casa-gallo",
@@ -2469,7 +2582,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/MiyvC3PoHfI-jPrS68hr9A/npsw4R9PTNMDdiqTkqWP_tY4Wuf7-p5SyKjL-sOScVTrCAnOkQkvnOv8hFeHFloXmuzKKohxNPPb_sxUQVb4iojuHs9XNmfr1imN4JT4LUTUqlrrNLBk5G931ZvNR1iBAmfMepRyIYlaD2cAuLxmGgPIwok4cpE-K4doJCAyavPlqRfv71uubIkkZCat4ccn/Nkm7n75hAYreXV_gjyYnW7YKsLl5gE9cTSxyXC9Iyy8"
       }
     ],
-    "image": "/images/oils/gallo-ancestral-casa-gallo.png"
+    "image": "/images/oils/gallo-ancestral-casa-gallo.png",
+    "format": "good"
   },
   {
     "slug": "gallo-bio-casa-gallo",
@@ -2488,7 +2602,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/MiyvC3PoHfI-jPrS68hr9A/npsw4R9PTNMDdiqTkqWP_tY4Wuf7-p5SyKjL-sOScVTrCAnOkQkvnOv8hFeHFloXmuzKKohxNPPb_sxUQVb4iojuHs9XNmfr1imN4JT4LUTUqlrrNLBk5G931ZvNR1iBAmfMepRyIYlaD2cAuLxmGgPIwok4cpE-K4doJCAyavPlqRfv71uubIkkZCat4ccn/Nkm7n75hAYreXV_gjyYnW7YKsLl5gE9cTSxyXC9Iyy8"
       }
     ],
-    "image": "/images/oils/gallo-bio-casa-gallo.png"
+    "image": "/images/oils/gallo-bio-casa-gallo.png",
+    "format": "good"
   },
   {
     "slug": "gallo-classico-casa-gallo",
@@ -2507,7 +2622,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/AFTKra5gV-P9EJ2p9qZnQA/tr-sKcNuLIUrAf4PEpZd_hpSIcdkuEuoQllpcvxud4UvIAg3TzSBxl8zQetP8Fntf6TsdjI6NDfh5g5qxb3GhOrIenISj4cwVx4jtoSqPflZIjrRigx5b4du5NHd7_X86uZKnB0rl_31q1MbLcYxhV5RqMNEjS0gMbdJvmior3B4FGki_G3Iq9a83clxSl1g/4sh1M_I_nQtL9rcdrlO904QHZckG7t-6q2qTVeIpNyg"
       }
     ],
-    "image": "/images/oils/gallo-classico-casa-gallo.png"
+    "image": "/images/oils/gallo-classico-casa-gallo.png",
+    "format": "good"
   },
   {
     "slug": "gallo-gold-selection-casa-gallo",
@@ -2526,7 +2642,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/AFTKra5gV-P9EJ2p9qZnQA/tr-sKcNuLIUrAf4PEpZd_hpSIcdkuEuoQllpcvxud4UvIAg3TzSBxl8zQetP8Fntf6TsdjI6NDfh5g5qxb3GhOrIenISj4cwVx4jtoSqPflZIjrRigx5b4du5NHd7_X86uZKnB0rl_31q1MbLcYxhV5RqMNEjS0gMbdJvmior3B4FGki_G3Iq9a83clxSl1g/4sh1M_I_nQtL9rcdrlO904QHZckG7t-6q2qTVeIpNyg"
       }
     ],
-    "image": "/images/oils/gallo-gold-selection-casa-gallo.png"
+    "image": "/images/oils/gallo-gold-selection-casa-gallo.png",
+    "format": "good"
   },
   {
     "slug": "gallo-late-harvest-casa-gallo",
@@ -2545,7 +2662,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/MiyvC3PoHfI-jPrS68hr9A/npsw4R9PTNMDdiqTkqWP_tY4Wuf7-p5SyKjL-sOScVTrCAnOkQkvnOv8hFeHFloXmuzKKohxNPPb_sxUQVb4iojuHs9XNmfr1imN4JT4LUTUqlrrNLBk5G931ZvNR1iBAmfMepRyIYlaD2cAuLxmGgPIwok4cpE-K4doJCAyavPlqRfv71uubIkkZCat4ccn/Nkm7n75hAYreXV_gjyYnW7YKsLl5gE9cTSxyXC9Iyy8"
       }
     ],
-    "image": "/images/oils/gallo-late-harvest-casa-gallo.png"
+    "image": "/images/oils/gallo-late-harvest-casa-gallo.png",
+    "format": "good"
   },
   {
     "slug": "gallo-reserva-casa-gallo",
@@ -2564,7 +2682,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/MiyvC3PoHfI-jPrS68hr9A/npsw4R9PTNMDdiqTkqWP_tY4Wuf7-p5SyKjL-sOScVTrCAnOkQkvnOv8hFeHFloXmuzKKohxNPPb_sxUQVb4iojuHs9XNmfr1imN4JT4LUTUqlrrNLBk5G931ZvNR1iBAmfMepRyIYlaD2cAuLxmGgPIwok4cpE-K4doJCAyavPlqRfv71uubIkkZCat4ccn/Nkm7n75hAYreXV_gjyYnW7YKsLl5gE9cTSxyXC9Iyy8"
       }
     ],
-    "image": "/images/oils/gallo-reserva-casa-gallo.png"
+    "image": "/images/oils/gallo-reserva-casa-gallo.png",
+    "format": "bad"
   },
   {
     "slug": "gallo-socalcos-do-norte-casa-gallo",
@@ -2583,7 +2702,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/rnUvYskOiMgQ8VO3CzKsRw/2GBy-34e-gvPJrOuzj1b6NE9a6gUcX1gosh2uzQXeA8gWiNLn3s5uVw1b4jfRdv_XqOP6XACQgMyB1SNHSSxphv9OkKLwSYMbJo85lsUp-CBrZLSiEjDuVglM3wGFE50qvSN1dWTsp4f5SOcN3BHNe3NVH_dcqb6UIfaHVgx86M/BW52f3hXxDjLpASoS-1mw76ISKirlU_6ee162rzKu7E"
       }
     ],
-    "image": "/images/oils/gallo-socalcos-do-norte-casa-gallo.png"
+    "image": "/images/oils/gallo-socalcos-do-norte-casa-gallo.png",
+    "format": "good"
   },
   {
     "slug": "gallo-special-selection-casa-gallo",
@@ -2602,7 +2722,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/MiyvC3PoHfI-jPrS68hr9A/npsw4R9PTNMDdiqTkqWP_tY4Wuf7-p5SyKjL-sOScVTrCAnOkQkvnOv8hFeHFloXmuzKKohxNPPb_sxUQVb4iojuHs9XNmfr1imN4JT4LUTUqlrrNLBk5G931ZvNR1iBAmfMepRyIYlaD2cAuLxmGgPIwok4cpE-K4doJCAyavPlqRfv71uubIkkZCat4ccn/Nkm7n75hAYreXV_gjyYnW7YKsLl5gE9cTSxyXC9Iyy8"
       }
     ],
-    "image": "/images/oils/gallo-special-selection-casa-gallo.png"
+    "image": "/images/oils/gallo-special-selection-casa-gallo.png",
+    "format": "good"
   },
   {
     "slug": "garbo-coratina",
@@ -2623,7 +2744,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/MiyvC3PoHfI-jPrS68hr9A/npsw4R9PTNMDdiqTkqWP_tY4Wuf7-p5SyKjL-sOScVTrCAnOkQkvnOv8hFeHFloXmuzKKohxNPPb_sxUQVb4iojuHs9XNmfr1imN4JT4LUTUqlrrNLBk5G931ZvNR1iBAmfMepRyIYlaD2cAuLxmGgPIwok4cpE-K4doJCAyavPlqRfv71uubIkkZCat4ccn/Nkm7n75hAYreXV_gjyYnW7YKsLl5gE9cTSxyXC9Iyy8"
       }
     ],
-    "image": "/images/oils/garbo-coratina.png"
+    "image": "/images/oils/garbo-coratina.png",
+    "format": "good"
   },
   {
     "slug": "gaudea-signature",
@@ -2642,7 +2764,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/MiyvC3PoHfI-jPrS68hr9A/npsw4R9PTNMDdiqTkqWP_tY4Wuf7-p5SyKjL-sOScVTrCAnOkQkvnOv8hFeHFloXmuzKKohxNPPb_sxUQVb4iojuHs9XNmfr1imN4JT4LUTUqlrrNLBk5G931ZvNR1iBAmfMepRyIYlaD2cAuLxmGgPIwok4cpE-K4doJCAyavPlqRfv71uubIkkZCat4ccn/Nkm7n75hAYreXV_gjyYnW7YKsLl5gE9cTSxyXC9Iyy8"
       }
     ],
-    "image": "/images/oils/gaudea-signature.png"
+    "image": "/images/oils/gaudea-signature.png",
+    "format": "good"
   },
   {
     "slug": "gemstone",
@@ -2661,7 +2784,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/rnUvYskOiMgQ8VO3CzKsRw/2GBy-34e-gvPJrOuzj1b6NE9a6gUcX1gosh2uzQXeA8gWiNLn3s5uVw1b4jfRdv_XqOP6XACQgMyB1SNHSSxphv9OkKLwSYMbJo85lsUp-CBrZLSiEjDuVglM3wGFE50qvSN1dWTsp4f5SOcN3BHNe3NVH_dcqb6UIfaHVgx86M/BW52f3hXxDjLpASoS-1mw76ISKirlU_6ee162rzKu7E"
       }
     ],
-    "image": "/images/oils/gemstone.png"
+    "image": "/images/oils/gemstone.png",
+    "format": "bad"
   },
   {
     "slug": "gigantija-classic-collection",
@@ -2680,7 +2804,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/MiyvC3PoHfI-jPrS68hr9A/npsw4R9PTNMDdiqTkqWP_tY4Wuf7-p5SyKjL-sOScVTrCAnOkQkvnOv8hFeHFloXmuzKKohxNPPb_sxUQVb4iojuHs9XNmfr1imN4JT4LUTUqlrrNLBk5G931ZvNR1iBAmfMepRyIYlaD2cAuLxmGgPIwok4cpE-K4doJCAyavPlqRfv71uubIkkZCat4ccn/Nkm7n75hAYreXV_gjyYnW7YKsLl5gE9cTSxyXC9Iyy8"
       }
     ],
-    "image": "/images/oils/gigantija-classic-collection.png"
+    "image": "/images/oils/gigantija-classic-collection.png",
+    "format": "bad"
   },
   {
     "slug": "gold-elasion",
@@ -2699,7 +2824,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/rnUvYskOiMgQ8VO3CzKsRw/2GBy-34e-gvPJrOuzj1b6NE9a6gUcX1gosh2uzQXeA8gWiNLn3s5uVw1b4jfRdv_XqOP6XACQgMyB1SNHSSxphv9OkKLwSYMbJo85lsUp-CBrZLSiEjDuVglM3wGFE50qvSN1dWTsp4f5SOcN3BHNe3NVH_dcqb6UIfaHVgx86M/BW52f3hXxDjLpASoS-1mw76ISKirlU_6ee162rzKu7E"
       }
     ],
-    "image": "/images/oils/gold-elasion.png"
+    "image": "/images/oils/gold-elasion.png",
+    "format": "bad"
   },
   {
     "slug": "gortys-bio",
@@ -2718,7 +2844,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/MiyvC3PoHfI-jPrS68hr9A/npsw4R9PTNMDdiqTkqWP_tY4Wuf7-p5SyKjL-sOScVTrCAnOkQkvnOv8hFeHFloXmuzKKohxNPPb_sxUQVb4iojuHs9XNmfr1imN4JT4LUTUqlrrNLBk5G931ZvNR1iBAmfMepRyIYlaD2cAuLxmGgPIwok4cpE-K4doJCAyavPlqRfv71uubIkkZCat4ccn/Nkm7n75hAYreXV_gjyYnW7YKsLl5gE9cTSxyXC9Iyy8"
       }
     ],
-    "image": "/images/oils/gortys-bio.png"
+    "image": "/images/oils/gortys-bio.png",
+    "format": "bad"
   },
   {
     "slug": "goya",
@@ -2737,7 +2864,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/rnUvYskOiMgQ8VO3CzKsRw/2GBy-34e-gvPJrOuzj1b6NE9a6gUcX1gosh2uzQXeA8gWiNLn3s5uVw1b4jfRdv_XqOP6XACQgMyB1SNHSSxphv9OkKLwSYMbJo85lsUp-CBrZLSiEjDuVglM3wGFE50qvSN1dWTsp4f5SOcN3BHNe3NVH_dcqb6UIfaHVgx86M/BW52f3hXxDjLpASoS-1mw76ISKirlU_6ee162rzKu7E"
       }
     ],
-    "image": "/images/oils/goya.png"
+    "image": "/images/oils/goya.png",
+    "format": "bad"
   },
   {
     "slug": "goya-garlic",
@@ -2756,7 +2884,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/AFTKra5gV-P9EJ2p9qZnQA/tr-sKcNuLIUrAf4PEpZd_hpSIcdkuEuoQllpcvxud4UvIAg3TzSBxl8zQetP8Fntf6TsdjI6NDfh5g5qxb3GhOrIenISj4cwVx4jtoSqPflZIjrRigx5b4du5NHd7_X86uZKnB0rl_31q1MbLcYxhV5RqMNEjS0gMbdJvmior3B4FGki_G3Iq9a83clxSl1g/4sh1M_I_nQtL9rcdrlO904QHZckG7t-6q2qTVeIpNyg"
       }
     ],
-    "image": "/images/oils/goya-garlic.png"
+    "image": "/images/oils/goya-garlic.png",
+    "format": "bad"
   },
   {
     "slug": "goya-premium-organics",
@@ -2775,7 +2904,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/MiyvC3PoHfI-jPrS68hr9A/npsw4R9PTNMDdiqTkqWP_tY4Wuf7-p5SyKjL-sOScVTrCAnOkQkvnOv8hFeHFloXmuzKKohxNPPb_sxUQVb4iojuHs9XNmfr1imN4JT4LUTUqlrrNLBk5G931ZvNR1iBAmfMepRyIYlaD2cAuLxmGgPIwok4cpE-K4doJCAyavPlqRfv71uubIkkZCat4ccn/Nkm7n75hAYreXV_gjyYnW7YKsLl5gE9cTSxyXC9Iyy8"
       }
     ],
-    "image": "/images/oils/goya-premium-organics.png"
+    "image": "/images/oils/goya-premium-organics.png",
+    "format": "bad"
   },
   {
     "slug": "goya-premium-unico",
@@ -2794,7 +2924,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/MiyvC3PoHfI-jPrS68hr9A/npsw4R9PTNMDdiqTkqWP_tY4Wuf7-p5SyKjL-sOScVTrCAnOkQkvnOv8hFeHFloXmuzKKohxNPPb_sxUQVb4iojuHs9XNmfr1imN4JT4LUTUqlrrNLBk5G931ZvNR1iBAmfMepRyIYlaD2cAuLxmGgPIwok4cpE-K4doJCAyavPlqRfv71uubIkkZCat4ccn/Nkm7n75hAYreXV_gjyYnW7YKsLl5gE9cTSxyXC9Iyy8"
       }
     ],
-    "image": "/images/oils/goya-premium-unico.png"
+    "image": "/images/oils/goya-premium-unico.png",
+    "format": "good"
   },
   {
     "slug": "goya-robusto",
@@ -2813,7 +2944,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/MiyvC3PoHfI-jPrS68hr9A/npsw4R9PTNMDdiqTkqWP_tY4Wuf7-p5SyKjL-sOScVTrCAnOkQkvnOv8hFeHFloXmuzKKohxNPPb_sxUQVb4iojuHs9XNmfr1imN4JT4LUTUqlrrNLBk5G931ZvNR1iBAmfMepRyIYlaD2cAuLxmGgPIwok4cpE-K4doJCAyavPlqRfv71uubIkkZCat4ccn/Nkm7n75hAYreXV_gjyYnW7YKsLl5gE9cTSxyXC9Iyy8"
       }
     ],
-    "image": "/images/oils/goya-robusto.png"
+    "image": "/images/oils/goya-robusto.png",
+    "format": "good"
   },
   {
     "slug": "goya-truffle",
@@ -2832,7 +2964,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/MiyvC3PoHfI-jPrS68hr9A/npsw4R9PTNMDdiqTkqWP_tY4Wuf7-p5SyKjL-sOScVTrCAnOkQkvnOv8hFeHFloXmuzKKohxNPPb_sxUQVb4iojuHs9XNmfr1imN4JT4LUTUqlrrNLBk5G931ZvNR1iBAmfMepRyIYlaD2cAuLxmGgPIwok4cpE-K4doJCAyavPlqRfv71uubIkkZCat4ccn/Nkm7n75hAYreXV_gjyYnW7YKsLl5gE9cTSxyXC9Iyy8"
       }
     ],
-    "image": "/images/oils/goya-truffle.png"
+    "image": "/images/oils/goya-truffle.png",
+    "format": "good"
   },
   {
     "slug": "granpa-premium",
@@ -2851,7 +2984,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/MiyvC3PoHfI-jPrS68hr9A/npsw4R9PTNMDdiqTkqWP_tY4Wuf7-p5SyKjL-sOScVTrCAnOkQkvnOv8hFeHFloXmuzKKohxNPPb_sxUQVb4iojuHs9XNmfr1imN4JT4LUTUqlrrNLBk5G931ZvNR1iBAmfMepRyIYlaD2cAuLxmGgPIwok4cpE-K4doJCAyavPlqRfv71uubIkkZCat4ccn/Nkm7n75hAYreXV_gjyYnW7YKsLl5gE9cTSxyXC9Iyy8"
       }
     ],
-    "image": "/images/oils/granpa-premium.png"
+    "image": "/images/oils/granpa-premium.png",
+    "format": "good"
   },
   {
     "slug": "grattaciello-blend-de-safra",
@@ -2872,7 +3006,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/MiyvC3PoHfI-jPrS68hr9A/npsw4R9PTNMDdiqTkqWP_tY4Wuf7-p5SyKjL-sOScVTrCAnOkQkvnOv8hFeHFloXmuzKKohxNPPb_sxUQVb4iojuHs9XNmfr1imN4JT4LUTUqlrrNLBk5G931ZvNR1iBAmfMepRyIYlaD2cAuLxmGgPIwok4cpE-K4doJCAyavPlqRfv71uubIkkZCat4ccn/Nkm7n75hAYreXV_gjyYnW7YKsLl5gE9cTSxyXC9Iyy8"
       }
     ],
-    "image": "/images/oils/grattaciello-blend-de-safra.png"
+    "image": "/images/oils/grattaciello-blend-de-safra.png",
+    "format": "good"
   },
   {
     "slug": "grattacielo-koroneiki",
@@ -2893,7 +3028,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/AFTKra5gV-P9EJ2p9qZnQA/tr-sKcNuLIUrAf4PEpZd_hpSIcdkuEuoQllpcvxud4UvIAg3TzSBxl8zQetP8Fntf6TsdjI6NDfh5g5qxb3GhOrIenISj4cwVx4jtoSqPflZIjrRigx5b4du5NHd7_X86uZKnB0rl_31q1MbLcYxhV5RqMNEjS0gMbdJvmior3B4FGki_G3Iq9a83clxSl1g/4sh1M_I_nQtL9rcdrlO904QHZckG7t-6q2qTVeIpNyg"
       }
     ],
-    "image": "/images/oils/grattacielo-koroneiki.png"
+    "image": "/images/oils/grattacielo-koroneiki.png",
+    "format": "bad"
   },
   {
     "slug": "halil-esen",
@@ -2912,7 +3048,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/MiyvC3PoHfI-jPrS68hr9A/npsw4R9PTNMDdiqTkqWP_tY4Wuf7-p5SyKjL-sOScVTrCAnOkQkvnOv8hFeHFloXmuzKKohxNPPb_sxUQVb4iojuHs9XNmfr1imN4JT4LUTUqlrrNLBk5G931ZvNR1iBAmfMepRyIYlaD2cAuLxmGgPIwok4cpE-K4doJCAyavPlqRfv71uubIkkZCat4ccn/Nkm7n75hAYreXV_gjyYnW7YKsLl5gE9cTSxyXC9Iyy8"
       }
     ],
-    "image": "/images/oils/halil-esen.png"
+    "image": "/images/oils/halil-esen.png",
+    "format": "good"
   },
   {
     "slug": "hanotrim-arbequina",
@@ -2933,7 +3070,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/AFTKra5gV-P9EJ2p9qZnQA/tr-sKcNuLIUrAf4PEpZd_hpSIcdkuEuoQllpcvxud4UvIAg3TzSBxl8zQetP8Fntf6TsdjI6NDfh5g5qxb3GhOrIenISj4cwVx4jtoSqPflZIjrRigx5b4du5NHd7_X86uZKnB0rl_31q1MbLcYxhV5RqMNEjS0gMbdJvmior3B4FGki_G3Iq9a83clxSl1g/4sh1M_I_nQtL9rcdrlO904QHZckG7t-6q2qTVeIpNyg"
       }
     ],
-    "image": "/images/oils/hanotrim-arbequina.png"
+    "image": "/images/oils/hanotrim-arbequina.png",
+    "format": "bad"
   },
   {
     "slug": "hanotrim-koroneiki",
@@ -2954,7 +3092,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/rnUvYskOiMgQ8VO3CzKsRw/2GBy-34e-gvPJrOuzj1b6NE9a6gUcX1gosh2uzQXeA8gWiNLn3s5uVw1b4jfRdv_XqOP6XACQgMyB1SNHSSxphv9OkKLwSYMbJo85lsUp-CBrZLSiEjDuVglM3wGFE50qvSN1dWTsp4f5SOcN3BHNe3NVH_dcqb6UIfaHVgx86M/BW52f3hXxDjLpASoS-1mw76ISKirlU_6ee162rzKu7E"
       }
     ],
-    "image": "/images/oils/hanotrim-koroneiki.png"
+    "image": "/images/oils/hanotrim-koroneiki.png",
+    "format": "bad"
   },
   {
     "slug": "hashemen-shel-srulik-koroneiki",
@@ -2975,7 +3114,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/MiyvC3PoHfI-jPrS68hr9A/npsw4R9PTNMDdiqTkqWP_tY4Wuf7-p5SyKjL-sOScVTrCAnOkQkvnOv8hFeHFloXmuzKKohxNPPb_sxUQVb4iojuHs9XNmfr1imN4JT4LUTUqlrrNLBk5G931ZvNR1iBAmfMepRyIYlaD2cAuLxmGgPIwok4cpE-K4doJCAyavPlqRfv71uubIkkZCat4ccn/Nkm7n75hAYreXV_gjyYnW7YKsLl5gE9cTSxyXC9Iyy8"
       }
     ],
-    "image": "/images/oils/hashemen-shel-srulik-koroneiki.png"
+    "image": "/images/oils/hashemen-shel-srulik-koroneiki.png",
+    "format": "good"
   },
   {
     "slug": "iliada-kalamata-pdo",
@@ -2994,7 +3134,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/MiyvC3PoHfI-jPrS68hr9A/npsw4R9PTNMDdiqTkqWP_tY4Wuf7-p5SyKjL-sOScVTrCAnOkQkvnOv8hFeHFloXmuzKKohxNPPb_sxUQVb4iojuHs9XNmfr1imN4JT4LUTUqlrrNLBk5G931ZvNR1iBAmfMepRyIYlaD2cAuLxmGgPIwok4cpE-K4doJCAyavPlqRfv71uubIkkZCat4ccn/Nkm7n75hAYreXV_gjyYnW7YKsLl5gE9cTSxyXC9Iyy8"
       }
     ],
-    "image": "/images/oils/iliada-kalamata-pdo.png"
+    "image": "/images/oils/iliada-kalamata-pdo.png",
+    "format": "good"
   },
   {
     "slug": "iliada-kalamata-pdo-organic",
@@ -3013,7 +3154,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/MiyvC3PoHfI-jPrS68hr9A/npsw4R9PTNMDdiqTkqWP_tY4Wuf7-p5SyKjL-sOScVTrCAnOkQkvnOv8hFeHFloXmuzKKohxNPPb_sxUQVb4iojuHs9XNmfr1imN4JT4LUTUqlrrNLBk5G931ZvNR1iBAmfMepRyIYlaD2cAuLxmGgPIwok4cpE-K4doJCAyavPlqRfv71uubIkkZCat4ccn/Nkm7n75hAYreXV_gjyYnW7YKsLl5gE9cTSxyXC9Iyy8"
       }
     ],
-    "image": "/images/oils/iliada-kalamata-pdo-organic.png"
+    "image": "/images/oils/iliada-kalamata-pdo-organic.png",
+    "format": "good"
   },
   {
     "slug": "iliada-organic",
@@ -3032,7 +3174,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/MiyvC3PoHfI-jPrS68hr9A/npsw4R9PTNMDdiqTkqWP_tY4Wuf7-p5SyKjL-sOScVTrCAnOkQkvnOv8hFeHFloXmuzKKohxNPPb_sxUQVb4iojuHs9XNmfr1imN4JT4LUTUqlrrNLBk5G931ZvNR1iBAmfMepRyIYlaD2cAuLxmGgPIwok4cpE-K4doJCAyavPlqRfv71uubIkkZCat4ccn/Nkm7n75hAYreXV_gjyYnW7YKsLl5gE9cTSxyXC9Iyy8"
       }
     ],
-    "image": "/images/oils/iliada-organic.png"
+    "image": "/images/oils/iliada-organic.png",
+    "format": "good"
   },
   {
     "slug": "irina-organic",
@@ -3051,7 +3194,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/rnUvYskOiMgQ8VO3CzKsRw/2GBy-34e-gvPJrOuzj1b6NE9a6gUcX1gosh2uzQXeA8gWiNLn3s5uVw1b4jfRdv_XqOP6XACQgMyB1SNHSSxphv9OkKLwSYMbJo85lsUp-CBrZLSiEjDuVglM3wGFE50qvSN1dWTsp4f5SOcN3BHNe3NVH_dcqb6UIfaHVgx86M/BW52f3hXxDjLpASoS-1mw76ISKirlU_6ee162rzKu7E"
       }
     ],
-    "image": "/images/oils/irina-organic.png"
+    "image": "/images/oils/irina-organic.png",
+    "format": "bad"
   },
   {
     "slug": "irina-pgi-lesvos",
@@ -3069,8 +3213,7 @@
         "prize": "Gold Medal",
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/rnUvYskOiMgQ8VO3CzKsRw/2GBy-34e-gvPJrOuzj1b6NE9a6gUcX1gosh2uzQXeA8gWiNLn3s5uVw1b4jfRdv_XqOP6XACQgMyB1SNHSSxphv9OkKLwSYMbJo85lsUp-CBrZLSiEjDuVglM3wGFE50qvSN1dWTsp4f5SOcN3BHNe3NVH_dcqb6UIfaHVgx86M/BW52f3hXxDjLpASoS-1mw76ISKirlU_6ee162rzKu7E"
       }
-    ],
-    "image": "/images/oils/irina-pgi-lesvos.png"
+    ]
   },
   {
     "slug": "jahshan-classic-galilean-blend",
@@ -3091,7 +3234,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/rnUvYskOiMgQ8VO3CzKsRw/2GBy-34e-gvPJrOuzj1b6NE9a6gUcX1gosh2uzQXeA8gWiNLn3s5uVw1b4jfRdv_XqOP6XACQgMyB1SNHSSxphv9OkKLwSYMbJo85lsUp-CBrZLSiEjDuVglM3wGFE50qvSN1dWTsp4f5SOcN3BHNe3NVH_dcqb6UIfaHVgx86M/BW52f3hXxDjLpASoS-1mw76ISKirlU_6ee162rzKu7E"
       }
     ],
-    "image": "/images/oils/jahshan-classic-galilean-blend.png"
+    "image": "/images/oils/jahshan-classic-galilean-blend.png",
+    "format": "bad"
   },
   {
     "slug": "jahshan-koroneiki",
@@ -3112,7 +3256,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/MiyvC3PoHfI-jPrS68hr9A/npsw4R9PTNMDdiqTkqWP_tY4Wuf7-p5SyKjL-sOScVTrCAnOkQkvnOv8hFeHFloXmuzKKohxNPPb_sxUQVb4iojuHs9XNmfr1imN4JT4LUTUqlrrNLBk5G931ZvNR1iBAmfMepRyIYlaD2cAuLxmGgPIwok4cpE-K4doJCAyavPlqRfv71uubIkkZCat4ccn/Nkm7n75hAYreXV_gjyYnW7YKsLl5gE9cTSxyXC9Iyy8"
       }
     ],
-    "image": "/images/oils/jahshan-koroneiki.png"
+    "image": "/images/oils/jahshan-koroneiki.png",
+    "format": "bad"
   },
   {
     "slug": "jahshan-traditional-nabali",
@@ -3133,7 +3278,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/rnUvYskOiMgQ8VO3CzKsRw/2GBy-34e-gvPJrOuzj1b6NE9a6gUcX1gosh2uzQXeA8gWiNLn3s5uVw1b4jfRdv_XqOP6XACQgMyB1SNHSSxphv9OkKLwSYMbJo85lsUp-CBrZLSiEjDuVglM3wGFE50qvSN1dWTsp4f5SOcN3BHNe3NVH_dcqb6UIfaHVgx86M/BW52f3hXxDjLpASoS-1mw76ISKirlU_6ee162rzKu7E"
       }
     ],
-    "image": "/images/oils/jahshan-traditional-nabali.png"
+    "image": "/images/oils/jahshan-traditional-nabali.png",
+    "format": "bad"
   },
   {
     "slug": "jahshan-traditional-souri",
@@ -3154,7 +3300,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/AFTKra5gV-P9EJ2p9qZnQA/tr-sKcNuLIUrAf4PEpZd_hpSIcdkuEuoQllpcvxud4UvIAg3TzSBxl8zQetP8Fntf6TsdjI6NDfh5g5qxb3GhOrIenISj4cwVx4jtoSqPflZIjrRigx5b4du5NHd7_X86uZKnB0rl_31q1MbLcYxhV5RqMNEjS0gMbdJvmior3B4FGki_G3Iq9a83clxSl1g/4sh1M_I_nQtL9rcdrlO904QHZckG7t-6q2qTVeIpNyg"
       }
     ],
-    "image": "/images/oils/jahshan-traditional-souri.png"
+    "image": "/images/oils/jahshan-traditional-souri.png",
+    "format": "bad"
   },
   {
     "slug": "jordan-bio-olivenol-nativ-extra",
@@ -3173,7 +3320,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/rnUvYskOiMgQ8VO3CzKsRw/2GBy-34e-gvPJrOuzj1b6NE9a6gUcX1gosh2uzQXeA8gWiNLn3s5uVw1b4jfRdv_XqOP6XACQgMyB1SNHSSxphv9OkKLwSYMbJo85lsUp-CBrZLSiEjDuVglM3wGFE50qvSN1dWTsp4f5SOcN3BHNe3NVH_dcqb6UIfaHVgx86M/BW52f3hXxDjLpASoS-1mw76ISKirlU_6ee162rzKu7E"
       }
     ],
-    "image": "/images/oils/jordan-bio-olivenol-nativ-extra.png"
+    "image": "/images/oils/jordan-bio-olivenol-nativ-extra.png",
+    "format": "good"
   },
   {
     "slug": "jordan-olivenol-bambatsa-nativ-extra",
@@ -3192,7 +3340,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/rnUvYskOiMgQ8VO3CzKsRw/2GBy-34e-gvPJrOuzj1b6NE9a6gUcX1gosh2uzQXeA8gWiNLn3s5uVw1b4jfRdv_XqOP6XACQgMyB1SNHSSxphv9OkKLwSYMbJo85lsUp-CBrZLSiEjDuVglM3wGFE50qvSN1dWTsp4f5SOcN3BHNe3NVH_dcqb6UIfaHVgx86M/BW52f3hXxDjLpASoS-1mw76ISKirlU_6ee162rzKu7E"
       }
     ],
-    "image": "/images/oils/jordan-olivenol-bambatsa-nativ-extra.png"
+    "image": "/images/oils/jordan-olivenol-bambatsa-nativ-extra.png",
+    "format": "good"
   },
   {
     "slug": "jordan-olivenol-nativ-extra",
@@ -3211,7 +3360,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/rnUvYskOiMgQ8VO3CzKsRw/2GBy-34e-gvPJrOuzj1b6NE9a6gUcX1gosh2uzQXeA8gWiNLn3s5uVw1b4jfRdv_XqOP6XACQgMyB1SNHSSxphv9OkKLwSYMbJo85lsUp-CBrZLSiEjDuVglM3wGFE50qvSN1dWTsp4f5SOcN3BHNe3NVH_dcqb6UIfaHVgx86M/BW52f3hXxDjLpASoS-1mw76ISKirlU_6ee162rzKu7E"
       }
     ],
-    "image": "/images/oils/jordan-olivenol-nativ-extra.png"
+    "image": "/images/oils/jordan-olivenol-nativ-extra.png",
+    "format": "good"
   },
   {
     "slug": "kielder-premium-selection-evoo",
@@ -3230,7 +3380,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/MiyvC3PoHfI-jPrS68hr9A/npsw4R9PTNMDdiqTkqWP_tY4Wuf7-p5SyKjL-sOScVTrCAnOkQkvnOv8hFeHFloXmuzKKohxNPPb_sxUQVb4iojuHs9XNmfr1imN4JT4LUTUqlrrNLBk5G931ZvNR1iBAmfMepRyIYlaD2cAuLxmGgPIwok4cpE-K4doJCAyavPlqRfv71uubIkkZCat4ccn/Nkm7n75hAYreXV_gjyYnW7YKsLl5gE9cTSxyXC9Iyy8"
       }
     ],
-    "image": "/images/oils/kielder-premium-selection-evoo.png"
+    "image": "/images/oils/kielder-premium-selection-evoo.png",
+    "format": "good"
   },
   {
     "slug": "kirte-early-harvest",
@@ -3249,7 +3400,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/rnUvYskOiMgQ8VO3CzKsRw/2GBy-34e-gvPJrOuzj1b6NE9a6gUcX1gosh2uzQXeA8gWiNLn3s5uVw1b4jfRdv_XqOP6XACQgMyB1SNHSSxphv9OkKLwSYMbJo85lsUp-CBrZLSiEjDuVglM3wGFE50qvSN1dWTsp4f5SOcN3BHNe3NVH_dcqb6UIfaHVgx86M/BW52f3hXxDjLpASoS-1mw76ISKirlU_6ee162rzKu7E"
       }
     ],
-    "image": "/images/oils/kirte-early-harvest.png"
+    "image": "/images/oils/kirte-early-harvest.png",
+    "format": "good"
   },
   {
     "slug": "kishene",
@@ -3268,7 +3420,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/rnUvYskOiMgQ8VO3CzKsRw/2GBy-34e-gvPJrOuzj1b6NE9a6gUcX1gosh2uzQXeA8gWiNLn3s5uVw1b4jfRdv_XqOP6XACQgMyB1SNHSSxphv9OkKLwSYMbJo85lsUp-CBrZLSiEjDuVglM3wGFE50qvSN1dWTsp4f5SOcN3BHNe3NVH_dcqb6UIfaHVgx86M/BW52f3hXxDjLpASoS-1mw76ISKirlU_6ee162rzKu7E"
       }
     ],
-    "image": "/images/oils/kishene.png"
+    "image": "/images/oils/kishene.png",
+    "format": "bad"
   },
   {
     "slug": "knolive-epicure",
@@ -3287,7 +3440,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/MiyvC3PoHfI-jPrS68hr9A/npsw4R9PTNMDdiqTkqWP_tY4Wuf7-p5SyKjL-sOScVTrCAnOkQkvnOv8hFeHFloXmuzKKohxNPPb_sxUQVb4iojuHs9XNmfr1imN4JT4LUTUqlrrNLBk5G931ZvNR1iBAmfMepRyIYlaD2cAuLxmGgPIwok4cpE-K4doJCAyavPlqRfv71uubIkkZCat4ccn/Nkm7n75hAYreXV_gjyYnW7YKsLl5gE9cTSxyXC9Iyy8"
       }
     ],
-    "image": "/images/oils/knolive-epicure.png"
+    "image": "/images/oils/knolive-epicure.png",
+    "format": "good"
   },
   {
     "slug": "kochen-azeite-saborizado-pistachio",
@@ -3306,7 +3460,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/MiyvC3PoHfI-jPrS68hr9A/npsw4R9PTNMDdiqTkqWP_tY4Wuf7-p5SyKjL-sOScVTrCAnOkQkvnOv8hFeHFloXmuzKKohxNPPb_sxUQVb4iojuHs9XNmfr1imN4JT4LUTUqlrrNLBk5G931ZvNR1iBAmfMepRyIYlaD2cAuLxmGgPIwok4cpE-K4doJCAyavPlqRfv71uubIkkZCat4ccn/Nkm7n75hAYreXV_gjyYnW7YKsLl5gE9cTSxyXC9Iyy8"
       }
     ],
-    "image": "/images/oils/kochen-azeite-saborizado-pistachio.png"
+    "image": "/images/oils/kochen-azeite-saborizado-pistachio.png",
+    "format": "good"
   },
   {
     "slug": "la-masada-roya",
@@ -3325,7 +3480,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/AFTKra5gV-P9EJ2p9qZnQA/tr-sKcNuLIUrAf4PEpZd_hpSIcdkuEuoQllpcvxud4UvIAg3TzSBxl8zQetP8Fntf6TsdjI6NDfh5g5qxb3GhOrIenISj4cwVx4jtoSqPflZIjrRigx5b4du5NHd7_X86uZKnB0rl_31q1MbLcYxhV5RqMNEjS0gMbdJvmior3B4FGki_G3Iq9a83clxSl1g/4sh1M_I_nQtL9rcdrlO904QHZckG7t-6q2qTVeIpNyg"
       }
     ],
-    "image": "/images/oils/la-masada-roya.png"
+    "image": "/images/oils/la-masada-roya.png",
+    "format": "bad"
   },
   {
     "slug": "la-redonda",
@@ -3344,7 +3500,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/AFTKra5gV-P9EJ2p9qZnQA/tr-sKcNuLIUrAf4PEpZd_hpSIcdkuEuoQllpcvxud4UvIAg3TzSBxl8zQetP8Fntf6TsdjI6NDfh5g5qxb3GhOrIenISj4cwVx4jtoSqPflZIjrRigx5b4du5NHd7_X86uZKnB0rl_31q1MbLcYxhV5RqMNEjS0gMbdJvmior3B4FGki_G3Iq9a83clxSl1g/4sh1M_I_nQtL9rcdrlO904QHZckG7t-6q2qTVeIpNyg"
       }
     ],
-    "image": "/images/oils/la-redonda.png"
+    "image": "/images/oils/la-redonda.png",
+    "format": "bad"
   },
   {
     "slug": "laconiko",
@@ -3363,7 +3520,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/MiyvC3PoHfI-jPrS68hr9A/npsw4R9PTNMDdiqTkqWP_tY4Wuf7-p5SyKjL-sOScVTrCAnOkQkvnOv8hFeHFloXmuzKKohxNPPb_sxUQVb4iojuHs9XNmfr1imN4JT4LUTUqlrrNLBk5G931ZvNR1iBAmfMepRyIYlaD2cAuLxmGgPIwok4cpE-K4doJCAyavPlqRfv71uubIkkZCat4ccn/Nkm7n75hAYreXV_gjyYnW7YKsLl5gE9cTSxyXC9Iyy8"
       }
     ],
-    "image": "/images/oils/laconiko.png"
+    "image": "/images/oils/laconiko.png",
+    "format": "good"
   },
   {
     "slug": "laconiko-blood-orange",
@@ -3382,7 +3540,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/rnUvYskOiMgQ8VO3CzKsRw/2GBy-34e-gvPJrOuzj1b6NE9a6gUcX1gosh2uzQXeA8gWiNLn3s5uVw1b4jfRdv_XqOP6XACQgMyB1SNHSSxphv9OkKLwSYMbJo85lsUp-CBrZLSiEjDuVglM3wGFE50qvSN1dWTsp4f5SOcN3BHNe3NVH_dcqb6UIfaHVgx86M/BW52f3hXxDjLpASoS-1mw76ISKirlU_6ee162rzKu7E"
       }
     ],
-    "image": "/images/oils/laconiko-blood-orange.png"
+    "image": "/images/oils/laconiko-blood-orange.png",
+    "format": "bad"
   },
   {
     "slug": "laconiko-citrus-habanero",
@@ -3401,7 +3560,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/AFTKra5gV-P9EJ2p9qZnQA/tr-sKcNuLIUrAf4PEpZd_hpSIcdkuEuoQllpcvxud4UvIAg3TzSBxl8zQetP8Fntf6TsdjI6NDfh5g5qxb3GhOrIenISj4cwVx4jtoSqPflZIjrRigx5b4du5NHd7_X86uZKnB0rl_31q1MbLcYxhV5RqMNEjS0gMbdJvmior3B4FGki_G3Iq9a83clxSl1g/4sh1M_I_nQtL9rcdrlO904QHZckG7t-6q2qTVeIpNyg"
       }
     ],
-    "image": "/images/oils/laconiko-citrus-habanero.png"
+    "image": "/images/oils/laconiko-citrus-habanero.png",
+    "format": "good"
   },
   {
     "slug": "laconiko-clementine",
@@ -3420,7 +3580,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/MiyvC3PoHfI-jPrS68hr9A/npsw4R9PTNMDdiqTkqWP_tY4Wuf7-p5SyKjL-sOScVTrCAnOkQkvnOv8hFeHFloXmuzKKohxNPPb_sxUQVb4iojuHs9XNmfr1imN4JT4LUTUqlrrNLBk5G931ZvNR1iBAmfMepRyIYlaD2cAuLxmGgPIwok4cpE-K4doJCAyavPlqRfv71uubIkkZCat4ccn/Nkm7n75hAYreXV_gjyYnW7YKsLl5gE9cTSxyXC9Iyy8"
       }
     ],
-    "image": "/images/oils/laconiko-clementine.png"
+    "image": "/images/oils/laconiko-clementine.png",
+    "format": "bad"
   },
   {
     "slug": "laconiko-garlic",
@@ -3439,7 +3600,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/AFTKra5gV-P9EJ2p9qZnQA/tr-sKcNuLIUrAf4PEpZd_hpSIcdkuEuoQllpcvxud4UvIAg3TzSBxl8zQetP8Fntf6TsdjI6NDfh5g5qxb3GhOrIenISj4cwVx4jtoSqPflZIjrRigx5b4du5NHd7_X86uZKnB0rl_31q1MbLcYxhV5RqMNEjS0gMbdJvmior3B4FGki_G3Iq9a83clxSl1g/4sh1M_I_nQtL9rcdrlO904QHZckG7t-6q2qTVeIpNyg"
       }
     ],
-    "image": "/images/oils/laconiko-garlic.png"
+    "image": "/images/oils/laconiko-garlic.png",
+    "format": "bad"
   },
   {
     "slug": "laconiko-lemon",
@@ -3458,7 +3620,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/MiyvC3PoHfI-jPrS68hr9A/npsw4R9PTNMDdiqTkqWP_tY4Wuf7-p5SyKjL-sOScVTrCAnOkQkvnOv8hFeHFloXmuzKKohxNPPb_sxUQVb4iojuHs9XNmfr1imN4JT4LUTUqlrrNLBk5G931ZvNR1iBAmfMepRyIYlaD2cAuLxmGgPIwok4cpE-K4doJCAyavPlqRfv71uubIkkZCat4ccn/Nkm7n75hAYreXV_gjyYnW7YKsLl5gE9cTSxyXC9Iyy8"
       }
     ],
-    "image": "/images/oils/laconiko-lemon.png"
+    "image": "/images/oils/laconiko-lemon.png",
+    "format": "good"
   },
   {
     "slug": "laconiko-lime",
@@ -3477,7 +3640,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/MiyvC3PoHfI-jPrS68hr9A/npsw4R9PTNMDdiqTkqWP_tY4Wuf7-p5SyKjL-sOScVTrCAnOkQkvnOv8hFeHFloXmuzKKohxNPPb_sxUQVb4iojuHs9XNmfr1imN4JT4LUTUqlrrNLBk5G931ZvNR1iBAmfMepRyIYlaD2cAuLxmGgPIwok4cpE-K4doJCAyavPlqRfv71uubIkkZCat4ccn/Nkm7n75hAYreXV_gjyYnW7YKsLl5gE9cTSxyXC9Iyy8"
       }
     ],
-    "image": "/images/oils/laconiko-lime.png"
+    "image": "/images/oils/laconiko-lime.png",
+    "format": "bad"
   },
   {
     "slug": "laconiko-olio-nuovo",
@@ -3496,7 +3660,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/AFTKra5gV-P9EJ2p9qZnQA/tr-sKcNuLIUrAf4PEpZd_hpSIcdkuEuoQllpcvxud4UvIAg3TzSBxl8zQetP8Fntf6TsdjI6NDfh5g5qxb3GhOrIenISj4cwVx4jtoSqPflZIjrRigx5b4du5NHd7_X86uZKnB0rl_31q1MbLcYxhV5RqMNEjS0gMbdJvmior3B4FGki_G3Iq9a83clxSl1g/4sh1M_I_nQtL9rcdrlO904QHZckG7t-6q2qTVeIpNyg"
       }
     ],
-    "image": "/images/oils/laconiko-olio-nuovo.png"
+    "image": "/images/oils/laconiko-olio-nuovo.png",
+    "format": "good"
   },
   {
     "slug": "laconiko-rosemary",
@@ -3515,7 +3680,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/MiyvC3PoHfI-jPrS68hr9A/npsw4R9PTNMDdiqTkqWP_tY4Wuf7-p5SyKjL-sOScVTrCAnOkQkvnOv8hFeHFloXmuzKKohxNPPb_sxUQVb4iojuHs9XNmfr1imN4JT4LUTUqlrrNLBk5G931ZvNR1iBAmfMepRyIYlaD2cAuLxmGgPIwok4cpE-K4doJCAyavPlqRfv71uubIkkZCat4ccn/Nkm7n75hAYreXV_gjyYnW7YKsLl5gE9cTSxyXC9Iyy8"
       }
     ],
-    "image": "/images/oils/laconiko-rosemary.png"
+    "image": "/images/oils/laconiko-rosemary.png",
+    "format": "good"
   },
   {
     "slug": "laconiko-zoi",
@@ -3534,7 +3700,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/rnUvYskOiMgQ8VO3CzKsRw/2GBy-34e-gvPJrOuzj1b6NE9a6gUcX1gosh2uzQXeA8gWiNLn3s5uVw1b4jfRdv_XqOP6XACQgMyB1SNHSSxphv9OkKLwSYMbJo85lsUp-CBrZLSiEjDuVglM3wGFE50qvSN1dWTsp4f5SOcN3BHNe3NVH_dcqb6UIfaHVgx86M/BW52f3hXxDjLpASoS-1mw76ISKirlU_6ee162rzKu7E"
       }
     ],
-    "image": "/images/oils/laconiko-zoi.png"
+    "image": "/images/oils/laconiko-zoi.png",
+    "format": "good"
   },
   {
     "slug": "las-doscientas-picual",
@@ -3555,7 +3722,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/AFTKra5gV-P9EJ2p9qZnQA/tr-sKcNuLIUrAf4PEpZd_hpSIcdkuEuoQllpcvxud4UvIAg3TzSBxl8zQetP8Fntf6TsdjI6NDfh5g5qxb3GhOrIenISj4cwVx4jtoSqPflZIjrRigx5b4du5NHd7_X86uZKnB0rl_31q1MbLcYxhV5RqMNEjS0gMbdJvmior3B4FGki_G3Iq9a83clxSl1g/4sh1M_I_nQtL9rcdrlO904QHZckG7t-6q2qTVeIpNyg"
       }
     ],
-    "image": "/images/oils/las-doscientas-picual.png"
+    "image": "/images/oils/las-doscientas-picual.png",
+    "format": "good"
   },
   {
     "slug": "laurel-flame-fresh-tsabidolia",
@@ -3574,7 +3742,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/MiyvC3PoHfI-jPrS68hr9A/npsw4R9PTNMDdiqTkqWP_tY4Wuf7-p5SyKjL-sOScVTrCAnOkQkvnOv8hFeHFloXmuzKKohxNPPb_sxUQVb4iojuHs9XNmfr1imN4JT4LUTUqlrrNLBk5G931ZvNR1iBAmfMepRyIYlaD2cAuLxmGgPIwok4cpE-K4doJCAyavPlqRfv71uubIkkZCat4ccn/Nkm7n75hAYreXV_gjyYnW7YKsLl5gE9cTSxyXC9Iyy8"
       }
     ],
-    "image": "/images/oils/laurel-flame-fresh-tsabidolia.png"
+    "image": "/images/oils/laurel-flame-fresh-tsabidolia.png",
+    "format": "good"
   },
   {
     "slug": "laurel-flame-premium-olympia-pgi",
@@ -3593,7 +3762,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/MiyvC3PoHfI-jPrS68hr9A/npsw4R9PTNMDdiqTkqWP_tY4Wuf7-p5SyKjL-sOScVTrCAnOkQkvnOv8hFeHFloXmuzKKohxNPPb_sxUQVb4iojuHs9XNmfr1imN4JT4LUTUqlrrNLBk5G931ZvNR1iBAmfMepRyIYlaD2cAuLxmGgPIwok4cpE-K4doJCAyavPlqRfv71uubIkkZCat4ccn/Nkm7n75hAYreXV_gjyYnW7YKsLl5gE9cTSxyXC9Iyy8"
       }
     ],
-    "image": "/images/oils/laurel-flame-premium-olympia-pgi.png"
+    "image": "/images/oils/laurel-flame-premium-olympia-pgi.png",
+    "format": "good"
   },
   {
     "slug": "les-cabanes",
@@ -3612,7 +3782,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/AFTKra5gV-P9EJ2p9qZnQA/tr-sKcNuLIUrAf4PEpZd_hpSIcdkuEuoQllpcvxud4UvIAg3TzSBxl8zQetP8Fntf6TsdjI6NDfh5g5qxb3GhOrIenISj4cwVx4jtoSqPflZIjrRigx5b4du5NHd7_X86uZKnB0rl_31q1MbLcYxhV5RqMNEjS0gMbdJvmior3B4FGki_G3Iq9a83clxSl1g/4sh1M_I_nQtL9rcdrlO904QHZckG7t-6q2qTVeIpNyg"
       }
     ],
-    "image": "/images/oils/les-cabanes.png"
+    "image": "/images/oils/les-cabanes.png",
+    "format": "good"
   },
   {
     "slug": "levant-green-fields",
@@ -3631,7 +3802,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/rnUvYskOiMgQ8VO3CzKsRw/2GBy-34e-gvPJrOuzj1b6NE9a6gUcX1gosh2uzQXeA8gWiNLn3s5uVw1b4jfRdv_XqOP6XACQgMyB1SNHSSxphv9OkKLwSYMbJo85lsUp-CBrZLSiEjDuVglM3wGFE50qvSN1dWTsp4f5SOcN3BHNe3NVH_dcqb6UIfaHVgx86M/BW52f3hXxDjLpASoS-1mw76ISKirlU_6ee162rzKu7E"
       }
     ],
-    "image": "/images/oils/levant-green-fields.png"
+    "image": "/images/oils/levant-green-fields.png",
+    "format": "good"
   },
   {
     "slug": "levant-late-blooming",
@@ -3650,7 +3822,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/rnUvYskOiMgQ8VO3CzKsRw/2GBy-34e-gvPJrOuzj1b6NE9a6gUcX1gosh2uzQXeA8gWiNLn3s5uVw1b4jfRdv_XqOP6XACQgMyB1SNHSSxphv9OkKLwSYMbJo85lsUp-CBrZLSiEjDuVglM3wGFE50qvSN1dWTsp4f5SOcN3BHNe3NVH_dcqb6UIfaHVgx86M/BW52f3hXxDjLpASoS-1mw76ISKirlU_6ee162rzKu7E"
       }
     ],
-    "image": "/images/oils/levant-late-blooming.png"
+    "image": "/images/oils/levant-late-blooming.png",
+    "format": "bad"
   },
   {
     "slug": "levin-farm-barnea",
@@ -3671,7 +3844,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/AFTKra5gV-P9EJ2p9qZnQA/tr-sKcNuLIUrAf4PEpZd_hpSIcdkuEuoQllpcvxud4UvIAg3TzSBxl8zQetP8Fntf6TsdjI6NDfh5g5qxb3GhOrIenISj4cwVx4jtoSqPflZIjrRigx5b4du5NHd7_X86uZKnB0rl_31q1MbLcYxhV5RqMNEjS0gMbdJvmior3B4FGki_G3Iq9a83clxSl1g/4sh1M_I_nQtL9rcdrlO904QHZckG7t-6q2qTVeIpNyg"
       }
     ],
-    "image": "/images/oils/levin-farm-barnea.png"
+    "image": "/images/oils/levin-farm-barnea.png",
+    "format": "bad"
   },
   {
     "slug": "levin-farm-house-blend",
@@ -3692,7 +3866,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/rnUvYskOiMgQ8VO3CzKsRw/2GBy-34e-gvPJrOuzj1b6NE9a6gUcX1gosh2uzQXeA8gWiNLn3s5uVw1b4jfRdv_XqOP6XACQgMyB1SNHSSxphv9OkKLwSYMbJo85lsUp-CBrZLSiEjDuVglM3wGFE50qvSN1dWTsp4f5SOcN3BHNe3NVH_dcqb6UIfaHVgx86M/BW52f3hXxDjLpASoS-1mw76ISKirlU_6ee162rzKu7E"
       }
     ],
-    "image": "/images/oils/levin-farm-house-blend.png"
+    "image": "/images/oils/levin-farm-house-blend.png",
+    "format": "bad"
   },
   {
     "slug": "levin-farm-koroneiki",
@@ -3713,7 +3888,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/AFTKra5gV-P9EJ2p9qZnQA/tr-sKcNuLIUrAf4PEpZd_hpSIcdkuEuoQllpcvxud4UvIAg3TzSBxl8zQetP8Fntf6TsdjI6NDfh5g5qxb3GhOrIenISj4cwVx4jtoSqPflZIjrRigx5b4du5NHd7_X86uZKnB0rl_31q1MbLcYxhV5RqMNEjS0gMbdJvmior3B4FGki_G3Iq9a83clxSl1g/4sh1M_I_nQtL9rcdrlO904QHZckG7t-6q2qTVeIpNyg"
       }
     ],
-    "image": "/images/oils/levin-farm-koroneiki.png"
+    "image": "/images/oils/levin-farm-koroneiki.png",
+    "format": "bad"
   },
   {
     "slug": "levin-farm-pichulin",
@@ -3732,7 +3908,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/MiyvC3PoHfI-jPrS68hr9A/npsw4R9PTNMDdiqTkqWP_tY4Wuf7-p5SyKjL-sOScVTrCAnOkQkvnOv8hFeHFloXmuzKKohxNPPb_sxUQVb4iojuHs9XNmfr1imN4JT4LUTUqlrrNLBk5G931ZvNR1iBAmfMepRyIYlaD2cAuLxmGgPIwok4cpE-K4doJCAyavPlqRfv71uubIkkZCat4ccn/Nkm7n75hAYreXV_gjyYnW7YKsLl5gE9cTSxyXC9Iyy8"
       }
     ],
-    "image": "/images/oils/levin-farm-pichulin.png"
+    "image": "/images/oils/levin-farm-pichulin.png",
+    "format": "bad"
   },
   {
     "slug": "lia",
@@ -3751,7 +3928,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/MiyvC3PoHfI-jPrS68hr9A/npsw4R9PTNMDdiqTkqWP_tY4Wuf7-p5SyKjL-sOScVTrCAnOkQkvnOv8hFeHFloXmuzKKohxNPPb_sxUQVb4iojuHs9XNmfr1imN4JT4LUTUqlrrNLBk5G931ZvNR1iBAmfMepRyIYlaD2cAuLxmGgPIwok4cpE-K4doJCAyavPlqRfv71uubIkkZCat4ccn/Nkm7n75hAYreXV_gjyYnW7YKsLl5gE9cTSxyXC9Iyy8"
       }
     ],
-    "image": "/images/oils/lia.png"
+    "image": "/images/oils/lia.png",
+    "format": "bad"
   },
   {
     "slug": "liokareas-athinolia",
@@ -3770,7 +3948,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/AFTKra5gV-P9EJ2p9qZnQA/tr-sKcNuLIUrAf4PEpZd_hpSIcdkuEuoQllpcvxud4UvIAg3TzSBxl8zQetP8Fntf6TsdjI6NDfh5g5qxb3GhOrIenISj4cwVx4jtoSqPflZIjrRigx5b4du5NHd7_X86uZKnB0rl_31q1MbLcYxhV5RqMNEjS0gMbdJvmior3B4FGki_G3Iq9a83clxSl1g/4sh1M_I_nQtL9rcdrlO904QHZckG7t-6q2qTVeIpNyg"
       }
     ],
-    "image": "/images/oils/liokareas-athinolia.png"
+    "image": "/images/oils/liokareas-athinolia.png",
+    "format": "good"
   },
   {
     "slug": "liokareas-cold-fused-baklouti",
@@ -3789,7 +3968,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/MiyvC3PoHfI-jPrS68hr9A/npsw4R9PTNMDdiqTkqWP_tY4Wuf7-p5SyKjL-sOScVTrCAnOkQkvnOv8hFeHFloXmuzKKohxNPPb_sxUQVb4iojuHs9XNmfr1imN4JT4LUTUqlrrNLBk5G931ZvNR1iBAmfMepRyIYlaD2cAuLxmGgPIwok4cpE-K4doJCAyavPlqRfv71uubIkkZCat4ccn/Nkm7n75hAYreXV_gjyYnW7YKsLl5gE9cTSxyXC9Iyy8"
       }
     ],
-    "image": "/images/oils/liokareas-cold-fused-baklouti.png"
+    "image": "/images/oils/liokareas-cold-fused-baklouti.png",
+    "format": "bad"
   },
   {
     "slug": "liokareas-cold-fused-garlic",
@@ -3808,7 +3988,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/AFTKra5gV-P9EJ2p9qZnQA/tr-sKcNuLIUrAf4PEpZd_hpSIcdkuEuoQllpcvxud4UvIAg3TzSBxl8zQetP8Fntf6TsdjI6NDfh5g5qxb3GhOrIenISj4cwVx4jtoSqPflZIjrRigx5b4du5NHd7_X86uZKnB0rl_31q1MbLcYxhV5RqMNEjS0gMbdJvmior3B4FGki_G3Iq9a83clxSl1g/4sh1M_I_nQtL9rcdrlO904QHZckG7t-6q2qTVeIpNyg"
       }
     ],
-    "image": "/images/oils/liokareas-cold-fused-garlic.png"
+    "image": "/images/oils/liokareas-cold-fused-garlic.png",
+    "format": "good"
   },
   {
     "slug": "liokareas-cold-fused-lavender",
@@ -3827,7 +4008,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/AFTKra5gV-P9EJ2p9qZnQA/tr-sKcNuLIUrAf4PEpZd_hpSIcdkuEuoQllpcvxud4UvIAg3TzSBxl8zQetP8Fntf6TsdjI6NDfh5g5qxb3GhOrIenISj4cwVx4jtoSqPflZIjrRigx5b4du5NHd7_X86uZKnB0rl_31q1MbLcYxhV5RqMNEjS0gMbdJvmior3B4FGki_G3Iq9a83clxSl1g/4sh1M_I_nQtL9rcdrlO904QHZckG7t-6q2qTVeIpNyg"
       }
     ],
-    "image": "/images/oils/liokareas-cold-fused-lavender.png"
+    "image": "/images/oils/liokareas-cold-fused-lavender.png",
+    "format": "bad"
   },
   {
     "slug": "liokareas-cold-fused-leek",
@@ -3846,7 +4028,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/MiyvC3PoHfI-jPrS68hr9A/npsw4R9PTNMDdiqTkqWP_tY4Wuf7-p5SyKjL-sOScVTrCAnOkQkvnOv8hFeHFloXmuzKKohxNPPb_sxUQVb4iojuHs9XNmfr1imN4JT4LUTUqlrrNLBk5G931ZvNR1iBAmfMepRyIYlaD2cAuLxmGgPIwok4cpE-K4doJCAyavPlqRfv71uubIkkZCat4ccn/Nkm7n75hAYreXV_gjyYnW7YKsLl5gE9cTSxyXC9Iyy8"
       }
     ],
-    "image": "/images/oils/liokareas-cold-fused-leek.png"
+    "image": "/images/oils/liokareas-cold-fused-leek.png",
+    "format": "bad"
   },
   {
     "slug": "liokareas-cold-fused-lemon",
@@ -3865,7 +4048,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/AFTKra5gV-P9EJ2p9qZnQA/tr-sKcNuLIUrAf4PEpZd_hpSIcdkuEuoQllpcvxud4UvIAg3TzSBxl8zQetP8Fntf6TsdjI6NDfh5g5qxb3GhOrIenISj4cwVx4jtoSqPflZIjrRigx5b4du5NHd7_X86uZKnB0rl_31q1MbLcYxhV5RqMNEjS0gMbdJvmior3B4FGki_G3Iq9a83clxSl1g/4sh1M_I_nQtL9rcdrlO904QHZckG7t-6q2qTVeIpNyg"
       }
     ],
-    "image": "/images/oils/liokareas-cold-fused-lemon.png"
+    "image": "/images/oils/liokareas-cold-fused-lemon.png",
+    "format": "bad"
   },
   {
     "slug": "liokareas-cold-fused-neapolitan-herb",
@@ -3884,7 +4068,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/MiyvC3PoHfI-jPrS68hr9A/npsw4R9PTNMDdiqTkqWP_tY4Wuf7-p5SyKjL-sOScVTrCAnOkQkvnOv8hFeHFloXmuzKKohxNPPb_sxUQVb4iojuHs9XNmfr1imN4JT4LUTUqlrrNLBk5G931ZvNR1iBAmfMepRyIYlaD2cAuLxmGgPIwok4cpE-K4doJCAyavPlqRfv71uubIkkZCat4ccn/Nkm7n75hAYreXV_gjyYnW7YKsLl5gE9cTSxyXC9Iyy8"
       }
     ],
-    "image": "/images/oils/liokareas-cold-fused-neapolitan-herb.png"
+    "image": "/images/oils/liokareas-cold-fused-neapolitan-herb.png",
+    "format": "good"
   },
   {
     "slug": "liokareas-cold-fused-orange",
@@ -3903,7 +4088,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/MiyvC3PoHfI-jPrS68hr9A/npsw4R9PTNMDdiqTkqWP_tY4Wuf7-p5SyKjL-sOScVTrCAnOkQkvnOv8hFeHFloXmuzKKohxNPPb_sxUQVb4iojuHs9XNmfr1imN4JT4LUTUqlrrNLBk5G931ZvNR1iBAmfMepRyIYlaD2cAuLxmGgPIwok4cpE-K4doJCAyavPlqRfv71uubIkkZCat4ccn/Nkm7n75hAYreXV_gjyYnW7YKsLl5gE9cTSxyXC9Iyy8"
       }
     ],
-    "image": "/images/oils/liokareas-cold-fused-orange.png"
+    "image": "/images/oils/liokareas-cold-fused-orange.png",
+    "format": "bad"
   },
   {
     "slug": "liokareas-cold-fused-rosemary",
@@ -3922,7 +4108,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/rnUvYskOiMgQ8VO3CzKsRw/2GBy-34e-gvPJrOuzj1b6NE9a6gUcX1gosh2uzQXeA8gWiNLn3s5uVw1b4jfRdv_XqOP6XACQgMyB1SNHSSxphv9OkKLwSYMbJo85lsUp-CBrZLSiEjDuVglM3wGFE50qvSN1dWTsp4f5SOcN3BHNe3NVH_dcqb6UIfaHVgx86M/BW52f3hXxDjLpASoS-1mw76ISKirlU_6ee162rzKu7E"
       }
     ],
-    "image": "/images/oils/liokareas-cold-fused-rosemary.png"
+    "image": "/images/oils/liokareas-cold-fused-rosemary.png",
+    "format": "bad"
   },
   {
     "slug": "liokareas-cold-fused-tuscan-herb",
@@ -3941,7 +4128,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/MiyvC3PoHfI-jPrS68hr9A/npsw4R9PTNMDdiqTkqWP_tY4Wuf7-p5SyKjL-sOScVTrCAnOkQkvnOv8hFeHFloXmuzKKohxNPPb_sxUQVb4iojuHs9XNmfr1imN4JT4LUTUqlrrNLBk5G931ZvNR1iBAmfMepRyIYlaD2cAuLxmGgPIwok4cpE-K4doJCAyavPlqRfv71uubIkkZCat4ccn/Nkm7n75hAYreXV_gjyYnW7YKsLl5gE9cTSxyXC9Iyy8"
       }
     ],
-    "image": "/images/oils/liokareas-cold-fused-tuscan-herb.png"
+    "image": "/images/oils/liokareas-cold-fused-tuscan-herb.png",
+    "format": "good"
   },
   {
     "slug": "liokareas-early-harvest",
@@ -3960,7 +4148,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/rnUvYskOiMgQ8VO3CzKsRw/2GBy-34e-gvPJrOuzj1b6NE9a6gUcX1gosh2uzQXeA8gWiNLn3s5uVw1b4jfRdv_XqOP6XACQgMyB1SNHSSxphv9OkKLwSYMbJo85lsUp-CBrZLSiEjDuVglM3wGFE50qvSN1dWTsp4f5SOcN3BHNe3NVH_dcqb6UIfaHVgx86M/BW52f3hXxDjLpASoS-1mw76ISKirlU_6ee162rzKu7E"
       }
     ],
-    "image": "/images/oils/liokareas-early-harvest.png"
+    "image": "/images/oils/liokareas-early-harvest.png",
+    "format": "good"
   },
   {
     "slug": "lucini-premium-select-evoo",
@@ -3979,7 +4168,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/MiyvC3PoHfI-jPrS68hr9A/npsw4R9PTNMDdiqTkqWP_tY4Wuf7-p5SyKjL-sOScVTrCAnOkQkvnOv8hFeHFloXmuzKKohxNPPb_sxUQVb4iojuHs9XNmfr1imN4JT4LUTUqlrrNLBk5G931ZvNR1iBAmfMepRyIYlaD2cAuLxmGgPIwok4cpE-K4doJCAyavPlqRfv71uubIkkZCat4ccn/Nkm7n75hAYreXV_gjyYnW7YKsLl5gE9cTSxyXC9Iyy8"
       }
     ],
-    "image": "/images/oils/lucini-premium-select-evoo.png"
+    "image": "/images/oils/lucini-premium-select-evoo.png",
+    "format": "good"
   },
   {
     "slug": "lucini-premium-select-organic-evoo",
@@ -3998,7 +4188,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/MiyvC3PoHfI-jPrS68hr9A/npsw4R9PTNMDdiqTkqWP_tY4Wuf7-p5SyKjL-sOScVTrCAnOkQkvnOv8hFeHFloXmuzKKohxNPPb_sxUQVb4iojuHs9XNmfr1imN4JT4LUTUqlrrNLBk5G931ZvNR1iBAmfMepRyIYlaD2cAuLxmGgPIwok4cpE-K4doJCAyavPlqRfv71uubIkkZCat4ccn/Nkm7n75hAYreXV_gjyYnW7YKsLl5gE9cTSxyXC9Iyy8"
       }
     ],
-    "image": "/images/oils/lucini-premium-select-organic-evoo.png"
+    "image": "/images/oils/lucini-premium-select-organic-evoo.png",
+    "format": "good"
   },
   {
     "slug": "mm-arbequina",
@@ -4019,7 +4210,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/rnUvYskOiMgQ8VO3CzKsRw/2GBy-34e-gvPJrOuzj1b6NE9a6gUcX1gosh2uzQXeA8gWiNLn3s5uVw1b4jfRdv_XqOP6XACQgMyB1SNHSSxphv9OkKLwSYMbJo85lsUp-CBrZLSiEjDuVglM3wGFE50qvSN1dWTsp4f5SOcN3BHNe3NVH_dcqb6UIfaHVgx86M/BW52f3hXxDjLpASoS-1mw76ISKirlU_6ee162rzKu7E"
       }
     ],
-    "image": "/images/oils/mm-arbequina.png"
+    "image": "/images/oils/mm-arbequina.png",
+    "format": "bad"
   },
   {
     "slug": "maeva-biologico",
@@ -4038,7 +4230,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/MiyvC3PoHfI-jPrS68hr9A/npsw4R9PTNMDdiqTkqWP_tY4Wuf7-p5SyKjL-sOScVTrCAnOkQkvnOv8hFeHFloXmuzKKohxNPPb_sxUQVb4iojuHs9XNmfr1imN4JT4LUTUqlrrNLBk5G931ZvNR1iBAmfMepRyIYlaD2cAuLxmGgPIwok4cpE-K4doJCAyavPlqRfv71uubIkkZCat4ccn/Nkm7n75hAYreXV_gjyYnW7YKsLl5gE9cTSxyXC9Iyy8"
       }
     ],
-    "image": "/images/oils/maeva-biologico.png"
+    "image": "/images/oils/maeva-biologico.png",
+    "format": "good"
   },
   {
     "slug": "maevatoro",
@@ -4057,7 +4250,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/MiyvC3PoHfI-jPrS68hr9A/npsw4R9PTNMDdiqTkqWP_tY4Wuf7-p5SyKjL-sOScVTrCAnOkQkvnOv8hFeHFloXmuzKKohxNPPb_sxUQVb4iojuHs9XNmfr1imN4JT4LUTUqlrrNLBk5G931ZvNR1iBAmfMepRyIYlaD2cAuLxmGgPIwok4cpE-K4doJCAyavPlqRfv71uubIkkZCat4ccn/Nkm7n75hAYreXV_gjyYnW7YKsLl5gE9cTSxyXC9Iyy8"
       }
     ],
-    "image": "/images/oils/maevatoro.png"
+    "image": "/images/oils/maevatoro.png",
+    "format": "good"
   },
   {
     "slug": "magalia",
@@ -4076,7 +4270,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/AFTKra5gV-P9EJ2p9qZnQA/tr-sKcNuLIUrAf4PEpZd_hpSIcdkuEuoQllpcvxud4UvIAg3TzSBxl8zQetP8Fntf6TsdjI6NDfh5g5qxb3GhOrIenISj4cwVx4jtoSqPflZIjrRigx5b4du5NHd7_X86uZKnB0rl_31q1MbLcYxhV5RqMNEjS0gMbdJvmior3B4FGki_G3Iq9a83clxSl1g/4sh1M_I_nQtL9rcdrlO904QHZckG7t-6q2qTVeIpNyg"
       }
     ],
-    "image": "/images/oils/magalia.png"
+    "image": "/images/oils/magalia.png",
+    "format": "bad"
   },
   {
     "slug": "majestic",
@@ -4095,7 +4290,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/rnUvYskOiMgQ8VO3CzKsRw/2GBy-34e-gvPJrOuzj1b6NE9a6gUcX1gosh2uzQXeA8gWiNLn3s5uVw1b4jfRdv_XqOP6XACQgMyB1SNHSSxphv9OkKLwSYMbJo85lsUp-CBrZLSiEjDuVglM3wGFE50qvSN1dWTsp4f5SOcN3BHNe3NVH_dcqb6UIfaHVgx86M/BW52f3hXxDjLpASoS-1mw76ISKirlU_6ee162rzKu7E"
       }
     ],
-    "image": "/images/oils/majestic.png"
+    "image": "/images/oils/majestic.png",
+    "format": "bad"
   },
   {
     "slug": "mantikir-coratina",
@@ -4116,7 +4312,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/MiyvC3PoHfI-jPrS68hr9A/npsw4R9PTNMDdiqTkqWP_tY4Wuf7-p5SyKjL-sOScVTrCAnOkQkvnOv8hFeHFloXmuzKKohxNPPb_sxUQVb4iojuHs9XNmfr1imN4JT4LUTUqlrrNLBk5G931ZvNR1iBAmfMepRyIYlaD2cAuLxmGgPIwok4cpE-K4doJCAyavPlqRfv71uubIkkZCat4ccn/Nkm7n75hAYreXV_gjyYnW7YKsLl5gE9cTSxyXC9Iyy8"
       }
     ],
-    "image": "/images/oils/mantikir-coratina.png"
+    "image": "/images/oils/mantikir-coratina.png",
+    "format": "good"
   },
   {
     "slug": "mantikir-grappolo",
@@ -4135,7 +4332,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/MiyvC3PoHfI-jPrS68hr9A/npsw4R9PTNMDdiqTkqWP_tY4Wuf7-p5SyKjL-sOScVTrCAnOkQkvnOv8hFeHFloXmuzKKohxNPPb_sxUQVb4iojuHs9XNmfr1imN4JT4LUTUqlrrNLBk5G931ZvNR1iBAmfMepRyIYlaD2cAuLxmGgPIwok4cpE-K4doJCAyavPlqRfv71uubIkkZCat4ccn/Nkm7n75hAYreXV_gjyYnW7YKsLl5gE9cTSxyXC9Iyy8"
       }
     ],
-    "image": "/images/oils/mantikir-grappolo.png"
+    "image": "/images/oils/mantikir-grappolo.png",
+    "format": "good"
   },
   {
     "slug": "mantikir-koroneiki",
@@ -4156,7 +4354,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/MiyvC3PoHfI-jPrS68hr9A/npsw4R9PTNMDdiqTkqWP_tY4Wuf7-p5SyKjL-sOScVTrCAnOkQkvnOv8hFeHFloXmuzKKohxNPPb_sxUQVb4iojuHs9XNmfr1imN4JT4LUTUqlrrNLBk5G931ZvNR1iBAmfMepRyIYlaD2cAuLxmGgPIwok4cpE-K4doJCAyavPlqRfv71uubIkkZCat4ccn/Nkm7n75hAYreXV_gjyYnW7YKsLl5gE9cTSxyXC9Iyy8"
       }
     ],
-    "image": "/images/oils/mantikir-koroneiki.png"
+    "image": "/images/oils/mantikir-koroneiki.png",
+    "format": "bad"
   },
   {
     "slug": "mantikir-summit-premium-blend-de-campo",
@@ -4177,7 +4376,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/MiyvC3PoHfI-jPrS68hr9A/npsw4R9PTNMDdiqTkqWP_tY4Wuf7-p5SyKjL-sOScVTrCAnOkQkvnOv8hFeHFloXmuzKKohxNPPb_sxUQVb4iojuHs9XNmfr1imN4JT4LUTUqlrrNLBk5G931ZvNR1iBAmfMepRyIYlaD2cAuLxmGgPIwok4cpE-K4doJCAyavPlqRfv71uubIkkZCat4ccn/Nkm7n75hAYreXV_gjyYnW7YKsLl5gE9cTSxyXC9Iyy8"
       }
     ],
-    "image": "/images/oils/mantikir-summit-premium-blend-de-campo.png"
+    "image": "/images/oils/mantikir-summit-premium-blend-de-campo.png",
+    "format": "good"
   },
   {
     "slug": "mardouw-xxv-intense",
@@ -4196,7 +4396,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/MiyvC3PoHfI-jPrS68hr9A/npsw4R9PTNMDdiqTkqWP_tY4Wuf7-p5SyKjL-sOScVTrCAnOkQkvnOv8hFeHFloXmuzKKohxNPPb_sxUQVb4iojuHs9XNmfr1imN4JT4LUTUqlrrNLBk5G931ZvNR1iBAmfMepRyIYlaD2cAuLxmGgPIwok4cpE-K4doJCAyavPlqRfv71uubIkkZCat4ccn/Nkm7n75hAYreXV_gjyYnW7YKsLl5gE9cTSxyXC9Iyy8"
       }
     ],
-    "image": "/images/oils/mardouw-xxv-intense.png"
+    "image": "/images/oils/mardouw-xxv-intense.png",
+    "format": "bad"
   },
   {
     "slug": "mardouw-xxv-medium",
@@ -4215,7 +4416,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/MiyvC3PoHfI-jPrS68hr9A/npsw4R9PTNMDdiqTkqWP_tY4Wuf7-p5SyKjL-sOScVTrCAnOkQkvnOv8hFeHFloXmuzKKohxNPPb_sxUQVb4iojuHs9XNmfr1imN4JT4LUTUqlrrNLBk5G931ZvNR1iBAmfMepRyIYlaD2cAuLxmGgPIwok4cpE-K4doJCAyavPlqRfv71uubIkkZCat4ccn/Nkm7n75hAYreXV_gjyYnW7YKsLl5gE9cTSxyXC9Iyy8"
       }
     ],
-    "image": "/images/oils/mardouw-xxv-medium.png"
+    "image": "/images/oils/mardouw-xxv-medium.png",
+    "format": "bad"
   },
   {
     "slug": "mardouw-xxv-medium-limited-edition",
@@ -4234,7 +4436,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/MiyvC3PoHfI-jPrS68hr9A/npsw4R9PTNMDdiqTkqWP_tY4Wuf7-p5SyKjL-sOScVTrCAnOkQkvnOv8hFeHFloXmuzKKohxNPPb_sxUQVb4iojuHs9XNmfr1imN4JT4LUTUqlrrNLBk5G931ZvNR1iBAmfMepRyIYlaD2cAuLxmGgPIwok4cpE-K4doJCAyavPlqRfv71uubIkkZCat4ccn/Nkm7n75hAYreXV_gjyYnW7YKsLl5gE9cTSxyXC9Iyy8"
       }
     ],
-    "image": "/images/oils/mardouw-xxv-medium-limited-edition.png"
+    "image": "/images/oils/mardouw-xxv-medium-limited-edition.png",
+    "format": "good"
   },
   {
     "slug": "marques-de-prado-seleccion-familiar",
@@ -4253,7 +4456,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/MiyvC3PoHfI-jPrS68hr9A/npsw4R9PTNMDdiqTkqWP_tY4Wuf7-p5SyKjL-sOScVTrCAnOkQkvnOv8hFeHFloXmuzKKohxNPPb_sxUQVb4iojuHs9XNmfr1imN4JT4LUTUqlrrNLBk5G931ZvNR1iBAmfMepRyIYlaD2cAuLxmGgPIwok4cpE-K4doJCAyavPlqRfv71uubIkkZCat4ccn/Nkm7n75hAYreXV_gjyYnW7YKsLl5gE9cTSxyXC9Iyy8"
       }
     ],
-    "image": "/images/oils/marques-de-prado-seleccion-familiar.png"
+    "image": "/images/oils/marques-de-prado-seleccion-familiar.png",
+    "format": "bad"
   },
   {
     "slug": "master-miller-garcia-de-la-cruz-ecologico",
@@ -4272,7 +4476,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/MiyvC3PoHfI-jPrS68hr9A/npsw4R9PTNMDdiqTkqWP_tY4Wuf7-p5SyKjL-sOScVTrCAnOkQkvnOv8hFeHFloXmuzKKohxNPPb_sxUQVb4iojuHs9XNmfr1imN4JT4LUTUqlrrNLBk5G931ZvNR1iBAmfMepRyIYlaD2cAuLxmGgPIwok4cpE-K4doJCAyavPlqRfv71uubIkkZCat4ccn/Nkm7n75hAYreXV_gjyYnW7YKsLl5gE9cTSxyXC9Iyy8"
       }
     ],
-    "image": "/images/oils/master-miller-garcia-de-la-cruz-ecologico.png"
+    "image": "/images/oils/master-miller-garcia-de-la-cruz-ecologico.png",
+    "format": "bad"
   },
   {
     "slug": "masterpiece",
@@ -4291,7 +4496,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/AFTKra5gV-P9EJ2p9qZnQA/tr-sKcNuLIUrAf4PEpZd_hpSIcdkuEuoQllpcvxud4UvIAg3TzSBxl8zQetP8Fntf6TsdjI6NDfh5g5qxb3GhOrIenISj4cwVx4jtoSqPflZIjrRigx5b4du5NHd7_X86uZKnB0rl_31q1MbLcYxhV5RqMNEjS0gMbdJvmior3B4FGki_G3Iq9a83clxSl1g/4sh1M_I_nQtL9rcdrlO904QHZckG7t-6q2qTVeIpNyg"
       }
     ],
-    "image": "/images/oils/masterpiece.png"
+    "image": "/images/oils/masterpiece.png",
+    "format": "bad"
   },
   {
     "slug": "matsoukas",
@@ -4310,7 +4516,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/AFTKra5gV-P9EJ2p9qZnQA/tr-sKcNuLIUrAf4PEpZd_hpSIcdkuEuoQllpcvxud4UvIAg3TzSBxl8zQetP8Fntf6TsdjI6NDfh5g5qxb3GhOrIenISj4cwVx4jtoSqPflZIjrRigx5b4du5NHd7_X86uZKnB0rl_31q1MbLcYxhV5RqMNEjS0gMbdJvmior3B4FGki_G3Iq9a83clxSl1g/4sh1M_I_nQtL9rcdrlO904QHZckG7t-6q2qTVeIpNyg"
       }
     ],
-    "image": "/images/oils/matsoukas.png"
+    "image": "/images/oils/matsoukas.png",
+    "format": "bad"
   },
   {
     "slug": "meshek-achiya-koroneiki",
@@ -4331,7 +4538,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/rnUvYskOiMgQ8VO3CzKsRw/2GBy-34e-gvPJrOuzj1b6NE9a6gUcX1gosh2uzQXeA8gWiNLn3s5uVw1b4jfRdv_XqOP6XACQgMyB1SNHSSxphv9OkKLwSYMbJo85lsUp-CBrZLSiEjDuVglM3wGFE50qvSN1dWTsp4f5SOcN3BHNe3NVH_dcqb6UIfaHVgx86M/BW52f3hXxDjLpASoS-1mw76ISKirlU_6ee162rzKu7E"
       }
     ],
-    "image": "/images/oils/meshek-achiya-koroneiki.png"
+    "image": "/images/oils/meshek-achiya-koroneiki.png",
+    "format": "bad"
   },
   {
     "slug": "meshek-avner-beit-itzhak-coratina",
@@ -4352,7 +4560,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/MiyvC3PoHfI-jPrS68hr9A/npsw4R9PTNMDdiqTkqWP_tY4Wuf7-p5SyKjL-sOScVTrCAnOkQkvnOv8hFeHFloXmuzKKohxNPPb_sxUQVb4iojuHs9XNmfr1imN4JT4LUTUqlrrNLBk5G931ZvNR1iBAmfMepRyIYlaD2cAuLxmGgPIwok4cpE-K4doJCAyavPlqRfv71uubIkkZCat4ccn/Nkm7n75hAYreXV_gjyYnW7YKsLl5gE9cTSxyXC9Iyy8"
       }
     ],
-    "image": "/images/oils/meshek-avner-beit-itzhak-coratina.png"
+    "image": "/images/oils/meshek-avner-beit-itzhak-coratina.png",
+    "format": "bad"
   },
   {
     "slug": "meshek-azar-blend",
@@ -4373,7 +4582,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/rnUvYskOiMgQ8VO3CzKsRw/2GBy-34e-gvPJrOuzj1b6NE9a6gUcX1gosh2uzQXeA8gWiNLn3s5uVw1b4jfRdv_XqOP6XACQgMyB1SNHSSxphv9OkKLwSYMbJo85lsUp-CBrZLSiEjDuVglM3wGFE50qvSN1dWTsp4f5SOcN3BHNe3NVH_dcqb6UIfaHVgx86M/BW52f3hXxDjLpASoS-1mw76ISKirlU_6ee162rzKu7E"
       }
     ],
-    "image": "/images/oils/meshek-azar-blend.png"
+    "image": "/images/oils/meshek-azar-blend.png",
+    "format": "bad"
   },
   {
     "slug": "meshek-azar-picual",
@@ -4394,7 +4604,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/rnUvYskOiMgQ8VO3CzKsRw/2GBy-34e-gvPJrOuzj1b6NE9a6gUcX1gosh2uzQXeA8gWiNLn3s5uVw1b4jfRdv_XqOP6XACQgMyB1SNHSSxphv9OkKLwSYMbJo85lsUp-CBrZLSiEjDuVglM3wGFE50qvSN1dWTsp4f5SOcN3BHNe3NVH_dcqb6UIfaHVgx86M/BW52f3hXxDjLpASoS-1mw76ISKirlU_6ee162rzKu7E"
       }
     ],
-    "image": "/images/oils/meshek-azar-picual.png"
+    "image": "/images/oils/meshek-azar-picual.png",
+    "format": "bad"
   },
   {
     "slug": "meshek-dagan-barnea",
@@ -4415,7 +4626,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/AFTKra5gV-P9EJ2p9qZnQA/tr-sKcNuLIUrAf4PEpZd_hpSIcdkuEuoQllpcvxud4UvIAg3TzSBxl8zQetP8Fntf6TsdjI6NDfh5g5qxb3GhOrIenISj4cwVx4jtoSqPflZIjrRigx5b4du5NHd7_X86uZKnB0rl_31q1MbLcYxhV5RqMNEjS0gMbdJvmior3B4FGki_G3Iq9a83clxSl1g/4sh1M_I_nQtL9rcdrlO904QHZckG7t-6q2qTVeIpNyg"
       }
     ],
-    "image": "/images/oils/meshek-dagan-barnea.png"
+    "image": "/images/oils/meshek-dagan-barnea.png",
+    "format": "bad"
   },
   {
     "slug": "meshek-dagan-coratina",
@@ -4436,7 +4648,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/rnUvYskOiMgQ8VO3CzKsRw/2GBy-34e-gvPJrOuzj1b6NE9a6gUcX1gosh2uzQXeA8gWiNLn3s5uVw1b4jfRdv_XqOP6XACQgMyB1SNHSSxphv9OkKLwSYMbJo85lsUp-CBrZLSiEjDuVglM3wGFE50qvSN1dWTsp4f5SOcN3BHNe3NVH_dcqb6UIfaHVgx86M/BW52f3hXxDjLpASoS-1mw76ISKirlU_6ee162rzKu7E"
       }
     ],
-    "image": "/images/oils/meshek-dagan-coratina.png"
+    "image": "/images/oils/meshek-dagan-coratina.png",
+    "format": "bad"
   },
   {
     "slug": "meshek-dagan-picual",
@@ -4457,7 +4670,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/AFTKra5gV-P9EJ2p9qZnQA/tr-sKcNuLIUrAf4PEpZd_hpSIcdkuEuoQllpcvxud4UvIAg3TzSBxl8zQetP8Fntf6TsdjI6NDfh5g5qxb3GhOrIenISj4cwVx4jtoSqPflZIjrRigx5b4du5NHd7_X86uZKnB0rl_31q1MbLcYxhV5RqMNEjS0gMbdJvmior3B4FGki_G3Iq9a83clxSl1g/4sh1M_I_nQtL9rcdrlO904QHZckG7t-6q2qTVeIpNyg"
       }
     ],
-    "image": "/images/oils/meshek-dagan-picual.png"
+    "image": "/images/oils/meshek-dagan-picual.png",
+    "format": "bad"
   },
   {
     "slug": "meshek-eshed-picholine",
@@ -4478,7 +4692,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/MiyvC3PoHfI-jPrS68hr9A/npsw4R9PTNMDdiqTkqWP_tY4Wuf7-p5SyKjL-sOScVTrCAnOkQkvnOv8hFeHFloXmuzKKohxNPPb_sxUQVb4iojuHs9XNmfr1imN4JT4LUTUqlrrNLBk5G931ZvNR1iBAmfMepRyIYlaD2cAuLxmGgPIwok4cpE-K4doJCAyavPlqRfv71uubIkkZCat4ccn/Nkm7n75hAYreXV_gjyYnW7YKsLl5gE9cTSxyXC9Iyy8"
       }
     ],
-    "image": "/images/oils/meshek-eshed-picholine.png"
+    "image": "/images/oils/meshek-eshed-picholine.png",
+    "format": "bad"
   },
   {
     "slug": "meshek-hilman-koroneiki-balanced",
@@ -4499,7 +4714,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/AFTKra5gV-P9EJ2p9qZnQA/tr-sKcNuLIUrAf4PEpZd_hpSIcdkuEuoQllpcvxud4UvIAg3TzSBxl8zQetP8Fntf6TsdjI6NDfh5g5qxb3GhOrIenISj4cwVx4jtoSqPflZIjrRigx5b4du5NHd7_X86uZKnB0rl_31q1MbLcYxhV5RqMNEjS0gMbdJvmior3B4FGki_G3Iq9a83clxSl1g/4sh1M_I_nQtL9rcdrlO904QHZckG7t-6q2qTVeIpNyg"
       }
     ],
-    "image": "/images/oils/meshek-hilman-koroneiki-balanced.png"
+    "image": "/images/oils/meshek-hilman-koroneiki-balanced.png",
+    "format": "bad"
   },
   {
     "slug": "meshek-inbal-arbequina",
@@ -4520,7 +4736,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/AFTKra5gV-P9EJ2p9qZnQA/tr-sKcNuLIUrAf4PEpZd_hpSIcdkuEuoQllpcvxud4UvIAg3TzSBxl8zQetP8Fntf6TsdjI6NDfh5g5qxb3GhOrIenISj4cwVx4jtoSqPflZIjrRigx5b4du5NHd7_X86uZKnB0rl_31q1MbLcYxhV5RqMNEjS0gMbdJvmior3B4FGki_G3Iq9a83clxSl1g/4sh1M_I_nQtL9rcdrlO904QHZckG7t-6q2qTVeIpNyg"
       }
     ],
-    "image": "/images/oils/meshek-inbal-arbequina.png"
+    "image": "/images/oils/meshek-inbal-arbequina.png",
+    "format": "bad"
   },
   {
     "slug": "meshek-inbal-coratina",
@@ -4541,7 +4758,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/rnUvYskOiMgQ8VO3CzKsRw/2GBy-34e-gvPJrOuzj1b6NE9a6gUcX1gosh2uzQXeA8gWiNLn3s5uVw1b4jfRdv_XqOP6XACQgMyB1SNHSSxphv9OkKLwSYMbJo85lsUp-CBrZLSiEjDuVglM3wGFE50qvSN1dWTsp4f5SOcN3BHNe3NVH_dcqb6UIfaHVgx86M/BW52f3hXxDjLpASoS-1mw76ISKirlU_6ee162rzKu7E"
       }
     ],
-    "image": "/images/oils/meshek-inbal-coratina.png"
+    "image": "/images/oils/meshek-inbal-coratina.png",
+    "format": "bad"
   },
   {
     "slug": "meshek-inbal-koroneiki",
@@ -4562,7 +4780,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/MiyvC3PoHfI-jPrS68hr9A/npsw4R9PTNMDdiqTkqWP_tY4Wuf7-p5SyKjL-sOScVTrCAnOkQkvnOv8hFeHFloXmuzKKohxNPPb_sxUQVb4iojuHs9XNmfr1imN4JT4LUTUqlrrNLBk5G931ZvNR1iBAmfMepRyIYlaD2cAuLxmGgPIwok4cpE-K4doJCAyavPlqRfv71uubIkkZCat4ccn/Nkm7n75hAYreXV_gjyYnW7YKsLl5gE9cTSxyXC9Iyy8"
       }
     ],
-    "image": "/images/oils/meshek-inbal-koroneiki.png"
+    "image": "/images/oils/meshek-inbal-koroneiki.png",
+    "format": "bad"
   },
   {
     "slug": "meshek-paz-coratina",
@@ -4583,7 +4802,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/AFTKra5gV-P9EJ2p9qZnQA/tr-sKcNuLIUrAf4PEpZd_hpSIcdkuEuoQllpcvxud4UvIAg3TzSBxl8zQetP8Fntf6TsdjI6NDfh5g5qxb3GhOrIenISj4cwVx4jtoSqPflZIjrRigx5b4du5NHd7_X86uZKnB0rl_31q1MbLcYxhV5RqMNEjS0gMbdJvmior3B4FGki_G3Iq9a83clxSl1g/4sh1M_I_nQtL9rcdrlO904QHZckG7t-6q2qTVeIpNyg"
       }
     ],
-    "image": "/images/oils/meshek-paz-coratina.png"
+    "image": "/images/oils/meshek-paz-coratina.png",
+    "format": "bad"
   },
   {
     "slug": "meshek-salomon-coratina",
@@ -4604,7 +4824,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/AFTKra5gV-P9EJ2p9qZnQA/tr-sKcNuLIUrAf4PEpZd_hpSIcdkuEuoQllpcvxud4UvIAg3TzSBxl8zQetP8Fntf6TsdjI6NDfh5g5qxb3GhOrIenISj4cwVx4jtoSqPflZIjrRigx5b4du5NHd7_X86uZKnB0rl_31q1MbLcYxhV5RqMNEjS0gMbdJvmior3B4FGki_G3Iq9a83clxSl1g/4sh1M_I_nQtL9rcdrlO904QHZckG7t-6q2qTVeIpNyg"
       }
     ],
-    "image": "/images/oils/meshek-salomon-coratina.png"
+    "image": "/images/oils/meshek-salomon-coratina.png",
+    "format": "bad"
   },
   {
     "slug": "meshek-shomriya-koroneiki",
@@ -4625,7 +4846,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/AFTKra5gV-P9EJ2p9qZnQA/tr-sKcNuLIUrAf4PEpZd_hpSIcdkuEuoQllpcvxud4UvIAg3TzSBxl8zQetP8Fntf6TsdjI6NDfh5g5qxb3GhOrIenISj4cwVx4jtoSqPflZIjrRigx5b4du5NHd7_X86uZKnB0rl_31q1MbLcYxhV5RqMNEjS0gMbdJvmior3B4FGki_G3Iq9a83clxSl1g/4sh1M_I_nQtL9rcdrlO904QHZckG7t-6q2qTVeIpNyg"
       }
     ],
-    "image": "/images/oils/meshek-shomriya-koroneiki.png"
+    "image": "/images/oils/meshek-shomriya-koroneiki.png",
+    "format": "bad"
   },
   {
     "slug": "meshek-shomriya-arbequina",
@@ -4646,7 +4868,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/rnUvYskOiMgQ8VO3CzKsRw/2GBy-34e-gvPJrOuzj1b6NE9a6gUcX1gosh2uzQXeA8gWiNLn3s5uVw1b4jfRdv_XqOP6XACQgMyB1SNHSSxphv9OkKLwSYMbJo85lsUp-CBrZLSiEjDuVglM3wGFE50qvSN1dWTsp4f5SOcN3BHNe3NVH_dcqb6UIfaHVgx86M/BW52f3hXxDjLpASoS-1mw76ISKirlU_6ee162rzKu7E"
       }
     ],
-    "image": "/images/oils/meshek-shomriya-arbequina.png"
+    "image": "/images/oils/meshek-shomriya-arbequina.png",
+    "format": "bad"
   },
   {
     "slug": "mesogis-blend",
@@ -4667,7 +4890,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/AFTKra5gV-P9EJ2p9qZnQA/tr-sKcNuLIUrAf4PEpZd_hpSIcdkuEuoQllpcvxud4UvIAg3TzSBxl8zQetP8Fntf6TsdjI6NDfh5g5qxb3GhOrIenISj4cwVx4jtoSqPflZIjrRigx5b4du5NHd7_X86uZKnB0rl_31q1MbLcYxhV5RqMNEjS0gMbdJvmior3B4FGki_G3Iq9a83clxSl1g/4sh1M_I_nQtL9rcdrlO904QHZckG7t-6q2qTVeIpNyg"
       }
     ],
-    "image": "/images/oils/mesogis-blend.png"
+    "image": "/images/oils/mesogis-blend.png",
+    "format": "good"
   },
   {
     "slug": "mesogis-memecik",
@@ -4688,7 +4912,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/MiyvC3PoHfI-jPrS68hr9A/npsw4R9PTNMDdiqTkqWP_tY4Wuf7-p5SyKjL-sOScVTrCAnOkQkvnOv8hFeHFloXmuzKKohxNPPb_sxUQVb4iojuHs9XNmfr1imN4JT4LUTUqlrrNLBk5G931ZvNR1iBAmfMepRyIYlaD2cAuLxmGgPIwok4cpE-K4doJCAyavPlqRfv71uubIkkZCat4ccn/Nkm7n75hAYreXV_gjyYnW7YKsLl5gE9cTSxyXC9Iyy8"
       }
     ],
-    "image": "/images/oils/mesogis-memecik.png"
+    "image": "/images/oils/mesogis-memecik.png",
+    "format": "bad"
   },
   {
     "slug": "mi-olivo",
@@ -4707,7 +4932,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/AFTKra5gV-P9EJ2p9qZnQA/tr-sKcNuLIUrAf4PEpZd_hpSIcdkuEuoQllpcvxud4UvIAg3TzSBxl8zQetP8Fntf6TsdjI6NDfh5g5qxb3GhOrIenISj4cwVx4jtoSqPflZIjrRigx5b4du5NHd7_X86uZKnB0rl_31q1MbLcYxhV5RqMNEjS0gMbdJvmior3B4FGki_G3Iq9a83clxSl1g/4sh1M_I_nQtL9rcdrlO904QHZckG7t-6q2qTVeIpNyg"
       }
     ],
-    "image": "/images/oils/mi-olivo.png"
+    "image": "/images/oils/mi-olivo.png",
+    "format": "bad"
   },
   {
     "slug": "molino-alfonso",
@@ -4726,7 +4952,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/MiyvC3PoHfI-jPrS68hr9A/npsw4R9PTNMDdiqTkqWP_tY4Wuf7-p5SyKjL-sOScVTrCAnOkQkvnOv8hFeHFloXmuzKKohxNPPb_sxUQVb4iojuHs9XNmfr1imN4JT4LUTUqlrrNLBk5G931ZvNR1iBAmfMepRyIYlaD2cAuLxmGgPIwok4cpE-K4doJCAyavPlqRfv71uubIkkZCat4ccn/Nkm7n75hAYreXV_gjyYnW7YKsLl5gE9cTSxyXC9Iyy8"
       }
     ],
-    "image": "/images/oils/molino-alfonso.png"
+    "image": "/images/oils/molino-alfonso.png",
+    "format": "bad"
   },
   {
     "slug": "monteoliva-oro-pajarero",
@@ -4745,7 +4972,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/MiyvC3PoHfI-jPrS68hr9A/npsw4R9PTNMDdiqTkqWP_tY4Wuf7-p5SyKjL-sOScVTrCAnOkQkvnOv8hFeHFloXmuzKKohxNPPb_sxUQVb4iojuHs9XNmfr1imN4JT4LUTUqlrrNLBk5G931ZvNR1iBAmfMepRyIYlaD2cAuLxmGgPIwok4cpE-K4doJCAyavPlqRfv71uubIkkZCat4ccn/Nkm7n75hAYreXV_gjyYnW7YKsLl5gE9cTSxyXC9Iyy8"
       }
     ],
-    "image": "/images/oils/monteoliva-oro-pajarero.png"
+    "image": "/images/oils/monteoliva-oro-pajarero.png",
+    "format": "good"
   },
   {
     "slug": "mueloliva-picuda",
@@ -4764,7 +4992,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/MiyvC3PoHfI-jPrS68hr9A/npsw4R9PTNMDdiqTkqWP_tY4Wuf7-p5SyKjL-sOScVTrCAnOkQkvnOv8hFeHFloXmuzKKohxNPPb_sxUQVb4iojuHs9XNmfr1imN4JT4LUTUqlrrNLBk5G931ZvNR1iBAmfMepRyIYlaD2cAuLxmGgPIwok4cpE-K4doJCAyavPlqRfv71uubIkkZCat4ccn/Nkm7n75hAYreXV_gjyYnW7YKsLl5gE9cTSxyXC9Iyy8"
       }
     ],
-    "image": "/images/oils/mueloliva-picuda.png"
+    "image": "/images/oils/mueloliva-picuda.png",
+    "format": "bad"
   },
   {
     "slug": "nahalei-shemen-barnea",
@@ -4785,7 +5014,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/rnUvYskOiMgQ8VO3CzKsRw/2GBy-34e-gvPJrOuzj1b6NE9a6gUcX1gosh2uzQXeA8gWiNLn3s5uVw1b4jfRdv_XqOP6XACQgMyB1SNHSSxphv9OkKLwSYMbJo85lsUp-CBrZLSiEjDuVglM3wGFE50qvSN1dWTsp4f5SOcN3BHNe3NVH_dcqb6UIfaHVgx86M/BW52f3hXxDjLpASoS-1mw76ISKirlU_6ee162rzKu7E"
       }
     ],
-    "image": "/images/oils/nahalei-shemen-barnea.png"
+    "image": "/images/oils/nahalei-shemen-barnea.png",
+    "format": "bad"
   },
   {
     "slug": "nahalei-shemen-pichuline",
@@ -4806,7 +5036,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/rnUvYskOiMgQ8VO3CzKsRw/2GBy-34e-gvPJrOuzj1b6NE9a6gUcX1gosh2uzQXeA8gWiNLn3s5uVw1b4jfRdv_XqOP6XACQgMyB1SNHSSxphv9OkKLwSYMbJo85lsUp-CBrZLSiEjDuVglM3wGFE50qvSN1dWTsp4f5SOcN3BHNe3NVH_dcqb6UIfaHVgx86M/BW52f3hXxDjLpASoS-1mw76ISKirlU_6ee162rzKu7E"
       }
     ],
-    "image": "/images/oils/nahalei-shemen-pichuline.png"
+    "image": "/images/oils/nahalei-shemen-pichuline.png",
+    "format": "bad"
   },
   {
     "slug": "nai-33-coratina",
@@ -4827,7 +5058,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/MiyvC3PoHfI-jPrS68hr9A/npsw4R9PTNMDdiqTkqWP_tY4Wuf7-p5SyKjL-sOScVTrCAnOkQkvnOv8hFeHFloXmuzKKohxNPPb_sxUQVb4iojuHs9XNmfr1imN4JT4LUTUqlrrNLBk5G931ZvNR1iBAmfMepRyIYlaD2cAuLxmGgPIwok4cpE-K4doJCAyavPlqRfv71uubIkkZCat4ccn/Nkm7n75hAYreXV_gjyYnW7YKsLl5gE9cTSxyXC9Iyy8"
       }
     ],
-    "image": "/images/oils/nai-33-coratina.png"
+    "image": "/images/oils/nai-33-coratina.png",
+    "format": "good"
   },
   {
     "slug": "nai-33-drobnica",
@@ -4846,7 +5078,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/MiyvC3PoHfI-jPrS68hr9A/npsw4R9PTNMDdiqTkqWP_tY4Wuf7-p5SyKjL-sOScVTrCAnOkQkvnOv8hFeHFloXmuzKKohxNPPb_sxUQVb4iojuHs9XNmfr1imN4JT4LUTUqlrrNLBk5G931ZvNR1iBAmfMepRyIYlaD2cAuLxmGgPIwok4cpE-K4doJCAyavPlqRfv71uubIkkZCat4ccn/Nkm7n75hAYreXV_gjyYnW7YKsLl5gE9cTSxyXC9Iyy8"
       }
     ],
-    "image": "/images/oils/nai-33-drobnica.png"
+    "image": "/images/oils/nai-33-drobnica.png",
+    "format": "good"
   },
   {
     "slug": "nermin-hanm-edremit-erken-hasat",
@@ -4865,7 +5098,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/AFTKra5gV-P9EJ2p9qZnQA/tr-sKcNuLIUrAf4PEpZd_hpSIcdkuEuoQllpcvxud4UvIAg3TzSBxl8zQetP8Fntf6TsdjI6NDfh5g5qxb3GhOrIenISj4cwVx4jtoSqPflZIjrRigx5b4du5NHd7_X86uZKnB0rl_31q1MbLcYxhV5RqMNEjS0gMbdJvmior3B4FGki_G3Iq9a83clxSl1g/4sh1M_I_nQtL9rcdrlO904QHZckG7t-6q2qTVeIpNyg"
       }
     ],
-    "image": "/images/oils/nermin-hanm-edremit-erken-hasat.png"
+    "image": "/images/oils/nermin-hanm-edremit-erken-hasat.png",
+    "format": "good"
   },
   {
     "slug": "nermin-hanm-trilye-erken-hasat",
@@ -4884,7 +5118,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/MiyvC3PoHfI-jPrS68hr9A/npsw4R9PTNMDdiqTkqWP_tY4Wuf7-p5SyKjL-sOScVTrCAnOkQkvnOv8hFeHFloXmuzKKohxNPPb_sxUQVb4iojuHs9XNmfr1imN4JT4LUTUqlrrNLBk5G931ZvNR1iBAmfMepRyIYlaD2cAuLxmGgPIwok4cpE-K4doJCAyavPlqRfv71uubIkkZCat4ccn/Nkm7n75hAYreXV_gjyYnW7YKsLl5gE9cTSxyXC9Iyy8"
       }
     ],
-    "image": "/images/oils/nermin-hanm-trilye-erken-hasat.png"
+    "image": "/images/oils/nermin-hanm-trilye-erken-hasat.png",
+    "format": "good"
   },
   {
     "slug": "ninurta-arbequina",
@@ -4905,7 +5140,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/MiyvC3PoHfI-jPrS68hr9A/npsw4R9PTNMDdiqTkqWP_tY4Wuf7-p5SyKjL-sOScVTrCAnOkQkvnOv8hFeHFloXmuzKKohxNPPb_sxUQVb4iojuHs9XNmfr1imN4JT4LUTUqlrrNLBk5G931ZvNR1iBAmfMepRyIYlaD2cAuLxmGgPIwok4cpE-K4doJCAyavPlqRfv71uubIkkZCat4ccn/Nkm7n75hAYreXV_gjyYnW7YKsLl5gE9cTSxyXC9Iyy8"
       }
     ],
-    "image": "/images/oils/ninurta-arbequina.png"
+    "image": "/images/oils/ninurta-arbequina.png",
+    "format": "good"
   },
   {
     "slug": "ninurta-edremit",
@@ -4924,7 +5160,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/AFTKra5gV-P9EJ2p9qZnQA/tr-sKcNuLIUrAf4PEpZd_hpSIcdkuEuoQllpcvxud4UvIAg3TzSBxl8zQetP8Fntf6TsdjI6NDfh5g5qxb3GhOrIenISj4cwVx4jtoSqPflZIjrRigx5b4du5NHd7_X86uZKnB0rl_31q1MbLcYxhV5RqMNEjS0gMbdJvmior3B4FGki_G3Iq9a83clxSl1g/4sh1M_I_nQtL9rcdrlO904QHZckG7t-6q2qTVeIpNyg"
       }
     ],
-    "image": "/images/oils/ninurta-edremit.png"
+    "image": "/images/oils/ninurta-edremit.png",
+    "format": "good"
   },
   {
     "slug": "ninurta-gelin-parmag",
@@ -4943,7 +5180,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/MiyvC3PoHfI-jPrS68hr9A/npsw4R9PTNMDdiqTkqWP_tY4Wuf7-p5SyKjL-sOScVTrCAnOkQkvnOv8hFeHFloXmuzKKohxNPPb_sxUQVb4iojuHs9XNmfr1imN4JT4LUTUqlrrNLBk5G931ZvNR1iBAmfMepRyIYlaD2cAuLxmGgPIwok4cpE-K4doJCAyavPlqRfv71uubIkkZCat4ccn/Nkm7n75hAYreXV_gjyYnW7YKsLl5gE9cTSxyXC9Iyy8"
       }
     ],
-    "image": "/images/oils/ninurta-gelin-parmag.png"
+    "image": "/images/oils/ninurta-gelin-parmag.png",
+    "format": "bad"
   },
   {
     "slug": "ninurta-lecciana",
@@ -4964,7 +5202,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/MiyvC3PoHfI-jPrS68hr9A/npsw4R9PTNMDdiqTkqWP_tY4Wuf7-p5SyKjL-sOScVTrCAnOkQkvnOv8hFeHFloXmuzKKohxNPPb_sxUQVb4iojuHs9XNmfr1imN4JT4LUTUqlrrNLBk5G931ZvNR1iBAmfMepRyIYlaD2cAuLxmGgPIwok4cpE-K4doJCAyavPlqRfv71uubIkkZCat4ccn/Nkm7n75hAYreXV_gjyYnW7YKsLl5gE9cTSxyXC9Iyy8"
       }
     ],
-    "image": "/images/oils/ninurta-lecciana.png"
+    "image": "/images/oils/ninurta-lecciana.png",
+    "format": "good"
   },
   {
     "slug": "ninurta-north-aegean-blend",
@@ -5041,7 +5280,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/MiyvC3PoHfI-jPrS68hr9A/npsw4R9PTNMDdiqTkqWP_tY4Wuf7-p5SyKjL-sOScVTrCAnOkQkvnOv8hFeHFloXmuzKKohxNPPb_sxUQVb4iojuHs9XNmfr1imN4JT4LUTUqlrrNLBk5G931ZvNR1iBAmfMepRyIYlaD2cAuLxmGgPIwok4cpE-K4doJCAyavPlqRfv71uubIkkZCat4ccn/Nkm7n75hAYreXV_gjyYnW7YKsLl5gE9cTSxyXC9Iyy8"
       }
     ],
-    "image": "/images/oils/bottle__novavera-ltd-sti__novavera-ayvalk.jpg"
+    "image": "/images/oils/bottle__novavera-ltd-sti__novavera-ayvalk.jpg",
+    "format": "good"
   },
   {
     "slug": "novavera-chef-blend",
@@ -5062,7 +5302,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/MiyvC3PoHfI-jPrS68hr9A/npsw4R9PTNMDdiqTkqWP_tY4Wuf7-p5SyKjL-sOScVTrCAnOkQkvnOv8hFeHFloXmuzKKohxNPPb_sxUQVb4iojuHs9XNmfr1imN4JT4LUTUqlrrNLBk5G931ZvNR1iBAmfMepRyIYlaD2cAuLxmGgPIwok4cpE-K4doJCAyavPlqRfv71uubIkkZCat4ccn/Nkm7n75hAYreXV_gjyYnW7YKsLl5gE9cTSxyXC9Iyy8"
       }
     ],
-    "image": "/images/oils/bottle__novavera-ltd-sti__novavera-chef-blend.jpg"
+    "image": "/images/oils/bottle__novavera-ltd-sti__novavera-chef-blend.jpg",
+    "format": "good"
   },
   {
     "slug": "novavera-cocuk",
@@ -5081,7 +5322,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/AFTKra5gV-P9EJ2p9qZnQA/tr-sKcNuLIUrAf4PEpZd_hpSIcdkuEuoQllpcvxud4UvIAg3TzSBxl8zQetP8Fntf6TsdjI6NDfh5g5qxb3GhOrIenISj4cwVx4jtoSqPflZIjrRigx5b4du5NHd7_X86uZKnB0rl_31q1MbLcYxhV5RqMNEjS0gMbdJvmior3B4FGki_G3Iq9a83clxSl1g/4sh1M_I_nQtL9rcdrlO904QHZckG7t-6q2qTVeIpNyg"
       }
     ],
-    "image": "/images/oils/bottle__novavera-ltd-sti__novavera-cocuk.jpg"
+    "image": "/images/oils/bottle__novavera-ltd-sti__novavera-cocuk.jpg",
+    "format": "good"
   },
   {
     "slug": "novavera-ege-blend",
@@ -5102,7 +5344,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/AFTKra5gV-P9EJ2p9qZnQA/tr-sKcNuLIUrAf4PEpZd_hpSIcdkuEuoQllpcvxud4UvIAg3TzSBxl8zQetP8Fntf6TsdjI6NDfh5g5qxb3GhOrIenISj4cwVx4jtoSqPflZIjrRigx5b4du5NHd7_X86uZKnB0rl_31q1MbLcYxhV5RqMNEjS0gMbdJvmior3B4FGki_G3Iq9a83clxSl1g/4sh1M_I_nQtL9rcdrlO904QHZckG7t-6q2qTVeIpNyg"
       }
     ],
-    "image": "/images/oils/bottle__novavera-ltd-sti__novavera-ege-blend.jpg"
+    "image": "/images/oils/bottle__novavera-ltd-sti__novavera-ege-blend.jpg",
+    "format": "good"
   },
   {
     "slug": "novavera-golden-harvest",
@@ -5121,7 +5364,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/MiyvC3PoHfI-jPrS68hr9A/npsw4R9PTNMDdiqTkqWP_tY4Wuf7-p5SyKjL-sOScVTrCAnOkQkvnOv8hFeHFloXmuzKKohxNPPb_sxUQVb4iojuHs9XNmfr1imN4JT4LUTUqlrrNLBk5G931ZvNR1iBAmfMepRyIYlaD2cAuLxmGgPIwok4cpE-K4doJCAyavPlqRfv71uubIkkZCat4ccn/Nkm7n75hAYreXV_gjyYnW7YKsLl5gE9cTSxyXC9Iyy8"
       }
     ],
-    "image": "/images/oils/bottle__novavera-ltd-sti__novavera-golden-harvest.jpg"
+    "image": "/images/oils/bottle__novavera-ltd-sti__novavera-golden-harvest.jpg",
+    "format": "good"
   },
   {
     "slug": "novavera-limited-edition",
@@ -5140,7 +5384,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/MiyvC3PoHfI-jPrS68hr9A/npsw4R9PTNMDdiqTkqWP_tY4Wuf7-p5SyKjL-sOScVTrCAnOkQkvnOv8hFeHFloXmuzKKohxNPPb_sxUQVb4iojuHs9XNmfr1imN4JT4LUTUqlrrNLBk5G931ZvNR1iBAmfMepRyIYlaD2cAuLxmGgPIwok4cpE-K4doJCAyavPlqRfv71uubIkkZCat4ccn/Nkm7n75hAYreXV_gjyYnW7YKsLl5gE9cTSxyXC9Iyy8"
       }
     ],
-    "image": "/images/oils/novavera-limited-edition.png"
+    "image": "/images/oils/novavera-limited-edition.png",
+    "format": "good"
   },
   {
     "slug": "novavera-memecik",
@@ -5161,7 +5406,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/AFTKra5gV-P9EJ2p9qZnQA/tr-sKcNuLIUrAf4PEpZd_hpSIcdkuEuoQllpcvxud4UvIAg3TzSBxl8zQetP8Fntf6TsdjI6NDfh5g5qxb3GhOrIenISj4cwVx4jtoSqPflZIjrRigx5b4du5NHd7_X86uZKnB0rl_31q1MbLcYxhV5RqMNEjS0gMbdJvmior3B4FGki_G3Iq9a83clxSl1g/4sh1M_I_nQtL9rcdrlO904QHZckG7t-6q2qTVeIpNyg"
       }
     ],
-    "image": "/images/oils/bottle__novavera-ltd-sti__novavera-memecik.png"
+    "image": "/images/oils/bottle__novavera-ltd-sti__novavera-memecik.png",
+    "format": "bad"
   },
   {
     "slug": "novavera-organik",
@@ -5180,7 +5426,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/MiyvC3PoHfI-jPrS68hr9A/npsw4R9PTNMDdiqTkqWP_tY4Wuf7-p5SyKjL-sOScVTrCAnOkQkvnOv8hFeHFloXmuzKKohxNPPb_sxUQVb4iojuHs9XNmfr1imN4JT4LUTUqlrrNLBk5G931ZvNR1iBAmfMepRyIYlaD2cAuLxmGgPIwok4cpE-K4doJCAyavPlqRfv71uubIkkZCat4ccn/Nkm7n75hAYreXV_gjyYnW7YKsLl5gE9cTSxyXC9Iyy8"
       }
     ],
-    "image": "/images/oils/bottle__novavera-ltd-sti__novavera-organik.jpg"
+    "image": "/images/oils/bottle__novavera-ltd-sti__novavera-organik.jpg",
+    "format": "good"
   },
   {
     "slug": "novavera-organik-ayvalk",
@@ -5199,7 +5446,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/MiyvC3PoHfI-jPrS68hr9A/npsw4R9PTNMDdiqTkqWP_tY4Wuf7-p5SyKjL-sOScVTrCAnOkQkvnOv8hFeHFloXmuzKKohxNPPb_sxUQVb4iojuHs9XNmfr1imN4JT4LUTUqlrrNLBk5G931ZvNR1iBAmfMepRyIYlaD2cAuLxmGgPIwok4cpE-K4doJCAyavPlqRfv71uubIkkZCat4ccn/Nkm7n75hAYreXV_gjyYnW7YKsLl5gE9cTSxyXC9Iyy8"
       }
     ],
-    "image": "/images/oils/bottle__novavera-ltd-sti__novavera-organik-ayvalk.jpg"
+    "image": "/images/oils/bottle__novavera-ltd-sti__novavera-organik-ayvalk.jpg",
+    "format": "good"
   },
   {
     "slug": "novavera-premium",
@@ -5218,7 +5466,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/AFTKra5gV-P9EJ2p9qZnQA/tr-sKcNuLIUrAf4PEpZd_hpSIcdkuEuoQllpcvxud4UvIAg3TzSBxl8zQetP8Fntf6TsdjI6NDfh5g5qxb3GhOrIenISj4cwVx4jtoSqPflZIjrRigx5b4du5NHd7_X86uZKnB0rl_31q1MbLcYxhV5RqMNEjS0gMbdJvmior3B4FGki_G3Iq9a83clxSl1g/4sh1M_I_nQtL9rcdrlO904QHZckG7t-6q2qTVeIpNyg"
       }
     ],
-    "image": "/images/oils/bottle__novavera-ltd-sti__novavera-premium.jpg"
+    "image": "/images/oils/bottle__novavera-ltd-sti__novavera-premium.jpg",
+    "format": "bad"
   },
   {
     "slug": "novavera-premium-organik",
@@ -5237,7 +5486,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/MiyvC3PoHfI-jPrS68hr9A/npsw4R9PTNMDdiqTkqWP_tY4Wuf7-p5SyKjL-sOScVTrCAnOkQkvnOv8hFeHFloXmuzKKohxNPPb_sxUQVb4iojuHs9XNmfr1imN4JT4LUTUqlrrNLBk5G931ZvNR1iBAmfMepRyIYlaD2cAuLxmGgPIwok4cpE-K4doJCAyavPlqRfv71uubIkkZCat4ccn/Nkm7n75hAYreXV_gjyYnW7YKsLl5gE9cTSxyXC9Iyy8"
       }
     ],
-    "image": "/images/oils/bottle__novavera-ltd-sti__novavera-premium-organik.jpg"
+    "image": "/images/oils/bottle__novavera-ltd-sti__novavera-premium-organik.jpg",
+    "format": "bad"
   },
   {
     "slug": "novavera-trilye",
@@ -5256,7 +5506,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/MiyvC3PoHfI-jPrS68hr9A/npsw4R9PTNMDdiqTkqWP_tY4Wuf7-p5SyKjL-sOScVTrCAnOkQkvnOv8hFeHFloXmuzKKohxNPPb_sxUQVb4iojuHs9XNmfr1imN4JT4LUTUqlrrNLBk5G931ZvNR1iBAmfMepRyIYlaD2cAuLxmGgPIwok4cpE-K4doJCAyavPlqRfv71uubIkkZCat4ccn/Nkm7n75hAYreXV_gjyYnW7YKsLl5gE9cTSxyXC9Iyy8"
       }
     ],
-    "image": "/images/oils/bottle__novavera-ltd-sti__novavera-trilye.png"
+    "image": "/images/oils/bottle__novavera-ltd-sti__novavera-trilye.png",
+    "format": "bad"
   },
   {
     "slug": "novavera-yamalak-sars",
@@ -5275,7 +5526,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/MiyvC3PoHfI-jPrS68hr9A/npsw4R9PTNMDdiqTkqWP_tY4Wuf7-p5SyKjL-sOScVTrCAnOkQkvnOv8hFeHFloXmuzKKohxNPPb_sxUQVb4iojuHs9XNmfr1imN4JT4LUTUqlrrNLBk5G931ZvNR1iBAmfMepRyIYlaD2cAuLxmGgPIwok4cpE-K4doJCAyavPlqRfv71uubIkkZCat4ccn/Nkm7n75hAYreXV_gjyYnW7YKsLl5gE9cTSxyXC9Iyy8"
       }
     ],
-    "image": "/images/oils/bottle__novavera-ltd-sti__novavera-yamalak-sars.jpg"
+    "image": "/images/oils/bottle__novavera-ltd-sti__novavera-yamalak-sars.jpg",
+    "format": "good"
   },
   {
     "slug": "novavera-yedi-bahar",
@@ -5294,7 +5546,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/AFTKra5gV-P9EJ2p9qZnQA/tr-sKcNuLIUrAf4PEpZd_hpSIcdkuEuoQllpcvxud4UvIAg3TzSBxl8zQetP8Fntf6TsdjI6NDfh5g5qxb3GhOrIenISj4cwVx4jtoSqPflZIjrRigx5b4du5NHd7_X86uZKnB0rl_31q1MbLcYxhV5RqMNEjS0gMbdJvmior3B4FGki_G3Iq9a83clxSl1g/4sh1M_I_nQtL9rcdrlO904QHZckG7t-6q2qTVeIpNyg"
       }
     ],
-    "image": "/images/oils/bottle__novavera-ltd-sti__novavera-yedi-bahar.jpg"
+    "image": "/images/oils/bottle__novavera-ltd-sti__novavera-yedi-bahar.jpg",
+    "format": "good"
   },
   {
     "slug": "oleoastron-gourmet",
@@ -5313,7 +5566,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/AFTKra5gV-P9EJ2p9qZnQA/tr-sKcNuLIUrAf4PEpZd_hpSIcdkuEuoQllpcvxud4UvIAg3TzSBxl8zQetP8Fntf6TsdjI6NDfh5g5qxb3GhOrIenISj4cwVx4jtoSqPflZIjrRigx5b4du5NHd7_X86uZKnB0rl_31q1MbLcYxhV5RqMNEjS0gMbdJvmior3B4FGki_G3Iq9a83clxSl1g/4sh1M_I_nQtL9rcdrlO904QHZckG7t-6q2qTVeIpNyg"
       }
     ],
-    "image": "/images/oils/bottle__sakellaropoulos-organic-farms__oleoastron-gourmet.png"
+    "image": "/images/oils/bottle__sakellaropoulos-organic-farms__oleoastron-gourmet.png",
+    "format": "bad"
   },
   {
     "slug": "oleus-premium-early-harvest",
@@ -5332,7 +5586,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/MiyvC3PoHfI-jPrS68hr9A/npsw4R9PTNMDdiqTkqWP_tY4Wuf7-p5SyKjL-sOScVTrCAnOkQkvnOv8hFeHFloXmuzKKohxNPPb_sxUQVb4iojuHs9XNmfr1imN4JT4LUTUqlrrNLBk5G931ZvNR1iBAmfMepRyIYlaD2cAuLxmGgPIwok4cpE-K4doJCAyavPlqRfv71uubIkkZCat4ccn/Nkm7n75hAYreXV_gjyYnW7YKsLl5gE9cTSxyXC9Iyy8"
       }
     ],
-    "image": "/images/oils/oleus-premium-early-harvest.png"
+    "image": "/images/oils/oleus-premium-early-harvest.png",
+    "format": "good"
   },
   {
     "slug": "olio-della-pace",
@@ -5351,7 +5606,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/MiyvC3PoHfI-jPrS68hr9A/npsw4R9PTNMDdiqTkqWP_tY4Wuf7-p5SyKjL-sOScVTrCAnOkQkvnOv8hFeHFloXmuzKKohxNPPb_sxUQVb4iojuHs9XNmfr1imN4JT4LUTUqlrrNLBk5G931ZvNR1iBAmfMepRyIYlaD2cAuLxmGgPIwok4cpE-K4doJCAyavPlqRfv71uubIkkZCat4ccn/Nkm7n75hAYreXV_gjyYnW7YKsLl5gE9cTSxyXC9Iyy8"
       }
     ],
-    "image": "/images/oils/olio-della-pace.png"
+    "image": "/images/oils/olio-della-pace.png",
+    "format": "good"
   },
   {
     "slug": "oliovita-arbequina",
@@ -5372,7 +5628,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/rnUvYskOiMgQ8VO3CzKsRw/2GBy-34e-gvPJrOuzj1b6NE9a6gUcX1gosh2uzQXeA8gWiNLn3s5uVw1b4jfRdv_XqOP6XACQgMyB1SNHSSxphv9OkKLwSYMbJo85lsUp-CBrZLSiEjDuVglM3wGFE50qvSN1dWTsp4f5SOcN3BHNe3NVH_dcqb6UIfaHVgx86M/BW52f3hXxDjLpASoS-1mw76ISKirlU_6ee162rzKu7E"
       }
     ],
-    "image": "/images/oils/bottle__solfrut-sa__oliovita-arbequina.png"
+    "image": "/images/oils/bottle__solfrut-sa__oliovita-arbequina.png",
+    "format": "bad"
   },
   {
     "slug": "oliovita-changlot",
@@ -5393,7 +5650,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/rnUvYskOiMgQ8VO3CzKsRw/2GBy-34e-gvPJrOuzj1b6NE9a6gUcX1gosh2uzQXeA8gWiNLn3s5uVw1b4jfRdv_XqOP6XACQgMyB1SNHSSxphv9OkKLwSYMbJo85lsUp-CBrZLSiEjDuVglM3wGFE50qvSN1dWTsp4f5SOcN3BHNe3NVH_dcqb6UIfaHVgx86M/BW52f3hXxDjLpASoS-1mw76ISKirlU_6ee162rzKu7E"
       }
     ],
-    "image": "/images/oils/bottle__solfrut-sa__oliovita-changlot.png"
+    "image": "/images/oils/bottle__solfrut-sa__oliovita-changlot.png",
+    "format": "bad"
   },
   {
     "slug": "oliovita-coratina",
@@ -5414,7 +5672,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/rnUvYskOiMgQ8VO3CzKsRw/2GBy-34e-gvPJrOuzj1b6NE9a6gUcX1gosh2uzQXeA8gWiNLn3s5uVw1b4jfRdv_XqOP6XACQgMyB1SNHSSxphv9OkKLwSYMbJo85lsUp-CBrZLSiEjDuVglM3wGFE50qvSN1dWTsp4f5SOcN3BHNe3NVH_dcqb6UIfaHVgx86M/BW52f3hXxDjLpASoS-1mw76ISKirlU_6ee162rzKu7E"
       }
     ],
-    "image": "/images/oils/bottle__solfrut-sa__oliovita-coratina.png"
+    "image": "/images/oils/bottle__solfrut-sa__oliovita-coratina.png",
+    "format": "bad"
   },
   {
     "slug": "olivas-de-gramado-terroir-serrano",
@@ -5563,7 +5822,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/MiyvC3PoHfI-jPrS68hr9A/npsw4R9PTNMDdiqTkqWP_tY4Wuf7-p5SyKjL-sOScVTrCAnOkQkvnOv8hFeHFloXmuzKKohxNPPb_sxUQVb4iojuHs9XNmfr1imN4JT4LUTUqlrrNLBk5G931ZvNR1iBAmfMepRyIYlaD2cAuLxmGgPIwok4cpE-K4doJCAyavPlqRfv71uubIkkZCat4ccn/Nkm7n75hAYreXV_gjyYnW7YKsLl5gE9cTSxyXC9Iyy8"
       }
     ],
-    "image": "/images/oils/bottle__yihai-kerry-foodstuffs-marketing-co-ltd__olivoila.png"
+    "image": "/images/oils/bottle__yihai-kerry-foodstuffs-marketing-co-ltd__olivoila.png",
+    "format": "bad"
   },
   {
     "slug": "olivum-blend-medio",
@@ -5584,7 +5844,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/rnUvYskOiMgQ8VO3CzKsRw/2GBy-34e-gvPJrOuzj1b6NE9a6gUcX1gosh2uzQXeA8gWiNLn3s5uVw1b4jfRdv_XqOP6XACQgMyB1SNHSSxphv9OkKLwSYMbJo85lsUp-CBrZLSiEjDuVglM3wGFE50qvSN1dWTsp4f5SOcN3BHNe3NVH_dcqb6UIfaHVgx86M/BW52f3hXxDjLpASoS-1mw76ISKirlU_6ee162rzKu7E"
       }
     ],
-    "image": "/images/oils/bottle__establecimiento-olivum-sa__olivum-blend-medio.png"
+    "image": "/images/oils/bottle__establecimiento-olivum-sa__olivum-blend-medio.png",
+    "format": "bad"
   },
   {
     "slug": "olivum-changlot",
@@ -5605,7 +5866,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/AFTKra5gV-P9EJ2p9qZnQA/tr-sKcNuLIUrAf4PEpZd_hpSIcdkuEuoQllpcvxud4UvIAg3TzSBxl8zQetP8Fntf6TsdjI6NDfh5g5qxb3GhOrIenISj4cwVx4jtoSqPflZIjrRigx5b4du5NHd7_X86uZKnB0rl_31q1MbLcYxhV5RqMNEjS0gMbdJvmior3B4FGki_G3Iq9a83clxSl1g/4sh1M_I_nQtL9rcdrlO904QHZckG7t-6q2qTVeIpNyg"
       }
     ],
-    "image": "/images/oils/bottle__establecimiento-olivum-sa__olivum-changlot.png"
+    "image": "/images/oils/bottle__establecimiento-olivum-sa__olivum-changlot.png",
+    "format": "bad"
   },
   {
     "slug": "olivum-coratina",
@@ -5626,7 +5888,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/rnUvYskOiMgQ8VO3CzKsRw/2GBy-34e-gvPJrOuzj1b6NE9a6gUcX1gosh2uzQXeA8gWiNLn3s5uVw1b4jfRdv_XqOP6XACQgMyB1SNHSSxphv9OkKLwSYMbJo85lsUp-CBrZLSiEjDuVglM3wGFE50qvSN1dWTsp4f5SOcN3BHNe3NVH_dcqb6UIfaHVgx86M/BW52f3hXxDjLpASoS-1mw76ISKirlU_6ee162rzKu7E"
       }
     ],
-    "image": "/images/oils/bottle__establecimiento-olivum-sa__olivum-coratina.png"
+    "image": "/images/oils/bottle__establecimiento-olivum-sa__olivum-coratina.png",
+    "format": "bad"
   },
   {
     "slug": "olivum-picual",
@@ -5647,7 +5910,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/rnUvYskOiMgQ8VO3CzKsRw/2GBy-34e-gvPJrOuzj1b6NE9a6gUcX1gosh2uzQXeA8gWiNLn3s5uVw1b4jfRdv_XqOP6XACQgMyB1SNHSSxphv9OkKLwSYMbJo85lsUp-CBrZLSiEjDuVglM3wGFE50qvSN1dWTsp4f5SOcN3BHNe3NVH_dcqb6UIfaHVgx86M/BW52f3hXxDjLpASoS-1mw76ISKirlU_6ee162rzKu7E"
       }
     ],
-    "image": "/images/oils/bottle__establecimiento-olivum-sa__olivum-picual.png"
+    "image": "/images/oils/bottle__establecimiento-olivum-sa__olivum-picual.png",
+    "format": "bad"
   },
   {
     "slug": "pago-baldios-san-carlos",
@@ -5684,7 +5948,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/MiyvC3PoHfI-jPrS68hr9A/npsw4R9PTNMDdiqTkqWP_tY4Wuf7-p5SyKjL-sOScVTrCAnOkQkvnOv8hFeHFloXmuzKKohxNPPb_sxUQVb4iojuHs9XNmfr1imN4JT4LUTUqlrrNLBk5G931ZvNR1iBAmfMepRyIYlaD2cAuLxmGgPIwok4cpE-K4doJCAyavPlqRfv71uubIkkZCat4ccn/Nkm7n75hAYreXV_gjyYnW7YKsLl5gE9cTSxyXC9Iyy8"
       }
     ],
-    "image": "/images/oils/bottle__hacienda-la-serrata-sl__pago-francisco-gomez-chiquitita.jpg"
+    "image": "/images/oils/bottle__hacienda-la-serrata-sl__pago-francisco-gomez-chiquitita.jpg",
+    "format": "good"
   },
   {
     "slug": "pago-francisco-gomez-cornicabra",
@@ -5705,7 +5970,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/MiyvC3PoHfI-jPrS68hr9A/npsw4R9PTNMDdiqTkqWP_tY4Wuf7-p5SyKjL-sOScVTrCAnOkQkvnOv8hFeHFloXmuzKKohxNPPb_sxUQVb4iojuHs9XNmfr1imN4JT4LUTUqlrrNLBk5G931ZvNR1iBAmfMepRyIYlaD2cAuLxmGgPIwok4cpE-K4doJCAyavPlqRfv71uubIkkZCat4ccn/Nkm7n75hAYreXV_gjyYnW7YKsLl5gE9cTSxyXC9Iyy8"
       }
     ],
-    "image": "/images/oils/bottle__hacienda-la-serrata-sl__pago-francisco-gomez-cornicabra.jpg"
+    "image": "/images/oils/bottle__hacienda-la-serrata-sl__pago-francisco-gomez-cornicabra.jpg",
+    "format": "good"
   },
   {
     "slug": "pago-francisco-gomez-coupage-de-autor",
@@ -5724,7 +5990,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/rnUvYskOiMgQ8VO3CzKsRw/2GBy-34e-gvPJrOuzj1b6NE9a6gUcX1gosh2uzQXeA8gWiNLn3s5uVw1b4jfRdv_XqOP6XACQgMyB1SNHSSxphv9OkKLwSYMbJo85lsUp-CBrZLSiEjDuVglM3wGFE50qvSN1dWTsp4f5SOcN3BHNe3NVH_dcqb6UIfaHVgx86M/BW52f3hXxDjLpASoS-1mw76ISKirlU_6ee162rzKu7E"
       }
     ],
-    "image": "/images/oils/bottle__hacienda-la-serrata-sl__pago-francisco-gomez-coupage-de-autor.jpg"
+    "image": "/images/oils/bottle__hacienda-la-serrata-sl__pago-francisco-gomez-coupage-de-autor.jpg",
+    "format": "good"
   },
   {
     "slug": "pago-francisco-gomez-grosal",
@@ -5743,7 +6010,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/MiyvC3PoHfI-jPrS68hr9A/npsw4R9PTNMDdiqTkqWP_tY4Wuf7-p5SyKjL-sOScVTrCAnOkQkvnOv8hFeHFloXmuzKKohxNPPb_sxUQVb4iojuHs9XNmfr1imN4JT4LUTUqlrrNLBk5G931ZvNR1iBAmfMepRyIYlaD2cAuLxmGgPIwok4cpE-K4doJCAyavPlqRfv71uubIkkZCat4ccn/Nkm7n75hAYreXV_gjyYnW7YKsLl5gE9cTSxyXC9Iyy8"
       }
     ],
-    "image": "/images/oils/bottle__hacienda-la-serrata-sl__pago-francisco-gomez-grosal.jpg"
+    "image": "/images/oils/bottle__hacienda-la-serrata-sl__pago-francisco-gomez-grosal.jpg",
+    "format": "good"
   },
   {
     "slug": "pago-francisco-gomez-lecciana",
@@ -5764,7 +6032,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/rnUvYskOiMgQ8VO3CzKsRw/2GBy-34e-gvPJrOuzj1b6NE9a6gUcX1gosh2uzQXeA8gWiNLn3s5uVw1b4jfRdv_XqOP6XACQgMyB1SNHSSxphv9OkKLwSYMbJo85lsUp-CBrZLSiEjDuVglM3wGFE50qvSN1dWTsp4f5SOcN3BHNe3NVH_dcqb6UIfaHVgx86M/BW52f3hXxDjLpASoS-1mw76ISKirlU_6ee162rzKu7E"
       }
     ],
-    "image": "/images/oils/bottle__hacienda-la-serrata-sl__pago-francisco-gomez-lecciana.jpg"
+    "image": "/images/oils/bottle__hacienda-la-serrata-sl__pago-francisco-gomez-lecciana.jpg",
+    "format": "good"
   },
   {
     "slug": "pago-francisco-gomez-picual",
@@ -5785,7 +6054,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/MiyvC3PoHfI-jPrS68hr9A/npsw4R9PTNMDdiqTkqWP_tY4Wuf7-p5SyKjL-sOScVTrCAnOkQkvnOv8hFeHFloXmuzKKohxNPPb_sxUQVb4iojuHs9XNmfr1imN4JT4LUTUqlrrNLBk5G931ZvNR1iBAmfMepRyIYlaD2cAuLxmGgPIwok4cpE-K4doJCAyavPlqRfv71uubIkkZCat4ccn/Nkm7n75hAYreXV_gjyYnW7YKsLl5gE9cTSxyXC9Iyy8"
       }
     ],
-    "image": "/images/oils/bottle__hacienda-la-serrata-sl__pago-francisco-gomez-picual.jpg"
+    "image": "/images/oils/bottle__hacienda-la-serrata-sl__pago-francisco-gomez-picual.jpg",
+    "format": "good"
   },
   {
     "slug": "palacio-de-los-olivos-arbequina",
@@ -5806,7 +6076,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/MiyvC3PoHfI-jPrS68hr9A/npsw4R9PTNMDdiqTkqWP_tY4Wuf7-p5SyKjL-sOScVTrCAnOkQkvnOv8hFeHFloXmuzKKohxNPPb_sxUQVb4iojuHs9XNmfr1imN4JT4LUTUqlrrNLBk5G931ZvNR1iBAmfMepRyIYlaD2cAuLxmGgPIwok4cpE-K4doJCAyavPlqRfv71uubIkkZCat4ccn/Nkm7n75hAYreXV_gjyYnW7YKsLl5gE9cTSxyXC9Iyy8"
       }
     ],
-    "image": "/images/oils/palacio-de-los-olivos-arbequina.png"
+    "image": "/images/oils/palacio-de-los-olivos-arbequina.png",
+    "format": "good"
   },
   {
     "slug": "palacio-de-los-olivos-picual",
@@ -5827,7 +6098,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/MiyvC3PoHfI-jPrS68hr9A/npsw4R9PTNMDdiqTkqWP_tY4Wuf7-p5SyKjL-sOScVTrCAnOkQkvnOv8hFeHFloXmuzKKohxNPPb_sxUQVb4iojuHs9XNmfr1imN4JT4LUTUqlrrNLBk5G931ZvNR1iBAmfMepRyIYlaD2cAuLxmGgPIwok4cpE-K4doJCAyavPlqRfv71uubIkkZCat4ccn/Nkm7n75hAYreXV_gjyYnW7YKsLl5gE9cTSxyXC9Iyy8"
       }
     ],
-    "image": "/images/oils/palacio-de-los-olivos-picual.png"
+    "image": "/images/oils/palacio-de-los-olivos-picual.png",
+    "format": "good"
   },
   {
     "slug": "pallas-ultra-premium",
@@ -5864,7 +6136,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/AFTKra5gV-P9EJ2p9qZnQA/tr-sKcNuLIUrAf4PEpZd_hpSIcdkuEuoQllpcvxud4UvIAg3TzSBxl8zQetP8Fntf6TsdjI6NDfh5g5qxb3GhOrIenISj4cwVx4jtoSqPflZIjrRigx5b4du5NHd7_X86uZKnB0rl_31q1MbLcYxhV5RqMNEjS0gMbdJvmior3B4FGki_G3Iq9a83clxSl1g/4sh1M_I_nQtL9rcdrlO904QHZckG7t-6q2qTVeIpNyg"
       }
     ],
-    "image": "/images/oils/bottle__nicola-pantaleo-spa__pantaleo-100-italiano.png"
+    "image": "/images/oils/bottle__nicola-pantaleo-spa__pantaleo-100-italiano.png",
+    "format": "bad"
   },
   {
     "slug": "pantaleo-biologico-100-italiano",
@@ -5883,7 +6156,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/rnUvYskOiMgQ8VO3CzKsRw/2GBy-34e-gvPJrOuzj1b6NE9a6gUcX1gosh2uzQXeA8gWiNLn3s5uVw1b4jfRdv_XqOP6XACQgMyB1SNHSSxphv9OkKLwSYMbJo85lsUp-CBrZLSiEjDuVglM3wGFE50qvSN1dWTsp4f5SOcN3BHNe3NVH_dcqb6UIfaHVgx86M/BW52f3hXxDjLpASoS-1mw76ISKirlU_6ee162rzKu7E"
       }
     ],
-    "image": "/images/oils/bottle__nicola-pantaleo-spa__pantaleo-biologico-100-italiano.jpg"
+    "image": "/images/oils/bottle__nicola-pantaleo-spa__pantaleo-biologico-100-italiano.jpg",
+    "format": "good"
   },
   {
     "slug": "pantaleo-igp-olio-di-puglia",
@@ -5902,7 +6176,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/AFTKra5gV-P9EJ2p9qZnQA/tr-sKcNuLIUrAf4PEpZd_hpSIcdkuEuoQllpcvxud4UvIAg3TzSBxl8zQetP8Fntf6TsdjI6NDfh5g5qxb3GhOrIenISj4cwVx4jtoSqPflZIjrRigx5b4du5NHd7_X86uZKnB0rl_31q1MbLcYxhV5RqMNEjS0gMbdJvmior3B4FGki_G3Iq9a83clxSl1g/4sh1M_I_nQtL9rcdrlO904QHZckG7t-6q2qTVeIpNyg"
       }
     ],
-    "image": "/images/oils/bottle__nicola-pantaleo-spa__pantaleo-igp-olio-di-puglia.png"
+    "image": "/images/oils/bottle__nicola-pantaleo-spa__pantaleo-igp-olio-di-puglia.png",
+    "format": "bad"
   },
   {
     "slug": "pantaleo-selezione-oro",
@@ -5921,7 +6196,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/MiyvC3PoHfI-jPrS68hr9A/npsw4R9PTNMDdiqTkqWP_tY4Wuf7-p5SyKjL-sOScVTrCAnOkQkvnOv8hFeHFloXmuzKKohxNPPb_sxUQVb4iojuHs9XNmfr1imN4JT4LUTUqlrrNLBk5G931ZvNR1iBAmfMepRyIYlaD2cAuLxmGgPIwok4cpE-K4doJCAyavPlqRfv71uubIkkZCat4ccn/Nkm7n75hAYreXV_gjyYnW7YKsLl5gE9cTSxyXC9Iyy8"
       }
     ],
-    "image": "/images/oils/bottle__nicola-pantaleo-spa__pantaleo-selezione-oro.png"
+    "image": "/images/oils/bottle__nicola-pantaleo-spa__pantaleo-selezione-oro.png",
+    "format": "bad"
   },
   {
     "slug": "parqueoliva-serie-oro-dop-priego-de-cordoba",
@@ -5940,7 +6216,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/MiyvC3PoHfI-jPrS68hr9A/npsw4R9PTNMDdiqTkqWP_tY4Wuf7-p5SyKjL-sOScVTrCAnOkQkvnOv8hFeHFloXmuzKKohxNPPb_sxUQVb4iojuHs9XNmfr1imN4JT4LUTUqlrrNLBk5G931ZvNR1iBAmfMepRyIYlaD2cAuLxmGgPIwok4cpE-K4doJCAyavPlqRfv71uubIkkZCat4ccn/Nkm7n75hAYreXV_gjyYnW7YKsLl5gE9cTSxyXC9Iyy8"
       }
     ],
-    "image": "/images/oils/bottle__almazaras-de-la-subbetica-sl__parqueoliva-serie-oro-dop-priego-de-cordoba.jpg"
+    "image": "/images/oils/bottle__almazaras-de-la-subbetica-sl__parqueoliva-serie-oro-dop-priego-de-cordoba.jpg",
+    "format": "good"
   },
   {
     "slug": "pathos",
@@ -5959,7 +6236,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/AFTKra5gV-P9EJ2p9qZnQA/tr-sKcNuLIUrAf4PEpZd_hpSIcdkuEuoQllpcvxud4UvIAg3TzSBxl8zQetP8Fntf6TsdjI6NDfh5g5qxb3GhOrIenISj4cwVx4jtoSqPflZIjrRigx5b4du5NHd7_X86uZKnB0rl_31q1MbLcYxhV5RqMNEjS0gMbdJvmior3B4FGki_G3Iq9a83clxSl1g/4sh1M_I_nQtL9rcdrlO904QHZckG7t-6q2qTVeIpNyg"
       }
     ],
-    "image": "/images/oils/bottle__kavalaria-estate-saridakis-georgios__pathos.jpg"
+    "image": "/images/oils/bottle__kavalaria-estate-saridakis-georgios__pathos.jpg",
+    "format": "bad"
   },
   {
     "slug": "plus-health-blue-multivarietal-evoo",
@@ -5978,7 +6256,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/rnUvYskOiMgQ8VO3CzKsRw/2GBy-34e-gvPJrOuzj1b6NE9a6gUcX1gosh2uzQXeA8gWiNLn3s5uVw1b4jfRdv_XqOP6XACQgMyB1SNHSSxphv9OkKLwSYMbJo85lsUp-CBrZLSiEjDuVglM3wGFE50qvSN1dWTsp4f5SOcN3BHNe3NVH_dcqb6UIfaHVgx86M/BW52f3hXxDjLpASoS-1mw76ISKirlU_6ee162rzKu7E"
       }
     ],
-    "image": "/images/oils/bottle__sakellaropoulos-organic-farms__plus-health-blue-multivarietal-evoo.png"
+    "image": "/images/oils/bottle__sakellaropoulos-organic-farms__plus-health-blue-multivarietal-evoo.png",
+    "format": "bad"
   },
   {
     "slug": "plus-health-green-multivarietal-evoo",
@@ -5997,7 +6276,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/AFTKra5gV-P9EJ2p9qZnQA/tr-sKcNuLIUrAf4PEpZd_hpSIcdkuEuoQllpcvxud4UvIAg3TzSBxl8zQetP8Fntf6TsdjI6NDfh5g5qxb3GhOrIenISj4cwVx4jtoSqPflZIjrRigx5b4du5NHd7_X86uZKnB0rl_31q1MbLcYxhV5RqMNEjS0gMbdJvmior3B4FGki_G3Iq9a83clxSl1g/4sh1M_I_nQtL9rcdrlO904QHZckG7t-6q2qTVeIpNyg"
       }
     ],
-    "image": "/images/oils/bottle__sakellaropoulos-organic-farms__plus-health-green-multivarietal-evoo.png"
+    "image": "/images/oils/bottle__sakellaropoulos-organic-farms__plus-health-green-multivarietal-evoo.png",
+    "format": "bad"
   },
   {
     "slug": "porca-de-murca-aromatizado-cocoa",
@@ -6016,7 +6296,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/rnUvYskOiMgQ8VO3CzKsRw/2GBy-34e-gvPJrOuzj1b6NE9a6gUcX1gosh2uzQXeA8gWiNLn3s5uVw1b4jfRdv_XqOP6XACQgMyB1SNHSSxphv9OkKLwSYMbJo85lsUp-CBrZLSiEjDuVglM3wGFE50qvSN1dWTsp4f5SOcN3BHNe3NVH_dcqb6UIfaHVgx86M/BW52f3hXxDjLpASoS-1mw76ISKirlU_6ee162rzKu7E"
       }
     ],
-    "image": "/images/oils/bottle__cooperativa-agricola-dos-olivicultores-de-murca-crl__porca-de-murca-aromatizado-cocoa.jpg"
+    "image": "/images/oils/bottle__cooperativa-agricola-dos-olivicultores-de-murca-crl__porca-de-murca-aromatizado-cocoa.jpg",
+    "format": "good"
   },
   {
     "slug": "porca-de-murca-cobrancosa",
@@ -6037,7 +6318,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/MiyvC3PoHfI-jPrS68hr9A/npsw4R9PTNMDdiqTkqWP_tY4Wuf7-p5SyKjL-sOScVTrCAnOkQkvnOv8hFeHFloXmuzKKohxNPPb_sxUQVb4iojuHs9XNmfr1imN4JT4LUTUqlrrNLBk5G931ZvNR1iBAmfMepRyIYlaD2cAuLxmGgPIwok4cpE-K4doJCAyavPlqRfv71uubIkkZCat4ccn/Nkm7n75hAYreXV_gjyYnW7YKsLl5gE9cTSxyXC9Iyy8"
       }
     ],
-    "image": "/images/oils/bottle__cooperativa-agricola-dos-olivicultores-de-murca-crl__porca-de-murca-cobrancosa.jpg"
+    "image": "/images/oils/bottle__cooperativa-agricola-dos-olivicultores-de-murca-crl__porca-de-murca-cobrancosa.jpg",
+    "format": "good"
   },
   {
     "slug": "porca-de-murca-cordovil",
@@ -6056,7 +6338,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/AFTKra5gV-P9EJ2p9qZnQA/tr-sKcNuLIUrAf4PEpZd_hpSIcdkuEuoQllpcvxud4UvIAg3TzSBxl8zQetP8Fntf6TsdjI6NDfh5g5qxb3GhOrIenISj4cwVx4jtoSqPflZIjrRigx5b4du5NHd7_X86uZKnB0rl_31q1MbLcYxhV5RqMNEjS0gMbdJvmior3B4FGki_G3Iq9a83clxSl1g/4sh1M_I_nQtL9rcdrlO904QHZckG7t-6q2qTVeIpNyg"
       }
     ],
-    "image": "/images/oils/bottle__cooperativa-agricola-dos-olivicultores-de-murca-crl__porca-de-murca-cordovil.png"
+    "image": "/images/oils/bottle__cooperativa-agricola-dos-olivicultores-de-murca-crl__porca-de-murca-cordovil.png",
+    "format": "bad"
   },
   {
     "slug": "porca-de-murca-dop",
@@ -6075,7 +6358,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/rnUvYskOiMgQ8VO3CzKsRw/2GBy-34e-gvPJrOuzj1b6NE9a6gUcX1gosh2uzQXeA8gWiNLn3s5uVw1b4jfRdv_XqOP6XACQgMyB1SNHSSxphv9OkKLwSYMbJo85lsUp-CBrZLSiEjDuVglM3wGFE50qvSN1dWTsp4f5SOcN3BHNe3NVH_dcqb6UIfaHVgx86M/BW52f3hXxDjLpASoS-1mw76ISKirlU_6ee162rzKu7E"
       }
     ],
-    "image": "/images/oils/porca-de-murca-dop.png"
+    "image": "/images/oils/porca-de-murca-dop.png",
+    "format": "good"
   },
   {
     "slug": "porca-de-murca-peeled-jewish-chestnuts",
@@ -6094,7 +6378,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/rnUvYskOiMgQ8VO3CzKsRw/2GBy-34e-gvPJrOuzj1b6NE9a6gUcX1gosh2uzQXeA8gWiNLn3s5uVw1b4jfRdv_XqOP6XACQgMyB1SNHSSxphv9OkKLwSYMbJo85lsUp-CBrZLSiEjDuVglM3wGFE50qvSN1dWTsp4f5SOcN3BHNe3NVH_dcqb6UIfaHVgx86M/BW52f3hXxDjLpASoS-1mw76ISKirlU_6ee162rzKu7E"
       }
     ],
-    "image": "/images/oils/bottle__cooperativa-agricola-dos-olivicultores-de-murca-crl__porca-de-murca-peeled-jewish-chestnuts.jpg"
+    "image": "/images/oils/bottle__cooperativa-agricola-dos-olivicultores-de-murca-crl__porca-de-murca-peeled-jewish-chestnuts.jpg",
+    "format": "good"
   },
   {
     "slug": "priordei-1789-rojal",
@@ -6113,7 +6398,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/AFTKra5gV-P9EJ2p9qZnQA/tr-sKcNuLIUrAf4PEpZd_hpSIcdkuEuoQllpcvxud4UvIAg3TzSBxl8zQetP8Fntf6TsdjI6NDfh5g5qxb3GhOrIenISj4cwVx4jtoSqPflZIjrRigx5b4du5NHd7_X86uZKnB0rl_31q1MbLcYxhV5RqMNEjS0gMbdJvmior3B4FGki_G3Iq9a83clxSl1g/4sh1M_I_nQtL9rcdrlO904QHZckG7t-6q2qTVeIpNyg"
       }
     ],
-    "image": "/images/oils/priordei-1789-rojal.png"
+    "image": "/images/oils/priordei-1789-rojal.png",
+    "format": "good"
   },
   {
     "slug": "prologo",
@@ -6132,7 +6418,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/MiyvC3PoHfI-jPrS68hr9A/npsw4R9PTNMDdiqTkqWP_tY4Wuf7-p5SyKjL-sOScVTrCAnOkQkvnOv8hFeHFloXmuzKKohxNPPb_sxUQVb4iojuHs9XNmfr1imN4JT4LUTUqlrrNLBk5G931ZvNR1iBAmfMepRyIYlaD2cAuLxmGgPIwok4cpE-K4doJCAyavPlqRfv71uubIkkZCat4ccn/Nkm7n75hAYreXV_gjyYnW7YKsLl5gE9cTSxyXC9Iyy8"
       }
     ],
-    "image": "/images/oils/prologo.png"
+    "image": "/images/oils/prologo.png",
+    "format": "good"
   },
   {
     "slug": "prosperato-exclusivo-koroneiki",
@@ -6173,7 +6460,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/MiyvC3PoHfI-jPrS68hr9A/npsw4R9PTNMDdiqTkqWP_tY4Wuf7-p5SyKjL-sOScVTrCAnOkQkvnOv8hFeHFloXmuzKKohxNPPb_sxUQVb4iojuHs9XNmfr1imN4JT4LUTUqlrrNLBk5G931ZvNR1iBAmfMepRyIYlaD2cAuLxmGgPIwok4cpE-K4doJCAyavPlqRfv71uubIkkZCat4ccn/Nkm7n75hAYreXV_gjyYnW7YKsLl5gE9cTSxyXC9Iyy8"
       }
     ],
-    "image": "/images/oils/bottle__prosperato__prosperato-exclusivo-picual.png"
+    "image": "/images/oils/bottle__prosperato__prosperato-exclusivo-picual.png",
+    "format": "bad"
   },
   {
     "slug": "prosperato-origens-campanha-gaucha",
@@ -6192,7 +6480,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/rnUvYskOiMgQ8VO3CzKsRw/2GBy-34e-gvPJrOuzj1b6NE9a6gUcX1gosh2uzQXeA8gWiNLn3s5uVw1b4jfRdv_XqOP6XACQgMyB1SNHSSxphv9OkKLwSYMbJo85lsUp-CBrZLSiEjDuVglM3wGFE50qvSN1dWTsp4f5SOcN3BHNe3NVH_dcqb6UIfaHVgx86M/BW52f3hXxDjLpASoS-1mw76ISKirlU_6ee162rzKu7E"
       }
     ],
-    "image": "/images/oils/bottle__prosperato__prosperato-origens-campanha-gaucha.png"
+    "image": "/images/oils/bottle__prosperato__prosperato-origens-campanha-gaucha.png",
+    "format": "bad"
   },
   {
     "slug": "ptora-barnea",
@@ -6273,7 +6562,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/rnUvYskOiMgQ8VO3CzKsRw/2GBy-34e-gvPJrOuzj1b6NE9a6gUcX1gosh2uzQXeA8gWiNLn3s5uVw1b4jfRdv_XqOP6XACQgMyB1SNHSSxphv9OkKLwSYMbJo85lsUp-CBrZLSiEjDuVglM3wGFE50qvSN1dWTsp4f5SOcN3BHNe3NVH_dcqb6UIfaHVgx86M/BW52f3hXxDjLpASoS-1mw76ISKirlU_6ee162rzKu7E"
       }
     ],
-    "image": "/images/oils/ptora-midnight-coratina.png"
+    "image": "/images/oils/ptora-midnight-coratina.png",
+    "format": "good"
   },
   {
     "slug": "ptora-midnight-picholine",
@@ -6294,7 +6584,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/AFTKra5gV-P9EJ2p9qZnQA/tr-sKcNuLIUrAf4PEpZd_hpSIcdkuEuoQllpcvxud4UvIAg3TzSBxl8zQetP8Fntf6TsdjI6NDfh5g5qxb3GhOrIenISj4cwVx4jtoSqPflZIjrRigx5b4du5NHd7_X86uZKnB0rl_31q1MbLcYxhV5RqMNEjS0gMbdJvmior3B4FGki_G3Iq9a83clxSl1g/4sh1M_I_nQtL9rcdrlO904QHZckG7t-6q2qTVeIpNyg"
       }
     ],
-    "image": "/images/oils/ptora-midnight-picholine.png"
+    "image": "/images/oils/ptora-midnight-picholine.png",
+    "format": "good"
   },
   {
     "slug": "ptora-midnight-picual",
@@ -6315,7 +6606,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/rnUvYskOiMgQ8VO3CzKsRw/2GBy-34e-gvPJrOuzj1b6NE9a6gUcX1gosh2uzQXeA8gWiNLn3s5uVw1b4jfRdv_XqOP6XACQgMyB1SNHSSxphv9OkKLwSYMbJo85lsUp-CBrZLSiEjDuVglM3wGFE50qvSN1dWTsp4f5SOcN3BHNe3NVH_dcqb6UIfaHVgx86M/BW52f3hXxDjLpASoS-1mw76ISKirlU_6ee162rzKu7E"
       }
     ],
-    "image": "/images/oils/ptora-midnight-picual.png"
+    "image": "/images/oils/ptora-midnight-picual.png",
+    "format": "good"
   },
   {
     "slug": "ptora-nabali",
@@ -6356,7 +6648,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/MiyvC3PoHfI-jPrS68hr9A/npsw4R9PTNMDdiqTkqWP_tY4Wuf7-p5SyKjL-sOScVTrCAnOkQkvnOv8hFeHFloXmuzKKohxNPPb_sxUQVb4iojuHs9XNmfr1imN4JT4LUTUqlrrNLBk5G931ZvNR1iBAmfMepRyIYlaD2cAuLxmGgPIwok4cpE-K4doJCAyavPlqRfv71uubIkkZCat4ccn/Nkm7n75hAYreXV_gjyYnW7YKsLl5gE9cTSxyXC9Iyy8"
       }
     ],
-    "image": "/images/oils/queo-premium-picual.png"
+    "image": "/images/oils/queo-premium-picual.png",
+    "format": "good"
   },
   {
     "slug": "reales-almazaras-de-alcaniz",
@@ -6413,7 +6706,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/MiyvC3PoHfI-jPrS68hr9A/npsw4R9PTNMDdiqTkqWP_tY4Wuf7-p5SyKjL-sOScVTrCAnOkQkvnOv8hFeHFloXmuzKKohxNPPb_sxUQVb4iojuHs9XNmfr1imN4JT4LUTUqlrrNLBk5G931ZvNR1iBAmfMepRyIYlaD2cAuLxmGgPIwok4cpE-K4doJCAyavPlqRfv71uubIkkZCat4ccn/Nkm7n75hAYreXV_gjyYnW7YKsLl5gE9cTSxyXC9Iyy8"
       }
     ],
-    "image": "/images/oils/bottle__cooperativa-olivicultores-valpacos-crl__rosmaninho-gourmet-cobrancosa.png"
+    "image": "/images/oils/bottle__cooperativa-olivicultores-valpacos-crl__rosmaninho-gourmet-cobrancosa.png",
+    "format": "bad"
   },
   {
     "slug": "rosmaninho-gourmet-madural",
@@ -6432,7 +6726,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/MiyvC3PoHfI-jPrS68hr9A/npsw4R9PTNMDdiqTkqWP_tY4Wuf7-p5SyKjL-sOScVTrCAnOkQkvnOv8hFeHFloXmuzKKohxNPPb_sxUQVb4iojuHs9XNmfr1imN4JT4LUTUqlrrNLBk5G931ZvNR1iBAmfMepRyIYlaD2cAuLxmGgPIwok4cpE-K4doJCAyavPlqRfv71uubIkkZCat4ccn/Nkm7n75hAYreXV_gjyYnW7YKsLl5gE9cTSxyXC9Iyy8"
       }
     ],
-    "image": "/images/oils/rosmaninho-gourmet-madural.png"
+    "image": "/images/oils/rosmaninho-gourmet-madural.png",
+    "format": "good"
   },
   {
     "slug": "rosmaninho-gourmet-verdeal",
@@ -6451,7 +6746,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/AFTKra5gV-P9EJ2p9qZnQA/tr-sKcNuLIUrAf4PEpZd_hpSIcdkuEuoQllpcvxud4UvIAg3TzSBxl8zQetP8Fntf6TsdjI6NDfh5g5qxb3GhOrIenISj4cwVx4jtoSqPflZIjrRigx5b4du5NHd7_X86uZKnB0rl_31q1MbLcYxhV5RqMNEjS0gMbdJvmior3B4FGki_G3Iq9a83clxSl1g/4sh1M_I_nQtL9rcdrlO904QHZckG7t-6q2qTVeIpNyg"
       }
     ],
-    "image": "/images/oils/rosmaninho-gourmet-verdeal.png"
+    "image": "/images/oils/rosmaninho-gourmet-verdeal.png",
+    "format": "good"
   },
   {
     "slug": "rosmaninho-praemium",
@@ -6470,7 +6766,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/MiyvC3PoHfI-jPrS68hr9A/npsw4R9PTNMDdiqTkqWP_tY4Wuf7-p5SyKjL-sOScVTrCAnOkQkvnOv8hFeHFloXmuzKKohxNPPb_sxUQVb4iojuHs9XNmfr1imN4JT4LUTUqlrrNLBk5G931ZvNR1iBAmfMepRyIYlaD2cAuLxmGgPIwok4cpE-K4doJCAyavPlqRfv71uubIkkZCat4ccn/Nkm7n75hAYreXV_gjyYnW7YKsLl5gE9cTSxyXC9Iyy8"
       }
     ],
-    "image": "/images/oils/bottle__cooperativa-olivicultores-valpacos-crl__rosmaninho-praemium.png"
+    "image": "/images/oils/bottle__cooperativa-olivicultores-valpacos-crl__rosmaninho-praemium.png",
+    "format": "bad"
   },
   {
     "slug": "rossio-de-abrantes-frutado-casa-gallo",
@@ -6489,7 +6786,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/MiyvC3PoHfI-jPrS68hr9A/npsw4R9PTNMDdiqTkqWP_tY4Wuf7-p5SyKjL-sOScVTrCAnOkQkvnOv8hFeHFloXmuzKKohxNPPb_sxUQVb4iojuHs9XNmfr1imN4JT4LUTUqlrrNLBk5G931ZvNR1iBAmfMepRyIYlaD2cAuLxmGgPIwok4cpE-K4doJCAyavPlqRfv71uubIkkZCat4ccn/Nkm7n75hAYreXV_gjyYnW7YKsLl5gE9cTSxyXC9Iyy8"
       }
     ],
-    "image": "/images/oils/bottle__gallo-worldwide__rossio-de-abrantes-frutado-casa-gallo.jpg"
+    "image": "/images/oils/bottle__gallo-worldwide__rossio-de-abrantes-frutado-casa-gallo.jpg",
+    "format": "good"
   },
   {
     "slug": "rossio-de-abrantes-maduro-casa-gallo",
@@ -6508,7 +6806,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/MiyvC3PoHfI-jPrS68hr9A/npsw4R9PTNMDdiqTkqWP_tY4Wuf7-p5SyKjL-sOScVTrCAnOkQkvnOv8hFeHFloXmuzKKohxNPPb_sxUQVb4iojuHs9XNmfr1imN4JT4LUTUqlrrNLBk5G931ZvNR1iBAmfMepRyIYlaD2cAuLxmGgPIwok4cpE-K4doJCAyavPlqRfv71uubIkkZCat4ccn/Nkm7n75hAYreXV_gjyYnW7YKsLl5gE9cTSxyXC9Iyy8"
       }
     ],
-    "image": "/images/oils/bottle__gallo-worldwide__rossio-de-abrantes-maduro-casa-gallo.png"
+    "image": "/images/oils/bottle__gallo-worldwide__rossio-de-abrantes-maduro-casa-gallo.png",
+    "format": "bad"
   },
   {
     "slug": "rumaroli-blend",
@@ -6587,7 +6886,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/rnUvYskOiMgQ8VO3CzKsRw/2GBy-34e-gvPJrOuzj1b6NE9a6gUcX1gosh2uzQXeA8gWiNLn3s5uVw1b4jfRdv_XqOP6XACQgMyB1SNHSSxphv9OkKLwSYMbJo85lsUp-CBrZLSiEjDuVglM3wGFE50qvSN1dWTsp4f5SOcN3BHNe3NVH_dcqb6UIfaHVgx86M/BW52f3hXxDjLpASoS-1mw76ISKirlU_6ee162rzKu7E"
       }
     ],
-    "image": "/images/oils/bottle__domenico-manca-spa__san-giuliano-bio.jpg"
+    "image": "/images/oils/bottle__domenico-manca-spa__san-giuliano-bio.jpg",
+    "format": "good"
   },
   {
     "slug": "san-giuliano-bosana",
@@ -6606,7 +6906,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/AFTKra5gV-P9EJ2p9qZnQA/tr-sKcNuLIUrAf4PEpZd_hpSIcdkuEuoQllpcvxud4UvIAg3TzSBxl8zQetP8Fntf6TsdjI6NDfh5g5qxb3GhOrIenISj4cwVx4jtoSqPflZIjrRigx5b4du5NHd7_X86uZKnB0rl_31q1MbLcYxhV5RqMNEjS0gMbdJvmior3B4FGki_G3Iq9a83clxSl1g/4sh1M_I_nQtL9rcdrlO904QHZckG7t-6q2qTVeIpNyg"
       }
     ],
-    "image": "/images/oils/bottle__domenico-manca-spa__san-giuliano-bosana.jpg"
+    "image": "/images/oils/bottle__domenico-manca-spa__san-giuliano-bosana.jpg",
+    "format": "good"
   },
   {
     "slug": "san-giuliano-fruttato-cuor-dolivo",
@@ -6625,7 +6926,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/MiyvC3PoHfI-jPrS68hr9A/npsw4R9PTNMDdiqTkqWP_tY4Wuf7-p5SyKjL-sOScVTrCAnOkQkvnOv8hFeHFloXmuzKKohxNPPb_sxUQVb4iojuHs9XNmfr1imN4JT4LUTUqlrrNLBk5G931ZvNR1iBAmfMepRyIYlaD2cAuLxmGgPIwok4cpE-K4doJCAyavPlqRfv71uubIkkZCat4ccn/Nkm7n75hAYreXV_gjyYnW7YKsLl5gE9cTSxyXC9Iyy8"
       }
     ],
-    "image": "/images/oils/san-giuliano-fruttato-cuor-dolivo.png"
+    "image": "/images/oils/san-giuliano-fruttato-cuor-dolivo.png",
+    "format": "good"
   },
   {
     "slug": "san-giuliano-loriginale",
@@ -6644,7 +6946,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/AFTKra5gV-P9EJ2p9qZnQA/tr-sKcNuLIUrAf4PEpZd_hpSIcdkuEuoQllpcvxud4UvIAg3TzSBxl8zQetP8Fntf6TsdjI6NDfh5g5qxb3GhOrIenISj4cwVx4jtoSqPflZIjrRigx5b4du5NHd7_X86uZKnB0rl_31q1MbLcYxhV5RqMNEjS0gMbdJvmior3B4FGki_G3Iq9a83clxSl1g/4sh1M_I_nQtL9rcdrlO904QHZckG7t-6q2qTVeIpNyg"
       }
     ],
-    "image": "/images/oils/bottle__domenico-manca-spa__san-giuliano-loriginale.jpg"
+    "image": "/images/oils/bottle__domenico-manca-spa__san-giuliano-loriginale.jpg",
+    "format": "good"
   },
   {
     "slug": "san-giuliano-primer",
@@ -6663,7 +6966,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/rnUvYskOiMgQ8VO3CzKsRw/2GBy-34e-gvPJrOuzj1b6NE9a6gUcX1gosh2uzQXeA8gWiNLn3s5uVw1b4jfRdv_XqOP6XACQgMyB1SNHSSxphv9OkKLwSYMbJo85lsUp-CBrZLSiEjDuVglM3wGFE50qvSN1dWTsp4f5SOcN3BHNe3NVH_dcqb6UIfaHVgx86M/BW52f3hXxDjLpASoS-1mw76ISKirlU_6ee162rzKu7E"
       }
     ],
-    "image": "/images/oils/bottle__domenico-manca-spa__san-giuliano-primer.jpg"
+    "image": "/images/oils/bottle__domenico-manca-spa__san-giuliano-primer.jpg",
+    "format": "good"
   },
   {
     "slug": "schorr-wolf-farm-arbequina",
@@ -6876,7 +7180,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/rnUvYskOiMgQ8VO3CzKsRw/2GBy-34e-gvPJrOuzj1b6NE9a6gUcX1gosh2uzQXeA8gWiNLn3s5uVw1b4jfRdv_XqOP6XACQgMyB1SNHSSxphv9OkKLwSYMbJo85lsUp-CBrZLSiEjDuVglM3wGFE50qvSN1dWTsp4f5SOcN3BHNe3NVH_dcqb6UIfaHVgx86M/BW52f3hXxDjLpASoS-1mw76ISKirlU_6ee162rzKu7E"
       }
     ],
-    "image": "/images/oils/sparta-gourmet.png"
+    "image": "/images/oils/sparta-gourmet.png",
+    "format": "good"
   },
   {
     "slug": "syllektikon-gourmet",
@@ -6895,7 +7200,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/AFTKra5gV-P9EJ2p9qZnQA/tr-sKcNuLIUrAf4PEpZd_hpSIcdkuEuoQllpcvxud4UvIAg3TzSBxl8zQetP8Fntf6TsdjI6NDfh5g5qxb3GhOrIenISj4cwVx4jtoSqPflZIjrRigx5b4du5NHd7_X86uZKnB0rl_31q1MbLcYxhV5RqMNEjS0gMbdJvmior3B4FGki_G3Iq9a83clxSl1g/4sh1M_I_nQtL9rcdrlO904QHZckG7t-6q2qTVeIpNyg"
       }
     ],
-    "image": "/images/oils/bottle__sakellaropoulos-organic-farms__syllektikon-gourmet.png"
+    "image": "/images/oils/bottle__sakellaropoulos-organic-farms__syllektikon-gourmet.png",
+    "format": "bad"
   },
   {
     "slug": "terra-creta-grand-cru-koroneiki-evoo",
@@ -6916,7 +7222,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/MiyvC3PoHfI-jPrS68hr9A/npsw4R9PTNMDdiqTkqWP_tY4Wuf7-p5SyKjL-sOScVTrCAnOkQkvnOv8hFeHFloXmuzKKohxNPPb_sxUQVb4iojuHs9XNmfr1imN4JT4LUTUqlrrNLBk5G931ZvNR1iBAmfMepRyIYlaD2cAuLxmGgPIwok4cpE-K4doJCAyavPlqRfv71uubIkkZCat4ccn/Nkm7n75hAYreXV_gjyYnW7YKsLl5gE9cTSxyXC9Iyy8"
       }
     ],
-    "image": "/images/oils/terra-creta-grand-cru-koroneiki-evoo.png"
+    "image": "/images/oils/terra-creta-grand-cru-koroneiki-evoo.png",
+    "format": "good"
   },
   {
     "slug": "terra-creta-infusions-with-fresh-basil",
@@ -6935,7 +7242,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/AFTKra5gV-P9EJ2p9qZnQA/tr-sKcNuLIUrAf4PEpZd_hpSIcdkuEuoQllpcvxud4UvIAg3TzSBxl8zQetP8Fntf6TsdjI6NDfh5g5qxb3GhOrIenISj4cwVx4jtoSqPflZIjrRigx5b4du5NHd7_X86uZKnB0rl_31q1MbLcYxhV5RqMNEjS0gMbdJvmior3B4FGki_G3Iq9a83clxSl1g/4sh1M_I_nQtL9rcdrlO904QHZckG7t-6q2qTVeIpNyg"
       }
     ],
-    "image": "/images/oils/bottle__melissa-kikizas-sa-for-terra-creta-evoo-brand__terra-creta-infusions-with-fresh-basil.png"
+    "image": "/images/oils/bottle__melissa-kikizas-sa-for-terra-creta-evoo-brand__terra-creta-infusions-with-fresh-basil.png",
+    "format": "bad"
   },
   {
     "slug": "terra-creta-pgi-chania-crete-evoo",
@@ -6954,7 +7262,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/MiyvC3PoHfI-jPrS68hr9A/npsw4R9PTNMDdiqTkqWP_tY4Wuf7-p5SyKjL-sOScVTrCAnOkQkvnOv8hFeHFloXmuzKKohxNPPb_sxUQVb4iojuHs9XNmfr1imN4JT4LUTUqlrrNLBk5G931ZvNR1iBAmfMepRyIYlaD2cAuLxmGgPIwok4cpE-K4doJCAyavPlqRfv71uubIkkZCat4ccn/Nkm7n75hAYreXV_gjyYnW7YKsLl5gE9cTSxyXC9Iyy8"
       }
     ],
-    "image": "/images/oils/bottle__melissa-kikizas-sa-for-terra-creta-evoo-brand__terra-creta-pgi-chania-crete-evoo.png"
+    "image": "/images/oils/bottle__melissa-kikizas-sa-for-terra-creta-evoo-brand__terra-creta-pgi-chania-crete-evoo.png",
+    "format": "bad"
   },
   {
     "slug": "terrall-de-sant-isidre",
@@ -6973,7 +7282,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/AFTKra5gV-P9EJ2p9qZnQA/tr-sKcNuLIUrAf4PEpZd_hpSIcdkuEuoQllpcvxud4UvIAg3TzSBxl8zQetP8Fntf6TsdjI6NDfh5g5qxb3GhOrIenISj4cwVx4jtoSqPflZIjrRigx5b4du5NHd7_X86uZKnB0rl_31q1MbLcYxhV5RqMNEjS0gMbdJvmior3B4FGki_G3Iq9a83clxSl1g/4sh1M_I_nQtL9rcdrlO904QHZckG7t-6q2qTVeIpNyg"
       }
     ],
-    "image": "/images/oils/terrall-de-sant-isidre.png"
+    "image": "/images/oils/terrall-de-sant-isidre.png",
+    "format": "good"
   },
   {
     "slug": "the-master-miller-blend-organic",
@@ -7068,7 +7378,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/MiyvC3PoHfI-jPrS68hr9A/npsw4R9PTNMDdiqTkqWP_tY4Wuf7-p5SyKjL-sOScVTrCAnOkQkvnOv8hFeHFloXmuzKKohxNPPb_sxUQVb4iojuHs9XNmfr1imN4JT4LUTUqlrrNLBk5G931ZvNR1iBAmfMepRyIYlaD2cAuLxmGgPIwok4cpE-K4doJCAyavPlqRfv71uubIkkZCat4ccn/Nkm7n75hAYreXV_gjyYnW7YKsLl5gE9cTSxyXC9Iyy8"
       }
     ],
-    "image": "/images/oils/bottle__sakellaropoulos-organic-farms__treasure.png"
+    "image": "/images/oils/bottle__sakellaropoulos-organic-farms__treasure.png",
+    "format": "bad"
   },
   {
     "slug": "truly",
@@ -7087,7 +7398,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/MiyvC3PoHfI-jPrS68hr9A/npsw4R9PTNMDdiqTkqWP_tY4Wuf7-p5SyKjL-sOScVTrCAnOkQkvnOv8hFeHFloXmuzKKohxNPPb_sxUQVb4iojuHs9XNmfr1imN4JT4LUTUqlrrNLBk5G931ZvNR1iBAmfMepRyIYlaD2cAuLxmGgPIwok4cpE-K4doJCAyavPlqRfv71uubIkkZCat4ccn/Nkm7n75hAYreXV_gjyYnW7YKsLl5gE9cTSxyXC9Iyy8"
       }
     ],
-    "image": "/images/oils/truly.png"
+    "image": "/images/oils/truly.png",
+    "format": "good"
   },
   {
     "slug": "uoli",
@@ -7106,7 +7418,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/MiyvC3PoHfI-jPrS68hr9A/npsw4R9PTNMDdiqTkqWP_tY4Wuf7-p5SyKjL-sOScVTrCAnOkQkvnOv8hFeHFloXmuzKKohxNPPb_sxUQVb4iojuHs9XNmfr1imN4JT4LUTUqlrrNLBk5G931ZvNR1iBAmfMepRyIYlaD2cAuLxmGgPIwok4cpE-K4doJCAyavPlqRfv71uubIkkZCat4ccn/Nkm7n75hAYreXV_gjyYnW7YKsLl5gE9cTSxyXC9Iyy8"
       }
     ],
-    "image": "/images/oils/uoli.png"
+    "image": "/images/oils/uoli.png",
+    "format": "good"
   },
   {
     "slug": "valleherboso",
@@ -7125,7 +7438,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/rnUvYskOiMgQ8VO3CzKsRw/2GBy-34e-gvPJrOuzj1b6NE9a6gUcX1gosh2uzQXeA8gWiNLn3s5uVw1b4jfRdv_XqOP6XACQgMyB1SNHSSxphv9OkKLwSYMbJo85lsUp-CBrZLSiEjDuVglM3wGFE50qvSN1dWTsp4f5SOcN3BHNe3NVH_dcqb6UIfaHVgx86M/BW52f3hXxDjLpASoS-1mw76ISKirlU_6ee162rzKu7E"
       }
     ],
-    "image": "/images/oils/bottle__crdo-aceite-de-madrid__valleherboso.png"
+    "image": "/images/oils/bottle__crdo-aceite-de-madrid__valleherboso.png",
+    "format": "bad"
   },
   {
     "slug": "vassilakis-estate",
@@ -7162,7 +7476,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/MiyvC3PoHfI-jPrS68hr9A/npsw4R9PTNMDdiqTkqWP_tY4Wuf7-p5SyKjL-sOScVTrCAnOkQkvnOv8hFeHFloXmuzKKohxNPPb_sxUQVb4iojuHs9XNmfr1imN4JT4LUTUqlrrNLBk5G931ZvNR1iBAmfMepRyIYlaD2cAuLxmGgPIwok4cpE-K4doJCAyavPlqRfv71uubIkkZCat4ccn/Nkm7n75hAYreXV_gjyYnW7YKsLl5gE9cTSxyXC9Iyy8"
       }
     ],
-    "image": "/images/oils/bottle__muela-olives-sl__venta-del-baron.jpg"
+    "image": "/images/oils/bottle__muela-olives-sl__venta-del-baron.jpg",
+    "format": "good"
   },
   {
     "slug": "viv-viv-robusto",
@@ -7199,7 +7514,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/MiyvC3PoHfI-jPrS68hr9A/npsw4R9PTNMDdiqTkqWP_tY4Wuf7-p5SyKjL-sOScVTrCAnOkQkvnOv8hFeHFloXmuzKKohxNPPb_sxUQVb4iojuHs9XNmfr1imN4JT4LUTUqlrrNLBk5G931ZvNR1iBAmfMepRyIYlaD2cAuLxmGgPIwok4cpE-K4doJCAyavPlqRfv71uubIkkZCat4ccn/Nkm7n75hAYreXV_gjyYnW7YKsLl5gE9cTSxyXC9Iyy8"
       }
     ],
-    "image": "/images/oils/bottle__willow-creek-products-pty-ltd__willow-creek-directors-reserve.png"
+    "image": "/images/oils/bottle__willow-creek-products-pty-ltd__willow-creek-directors-reserve.png",
+    "format": "bad"
   },
   {
     "slug": "willow-creek-estate-blend",
@@ -7220,7 +7536,8 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/MiyvC3PoHfI-jPrS68hr9A/npsw4R9PTNMDdiqTkqWP_tY4Wuf7-p5SyKjL-sOScVTrCAnOkQkvnOv8hFeHFloXmuzKKohxNPPb_sxUQVb4iojuHs9XNmfr1imN4JT4LUTUqlrrNLBk5G931ZvNR1iBAmfMepRyIYlaD2cAuLxmGgPIwok4cpE-K4doJCAyavPlqRfv71uubIkkZCat4ccn/Nkm7n75hAYreXV_gjyYnW7YKsLl5gE9cTSxyXC9Iyy8"
       }
     ],
-    "image": "/images/oils/bottle__willow-creek-products-pty-ltd__willow-creek-estate-blend.png"
+    "image": "/images/oils/bottle__willow-creek-products-pty-ltd__willow-creek-estate-blend.png",
+    "format": "bad"
   },
   {
     "slug": "yad-mordechai-apiary-classic",
@@ -7297,6 +7614,7 @@
         "certificateImage": "https://v5.airtableusercontent.com/v3/u/53/53/1779055200000/AFTKra5gV-P9EJ2p9qZnQA/tr-sKcNuLIUrAf4PEpZd_hpSIcdkuEuoQllpcvxud4UvIAg3TzSBxl8zQetP8Fntf6TsdjI6NDfh5g5qxb3GhOrIenISj4cwVx4jtoSqPflZIjrRigx5b4du5NHd7_X86uZKnB0rl_31q1MbLcYxhV5RqMNEjS0gMbdJvmior3B4FGki_G3Iq9a83clxSl1g/4sh1M_I_nQtL9rcdrlO904QHZckG7t-6q2qTVeIpNyg"
       }
     ],
-    "image": "/images/oils/bottle__cooperativa-de-aceites-del-matarrana-scl-calaceite-dop-aceite-del-bajo-aragon__zeid.jpg"
+    "image": "/images/oils/bottle__cooperativa-de-aceites-del-matarrana-scl-calaceite-dop-aceite-del-bajo-aragon__zeid.jpg",
+    "format": "good"
   }
 ]

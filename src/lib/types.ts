@@ -47,6 +47,8 @@ export interface OliveOil {
   tastingNotes: string[];
   /** Path or URL to the olive oil photo (placeholder for now). */
   image?: string;
+  /** Image format classification: 'good' (proper bottle) or 'bad' (not ideal). */
+  format?: "good" | "bad";
   /** Every prize this oil has won, across all editions. */
   awards: Award[];
 }
