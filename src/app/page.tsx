@@ -33,8 +33,14 @@ export default function HomePage() {
   return (
     <>
       {/* ── DARK HERO ─────────────────────────────────────────────── */}
-      <section className="bg-olive-700 text-cream text-center">
-        <div className="container-page flex flex-col items-center py-24 lg:py-32">
+      <section 
+        className="relative text-cream text-center bg-cover bg-center bg-no-repeat"
+        style={{ backgroundImage: "url('/images/bg_main.png')" }}
+      >
+        {/* Subtle dark overlay to ensure text readability */}
+        <div className="absolute inset-0 bg-olive-950/40"></div>
+        
+        <div className="container-page relative z-10 flex flex-col items-center py-24 lg:py-32">
           {/* Badge */}
           <div className="inline-flex items-center gap-2 rounded-full border border-gold-400/40 bg-gold-400/10 px-4 py-1.5 text-xs font-semibold uppercase tracking-[0.2em] text-gold-400">
             <span>★</span>
