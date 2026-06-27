@@ -24,46 +24,46 @@ export default function HomePage() {
     <>
       {/* ── HERO & SPONSORS (Combined Background) ─────────────────── */}
       <div 
-        className="relative text-cream bg-cover bg-center bg-no-repeat h-screen flex flex-col justify-between overflow-hidden"
+        className="relative text-cream bg-cover bg-center bg-no-repeat min-h-[100dvh] flex flex-col justify-between overflow-hidden"
         style={{ backgroundImage: "url('/images/bg_main.png')" }}
       >
         {/* Subtle dark overlay to ensure text readability across both sections */}
         <div className="absolute inset-0 bg-olive-950/50"></div>
         
         {/* HERO CONTENT */}
-        <section className="container-page relative z-10 flex flex-col items-center justify-center flex-grow text-center">
+        <section className="container-page relative z-10 flex flex-col items-center justify-center flex-grow text-center py-8 px-4 sm:py-12">
           {/* Badge */}
-          <div className="inline-flex items-center gap-2 rounded-full border border-gold-400/40 bg-gold-400/10 px-4 py-1.5 text-xs font-semibold uppercase tracking-[0.2em] text-gold-400">
+          <div className="inline-flex items-center gap-2 rounded-full border border-gold-400/40 bg-gold-400/10 px-3 py-1 sm:px-4 sm:py-1.5 text-[10px] sm:text-xs font-semibold uppercase tracking-[0.2em] text-gold-400">
             <span>★</span>
             <span>{latestYear} Official Results</span>
           </div>
 
           {/* Headline */}
-          <h1 className="mt-6 max-w-3xl font-serif text-5xl font-bold leading-[1.05] sm:text-6xl lg:text-7xl mx-auto">
+          <h1 className="mt-4 sm:mt-6 max-w-3xl font-serif text-4xl font-bold leading-[1.05] sm:text-5xl lg:text-7xl mx-auto">
             <span className="text-cream">The World&apos;s Best</span>
             <br />
             <span className="text-gold-400">Olive Oils.</span>
           </h1>
 
           {/* Subtitle */}
-          <p className="mt-6 max-w-xl mx-auto text-base leading-relaxed text-olive-100 sm:text-lg">
+          <p className="mt-4 sm:mt-6 max-w-xl mx-auto text-sm leading-relaxed text-olive-100 sm:text-base lg:text-lg hidden sm:block">
             Terra Olivo is the International Olive Oil Competition held annually
             in Israel — a prestigious blind-tasting event that recognises
             excellence in extra virgin olive oil from every corner of the globe.
           </p>
 
           {/* Primary CTAs */}
-          <div className="mt-9 flex flex-wrap justify-center gap-4">
+          <div className="mt-6 sm:mt-9 flex flex-col sm:flex-row flex-wrap justify-center gap-3 sm:gap-4 w-full sm:w-auto">
             <Link
               href="/winners"
-              className="inline-flex items-center gap-2 rounded-sm bg-gold-400 px-8 py-4 text-sm font-bold uppercase tracking-[0.12em] text-olive-950 shadow-lg transition-colors hover:bg-gold-500"
+              className="inline-flex items-center justify-center gap-2 rounded-sm bg-gold-400 px-6 py-3 sm:px-8 sm:py-4 text-xs sm:text-sm font-bold uppercase tracking-[0.12em] text-olive-950 shadow-lg transition-colors hover:bg-gold-500 w-full sm:w-auto"
             >
-              Discover the {latestYear} Winners
+              Discover {latestYear} Winners
               <span aria-hidden>→</span>
             </Link>
             <Link
               href="/producers"
-              className="inline-flex items-center gap-2 rounded-sm border-2 border-cream px-8 py-4 text-sm font-bold uppercase tracking-[0.12em] text-cream transition-colors hover:bg-cream hover:text-olive-950"
+              className="inline-flex items-center justify-center gap-2 rounded-sm border-2 border-cream px-6 py-3 sm:px-8 sm:py-4 text-xs sm:text-sm font-bold uppercase tracking-[0.12em] text-cream transition-colors hover:bg-cream hover:text-olive-950 w-full sm:w-auto"
             >
               Explore Producers
               <span aria-hidden>→</span>
@@ -71,8 +71,8 @@ export default function HomePage() {
           </div>
 
           {/* Divider + stats */}
-          <div className="mt-12 w-full max-w-4xl mx-auto border-t border-olive-500/30 pt-8">
-            <dl className="flex flex-wrap justify-center gap-8 lg:gap-16">
+          <div className="mt-8 sm:mt-12 w-full max-w-4xl mx-auto border-t border-olive-500/30 pt-6 sm:pt-8">
+            <dl className="grid grid-cols-2 lg:grid-cols-4 gap-6 sm:gap-8 lg:gap-16 justify-center">
               {[
                 { value: stats.countries, label: "Countries" },
                 { value: stats.oils, label: "Award-Winning Oils" },
@@ -80,10 +80,10 @@ export default function HomePage() {
                 { value: stats.awards, label: "Prizes Awarded" },
               ].map((s) => (
                 <div key={s.label}>
-                  <dt className="font-serif text-3xl font-bold text-gold-400">
+                  <dt className="font-serif text-2xl sm:text-3xl font-bold text-gold-400">
                     {s.value}
                   </dt>
-                  <dd className="mt-0.5 text-xs font-semibold uppercase tracking-[0.15em] text-olive-200">
+                  <dd className="mt-0.5 text-[10px] sm:text-xs font-semibold uppercase tracking-[0.15em] text-olive-200">
                     {s.label}
                   </dd>
                 </div>
@@ -93,29 +93,29 @@ export default function HomePage() {
         </section>
 
         {/* SPONSORS MARQUEE */}
-        <section className="relative z-10 py-6 overflow-hidden border-t border-olive-500/30 shrink-0">
-          <div className="container-page mb-4 text-center">
+        <section className="relative z-10 py-4 sm:py-6 overflow-hidden border-t border-olive-500/30 shrink-0 bg-olive-950/20 backdrop-blur-md">
+          <div className="container-page mb-3 text-center">
             <p className="text-[10px] font-semibold uppercase tracking-[0.25em] text-olive-300">
               Official Partners &amp; Sponsors
             </p>
           </div>
           <div className="relative flex overflow-hidden">
             {/* gradient fade edges using black/transparent to blend with the overlay */}
-            <div className="pointer-events-none absolute inset-y-0 left-0 z-10 w-24 bg-gradient-to-r from-[#172016] to-transparent" />
-            <div className="pointer-events-none absolute inset-y-0 right-0 z-10 w-24 bg-gradient-to-l from-[#172016] to-transparent" />
+            <div className="pointer-events-none absolute inset-y-0 left-0 z-10 w-16 sm:w-24 bg-gradient-to-r from-olive-950/80 to-transparent" />
+            <div className="pointer-events-none absolute inset-y-0 right-0 z-10 w-16 sm:w-24 bg-gradient-to-l from-olive-950/80 to-transparent" />
 
-            <div className="animate-marquee flex shrink-0 items-center gap-12 whitespace-nowrap">
+            <div className="animate-marquee flex shrink-0 items-center gap-8 sm:gap-12 whitespace-nowrap">
               {[...SPONSORS, ...SPONSORS].map((s, i) => (
                 <div
                   key={i}
-                  className="flex h-16 w-36 shrink-0 items-center justify-center rounded-xl bg-white/10 px-4 backdrop-blur-sm"
+                  className="flex h-12 w-28 sm:h-16 sm:w-36 shrink-0 items-center justify-center rounded-xl bg-white/10 px-3 sm:px-4"
                 >
                   <Image
                     src={`/sponsors/${s.file}.png`}
                     alt={s.alt}
                     width={120}
                     height={56}
-                    className="max-h-12 w-auto object-contain"
+                    className="max-h-8 sm:max-h-12 w-auto object-contain"
                   />
                 </div>
               ))}
