@@ -1,5 +1,5 @@
 import type { Metadata } from "next";
-import ProducerCard from "@/components/ProducerCard";
+import ProducersExplorer from "@/components/ProducersExplorer";
 import {
   getAllProducers,
   getOilsByProducer,
@@ -13,35 +13,31 @@ export const metadata: Metadata = {
 };
 
 export default function ProducersPage() {
-  const producers = [...getAllProducers()].sort((a, b) => {
+  const producersData = [...getAllProducers()].map((producer) => ({
+    ...producer,
+    awardCount: getProducerAwardCount(producer.slug),
+    oilCount: getOilsByProducer(producer.slug).length,
+  })).sort((a, b) => {
     const aHasLogo = !!a.logo;
     const bHasLogo = !!b.logo;
     if (aHasLogo && !bHasLogo) return -1;
     if (!aHasLogo && bHasLogo) return 1;
-    return getProducerAwardCount(b.slug) - getProducerAwardCount(a.slug);
+    return b.awardCount - a.awardCount;
   });
 
   return (
     <div className="container-page py-12">
-      <header className="border-b border-olive-200 pb-6">
+      <header className="border-b border-olive-200 pb-6 mb-8">
         <h1 className="font-serif text-3xl font-bold text-olive-900">
           Producers
         </h1>
         <p className="mt-2 text-olive-600">
-          {producers.length} estates and mills behind the Terra Olivo winners,
+          {producersData.length} estates and mills behind the Terra Olivo winners,
           ranked by prizes won.
         </p>
       </header>
-      <div className="mt-8 grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
-        {producers.map((producer) => (
-          <ProducerCard
-            key={producer.slug}
-            producer={producer}
-            awardCount={getProducerAwardCount(producer.slug)}
-            oilCount={getOilsByProducer(producer.slug).length}
-          />
-        ))}
-      </div>
+      
+      <ProducersExplorer producers={producersData} />
     </div>
   );
 }
