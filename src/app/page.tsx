@@ -24,7 +24,7 @@ export default function HomePage() {
     <>
       {/* ── HERO & SPONSORS (Combined Background) ─────────────────── */}
       <div 
-        className="relative text-cream bg-cover bg-center bg-no-repeat min-h-[100dvh] flex flex-col justify-between overflow-hidden"
+        className="relative text-cream bg-cover bg-center bg-no-repeat h-[calc(100dvh-64px)] flex flex-col justify-between overflow-hidden"
         style={{ backgroundImage: "url('/images/bg_main.png')" }}
       >
         {/* Subtle dark overlay to ensure text readability across both sections */}

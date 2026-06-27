@@ -1,6 +1,16 @@
+"use client";
+
 import Link from "next/link";
+import { usePathname } from "next/navigation";
 
 export default function Footer() {
+  const pathname = usePathname();
+
+  // Hide footer on the homepage so it stays a single-screen experience
+  if (pathname === "/") {
+    return null;
+  }
+
   return (
     <footer className="mt-20 border-t-4 border-terracotta-500 bg-olive-900 text-cream">
       <div className="container-page grid gap-8 py-12 sm:grid-cols-3">
