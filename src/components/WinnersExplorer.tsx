@@ -27,6 +27,8 @@ export default function WinnersExplorer({
   const [country, setCountry] = useState<string>(ALL);
   const [variety, setVariety] = useState<string>(ALL);
 
+  const [showFilters, setShowFilters] = useState(false);
+
   const results = useMemo(() => {
     const q = query.trim().toLowerCase();
     return oils.filter((oil) => {
@@ -75,12 +77,22 @@ export default function WinnersExplorer({
     variety !== ALL;
 
   const selectClass =
-    "rounded-lg border border-olive-300 bg-white px-3 py-2 text-sm text-olive-900 focus:border-olive-600 focus:outline-none";
+    "rounded-lg border border-olive-300 bg-white px-3 py-2 text-sm text-olive-900 focus:border-olive-600 focus:outline-none w-full";
 
   return (
     <div>
       <div className="rounded-xl border border-olive-200 bg-white p-4">
-        <div className="grid gap-3 sm:grid-cols-2 lg:grid-cols-5">
+        {/* Mobile toggle button */}
+        <button
+          type="button"
+          onClick={() => setShowFilters(!showFilters)}
+          className="flex w-full items-center justify-between lg:hidden text-olive-900 font-semibold mb-2"
+        >
+          <span>Filters</span>
+          <span className="text-xl leading-none">{showFilters ? "−" : "+"}</span>
+        </button>
+
+        <div className={`${showFilters ? "grid" : "hidden"} lg:grid gap-3 sm:grid-cols-2 lg:grid-cols-5`}>
           <input
             type="search"
             value={query}
@@ -144,7 +156,7 @@ export default function WinnersExplorer({
             ))}
           </select>
         </div>
-        <div className="mt-3 flex items-center justify-between">
+        <div className={`mt-3 flex items-center justify-between ${!showFilters ? 'lg:flex' : ''}`}>
           <p className="text-sm text-olive-600">
             {results.length} {results.length === 1 ? "winner" : "winners"}
           </p>
@@ -161,7 +173,7 @@ export default function WinnersExplorer({
       </div>
 
       {results.length > 0 ? (
-        <div className="mt-8 grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
+        <div className="mt-6 grid gap-2 sm:gap-6 grid-cols-3 lg:grid-cols-4">
           {results.map((oil) => (
             <OilCard key={oil.slug} oil={oil} />
           ))}
